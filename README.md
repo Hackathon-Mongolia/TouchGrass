@@ -13,13 +13,12 @@ A collaboration between two organizations. **Hackathon Mongolia**, this GitHub o
 
 | Document | What it is | For |
 |---|---|---|
-| [Sponsorship proposal](docs/01-sponsorship-proposal.md) · [Word](docs/01-sponsorship-proposal.docx) | summary, why, event, organizers, tiers, deliverables, budget, how to say yes, meeting kit, Mongolian summary | companies; the co-organizer carries it into meetings |
+| [Sponsorship proposal](docs/01-sponsorship-proposal.md) · [Word](docs/01-sponsorship-proposal.docx) | summary, why, the event, organizers, tiers, where the money goes, how to say yes, Mongolian summary | companies; the co-organizer carries it into meetings |
 | [Theme, tracks, judging and agenda](docs/02-theme-tracks-judging-agenda.md) · [Word](docs/02-theme-tracks-judging-agenda.docx) | the six tracks with evidence and data sources, the 24-statement problem bank, rules, rubric, judging flow, minute-by-minute agenda, people to recruit | participants, mentors, judges, the operations team |
 | [Master plan, 31 days](docs/03-master-plan-31-days.md) · [Word](docs/03-master-plan-31-days.docx) | goals, decisions, team structure, day-by-day timeline with gates, budget, risks, registration and consent, day-of checklists, after the event | the organizing team |
 | [Timeline](docs/04-timeline.md) · [Word](docs/04-timeline.docx) · [CSV](docs/04-timeline.csv) | every task from Oct 8 to Nov 13 by day and by team, the four gates, the weekly rhythm; the CSV imports into Google Sheets or Calendar | team leads |
 | [Sponsor guide](docs/05-sponsor-guide.md) · [Word](docs/05-sponsor-guide.docx) | explains to a company what a hackathon is, how the money path works, what each tier benefit means, what we need from them and when, what their people do on the day, rules of engagement, FAQ; Mongolian summary | sponsors, after they say yes or while deciding |
 | [Staff guide](docs/06-staff-guide.md) · [Word](docs/06-staff-guide.docx) | what a hackathon is for people who have run MUNs, how we are organized, what each team owns, stations and shifts on the day, how to behave with participants, safety and the overnight, judging day, mentor and judge briefs, glossary, FAQ | every organizer and volunteer |
-| [Reference kit](reference-sept-kit/) | the September draft; templates for registration, consent, venue asks, checklists, comms | reuse with new dates |
 
 ## Key dates
 

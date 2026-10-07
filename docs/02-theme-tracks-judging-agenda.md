@@ -7,7 +7,7 @@ Prepared October 7, 2026.
 
 ## 1. The name and the theme
 
-**Name: Touch Grass.** Online it means "go outside, log off, breathe." In Ulaanbaatar the joke turns serious: going outside in January is a health decision, and the ground, the water and the stove are too. The name says the thesis in two words, and it is funnier than anything a ministry would pick, which is the point for a youth event. Use it with the straight subtitle so sponsors know what it is.
+**Name: Touch Grass.** Online it means "go outside, log off, breathe." In Ulaanbaatar the joke turns serious: going outside in January is a health decision, and the ground, the water and the stove are too. The name says the thesis in two words and sounds like something students chose, which is the point for a youth event. Use it with the straight subtitle so partners know what it is.
 
 **Working line:** *"The air we breathe, the water we drink, the ground we live on, the winters we survive."*
 **Shorter:** *Healthy city. Build it.*

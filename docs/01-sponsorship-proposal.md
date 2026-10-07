@@ -1,11 +1,9 @@
 # Touch Grass — Sponsorship Proposal
 ## A 24-hour youth hackathon on health and the environment · Mongolia · November 7–8, 2026
 
-Part A is for companies. Part B is for the organizing team only; cut it before the document leaves the team. Square brackets are facts still to fill in.
+Square brackets are facts still to fill in.
 
 ---
-
-# Part A · For sponsors
 
 ## Touch Grass in one page
 
@@ -112,51 +110,3 @@ All payments go through Uram Enerel's account with receipts. The itemized ledger
 **Шийдвэрийн хугацаа: 2026 оны 10-р сарын 25.** Холбоо барих: [нэр, утас, имэйл].
 
 ---
-
-# Part B · For the organizing team only
-
-## The 90-second pitch
-
-"We are running Touch Grass, Mongolia's first student-led health and environment hackathon: 220 students, 24 hours, November 7 to 8. Teams build working prototypes for six specific problems: winter air and children's lungs, carbon monoxide in heated homes, contaminated wells and soil, waste, dzud and cold-wave health risks, and connecting environmental data to hospitals. Hackathon Mongolia runs the program; Uram Enerel, a registered youth health NGO with 15 school chapters, hosts it legally and is recognized by [government body]. Engineers and doctors judge. We are asking [company] to be the [tier] sponsor at [amount]. You get your name on a track, a judge seat, a workshop with 220 students, the winning prototypes first, and a report with numbers within a week. Commitments close October 25."
-
-## Questions you will get
-
-- *Is this legal and deductible for us?* You pay Uram Enerel, a registered NGO, under a sponsorship contract and receive an e-barimt invoice for advertising services. Donations are not deductible for companies; advertising is.
-- *What exactly do we get?* The tier table. Hand them the page.
-- *Can we set our track's problem?* Yes, co-written with us by October 28, inside the theme.
-- *Can we recruit?* Workshop, conversations, and opt-in CVs. No mandatory data collection.
-- *Can we judge our own track?* One of three seats on the panel. The rubric decides.
-- *How big is the prize?* "At least 5,000,000 MNT for the top three, split 50 / 30 / 20, and it grows with every prize-pool sponsor." Never name a higher figure before October 25.
-- *What if too few register?* Weekly numbers to sponsors; under 150 we scale the budget and refund or roll over the difference, in the contract.
-- *Why not an established event?* There is none. Nothing independent has passed 150 people since 2021.
-- *Can we pay in kind?* Yes, at the tier the market value matches.
-
-## Email template
-
-Subject: Sponsor Touch Grass, Mongolia's first youth health × environment hackathon, Nov 7–8
-
-> Dear [name],
->
-> Uram Enerel NGO (Uram Care) and the Hackathon Mongolia student collective are running Touch Grass, a 24-hour hackathon on November 7–8, 2026 for 220+ students, on health problems with environmental causes: winter air pollution, carbon monoxide poisoning, contaminated water and soil, waste, and climate shocks. Teams build working prototypes in six tracks, judged by engineers and doctors. The event is recognized by [government body].
->
-> We are asking [company] to be our [tier] sponsor at [amount] MNT, or to provide [the venue / meals / merchandise / prizes] in kind. In return: [two or three benefits]. Sponsorship is contracted and invoiced through Uram Enerel NGO as advertising services.
->
-> The proposal is attached. Could we meet for 20 minutes this week? Commitments close October 25.
->
-> [name, title, phone]
-
-## What sponsors receive, and when
-
-| When | Deliverable |
-|---|---|
-| On signing | logo on the website, registration page and announcements within 48 hours |
-| Oct 25 to Nov 6 | track problem statements agreed by Oct 28; judges and speakers briefed Nov 6 |
-| Nov 7 | opening slots (title, track); workshops (track); stage thanks at meals; logo on signage, table cards and the countdown screen |
-| Nov 8 | judge seats; prize presentations; group photo with winners |
-| Nov 9 to 10 | results post and thank-you post with logos |
-| By Nov 13 | written report: participants, institutions, teams, projects with links, photos, media, survey, itemized spending |
-| After | introductions to winning teams on request; opt-in CVs (title and track) |
-
-## Target list, by tier fit
-
-Title and venue: banks, telecoms, a mining or energy company's CSR, a university or a sponsor's headquarters for the hall. Tracks: a hospital or clinic group for clean air, an insurer for safe heat, a water or beverage company for ground and water, a retailer or packaging company for waste, an insurer or telecom with rural reach for climate shocks, a bank or fintech data team for health data. Food: a food or beverage company. Merchandise: an apparel or print company. Keep 30 names in the finance team's sheet with tier, contact, date asked, status.

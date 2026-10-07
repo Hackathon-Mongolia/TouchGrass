@@ -70,7 +70,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 What the words mean in practice:
 
 - **Every surface**: the website, the registration page, every announcement and results post, the printed poster and signage, the table cards on all 55 tables, the countdown screen that is on for 24 hours, the stage backdrop, and the t-shirts.
-- **Opening slot**: five minutes on stage at 12:00 Saturday in front of all participants, before hacking starts. A minute about who you are and why you are here lands well; a product pitch to tired teenagers does not.
+- **Opening slot**: five minutes on stage at 12:00 Saturday in front of all participants, before hacking starts. A minute on who you are and why you are here lands well; a product pitch does not.
 - **Judge seat**: one of three judges on a track panel, or one on the final panel for the title sponsor. Judges follow the published rubric, score independently, and do not judge teams from their own company or school.
 - **Workshop**: fifteen minutes on Saturday afternoon in the side area, on anything useful to the teams: your data, your API, your problem, how your engineers would approach it.
 - **Co-writing problem statements**: track sponsors may replace one of their track's four problem statements with their own, agreed with the organizers by October 28 and inside the health and environment theme.

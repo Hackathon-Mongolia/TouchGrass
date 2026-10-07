@@ -48,7 +48,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 |---|---|---|
 | Visual identity: logo, colors, shirt design | marketing | Oct 9 |
 | Venue, including overnight permission and two sleeping rooms | logistics + co-organizer | Oct 14 gate |
-| Who owns program and judging (hackathon-specific work MUN experience does not cover) | Anar, within operations | Oct 8 |
+| Who owns program and judging (the hackathon-specific work: problem bank, submission platform, mentors, judging) | Anar, within operations | Oct 8 |
 | Submission platform: Devpost vs own form | operations | Oct 20 |
 | Final prize pool size above the 5M floor, set by what sponsors commit; announced Oct 26 | finance | Oct 25 |
 | Night-shift adults: 6 needed for 220 | operations + adult lead | Oct 27 gate |
@@ -149,11 +149,11 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 
 ## 5. Budget (MNT)
 
-Cash flows only through Uram Enerel NGO. Figures below use your numbers where you gave them: venue 20M for two days, food 10M, staff 3M. The prize pool is planned at its 15M target; the public commitment is 5M and up. Merchandise and supplies are estimates for Ulaanbaatar print shops and markets; get two quotes each by Oct 17.
+Cash flows only through Uram Enerel NGO. Figures below use the organizers' estimates: venue 20M for two days, food 10M, staff 3M. The prize pool is planned at its 15M target; the public commitment is 5M and up. Merchandise and supplies are estimates for Ulaanbaatar print shops and markets; get two quotes each by Oct 17.
 
 | Line | Amount | Note |
 |---|---|---|
-| Venue, two days including overnight | 20,000,000 | your estimate; zero if a venue partner gives the hall in kind |
+| Venue, two days including overnight | 20,000,000 | estimate; zero if a venue partner gives the hall in kind |
 | Cash prize pool, top three, 50 / 30 / 20 | 15,000,000 target; 5,000,000 floor | at the target 7.5M / 4.5M / 3M; at the floor 2.5M / 1.5M / 1M; 5% personal income tax withheld by Uram Enerel on payout |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 | about 37,700 per person over 24 hours; tight, so boxed lunches and a hot dinner, and ask the food sponsor for catering in kind to top it up |
 | Judges, designers, finance support | 3,000,000 | honoraria and design work; judges from sponsors cost nothing |
