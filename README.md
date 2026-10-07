@@ -5,6 +5,10 @@ Ulaanbaatar · Saturday November 7 – Sunday November 8, 2026 · 220+ students 
 
 *The air we breathe, the water we drink, the ground we live on, the winters we survive.*
 
+## Who runs it
+
+A collaboration between two organizations. **Hackathon Mongolia**, this GitHub organization, is a student-run collective that designs and runs the program; it is not a registered entity and holds no money. **Uram Enerel NGO**, known publicly as Uram Care, is a registered, government-recognized youth health NGO with 1,500+ volunteers and 15+ school chapters across Mongolia; it is the legal host: contracts, bank account, receipts, government letters, school outreach, health-side judges.
+
 ## Documents
 
 | Document | What it is | For |
@@ -35,4 +39,4 @@ Two main organizers; four teams: logistics, finance, marketing, operations. Resp
 
 About 63M MNT with a paid venue, about 43M if the hall is in kind; 15M of it is the cash prize pool for the top three, split 50 / 30 / 20.
 
-Square brackets anywhere in the documents mark facts still to fill in: NGO name and details, venue, government body, contacts.
+Square brackets anywhere in the documents mark facts still to fill in: the government body and form of recognition, Uram Enerel's registration details, venue, team numbers, contacts.

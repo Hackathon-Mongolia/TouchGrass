@@ -33,8 +33,9 @@ Prepared Tuesday October 7, 2026. Event Saturday November 7 to Sunday November 8
 | Scale | 220+ attending, plan for 260 registrations, cap 300 |
 | Audience | students 16–24, high school and university, free entry |
 | Theme | Health × Environment, six tracks, 24-statement problem bank |
-| Legal host | [NGO], signs contracts, receives funds, pays vendors, issues e-barimt |
-| Recognition | [government body], [form] |
+| Organizers | Hackathon Mongolia, a student collective (GitHub org Hackathon-Mongolia, not a registered entity), runs the program; Uram Enerel NGO (Uram Care), registered and government-recognized, is the legal host |
+| Legal host | Uram Enerel NGO: signs contracts, receives funds, pays vendors, issues e-barimt, reports |
+| Recognition | through Uram Enerel: [government body], [form]; Hackathon Mongolia itself has no registration and needs none |
 | Main organizers | [co-organizer] and Anar |
 | Teams | logistics, finance, marketing, operations |
 | Prizes | cash pool 15,000,000 MNT for the top three, 50 / 30 / 20; range 10–20M depending on sponsors; track awards are certificates plus sponsor prizes |
@@ -57,13 +58,13 @@ Prepared Tuesday October 7, 2026. Event Saturday November 7 to Sunday November 8
 
 ## 3. Organizing structure
 
-Two main organizers decide; four teams execute. MUN organizing covers most of this well: registration, venue, delegates, food, sponsors, ceremonies. The parts a MUN does not have are the problem statements, the submission platform, mentors, judging logistics and the overnight. Those sit in operations under one named owner who has done a hackathon.
+Two organizations, two main organizers, four teams. Hackathon Mongolia owns everything about the program and the participants. Uram Enerel owns everything that needs a legal entity: contracts, bank account, receipts, government letters, plus the school-chapter outreach and health-side judges. Two main organizers decide; four teams execute. MUN organizing covers most of this well: registration, venue, delegates, food, sponsors, ceremonies. The parts a MUN does not have are the problem statements, the submission platform, mentors, judging logistics and the overnight. Those sit in operations under one named owner who has done a hackathon.
 
 | Team | Owns | Lead |
 |---|---|---|
 | **Main organizers** | gates, partners, sponsor meetings (co-organizer), documents and program (Anar), stage | [co-organizer], Anar |
 | **Logistics** | venue contract and walk-through, tables and power for 55 teams, wifi with the telecom sponsor, signage, supplies, catering quotes and orders, delivery timing, sleeping rooms, security, cleanup | [name] |
-| **Finance** | NGO money flow, sponsor contracts and invoices, budget, ledger with receipts, prizes and prize tax, post-event financial report | [name] |
+| **Finance** | money flow through Uram Enerel, sponsor contracts and invoices, budget, ledger with receipts, prizes and prize tax, post-event financial report; works directly with Uram Enerel's accountant | [name] |
 | **Marketing** | name and identity, website or Facebook event, registration form, school and university outreach, group chat, info emails, social posts, media, photographer, results post | [name] |
 | **Operations** | run-of-show, check-in, claim board, submission platform, mentors, judges and rubric, workshops, volunteer roster, night shift, consent forms, safety, judging tally | [name] |
 | **Adult lead** | signs venue and sponsor documents with the NGO, responsible on site 24 hours, on call overnight | [name] |
@@ -97,7 +98,7 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 | Tue Oct 14 | **Venue gate.** Written confirmation with overnight access and two sleeping rooms, or switch to the second candidate today; daytime-only yes means Plan B. | M, L |
 | Wed Oct 15 | Telecom sponsor ask for wifi and a backup line, with the venue's floor plan. | L, co-organizer |
 | Thu Oct 16 | Ask 30 potential mentors and 25 potential judges, three per track plus reserves. Send the judge brief. | O |
-| Fri Oct 17 | Two catering quotes for 260 people, five meals and snacks. School and university outreach: 25 institutions, one teacher or club contact each. | L, K |
+| Fri Oct 17 | Two catering quotes for 260 people, five meals and snacks. School and university outreach: Uram Care's 15+ school chapters first, then 25 institutions with one teacher or club contact each. | L, K |
 | Sat Oct 18 | Track sponsors confirmed so far receive the problem-statement co-writing invite. | F, O |
 | Sun Oct 19 | All-hands 2. Registration check: 80+ on track. | M |
 | Mon Oct 20 | Submission platform decided and set up; dummy submission tested. | O |
@@ -148,7 +149,7 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 
 ## 5. Budget (MNT)
 
-Cash flows only through [NGO]. Figures below use your numbers where you gave them: venue 20M for two days, food 10M, prize pool 15M, staff 3M. Merchandise and supplies are estimates for Ulaanbaatar print shops and markets; get two quotes each by Oct 17.
+Cash flows only through Uram Enerel NGO. Figures below use your numbers where you gave them: venue 20M for two days, food 10M, prize pool 15M, staff 3M. Merchandise and supplies are estimates for Ulaanbaatar print shops and markets; get two quotes each by Oct 17.
 
 | Line | Amount | Note |
 |---|---|---|
@@ -186,7 +187,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 
 **Minimum viable version** if the money gate fails on Oct 25: prize pool drops to 10M, shirts cut, venue partner in kind or Plan B at a free university hall, sponsors pay the caterer directly. Cash needed then: about 15,000,000.
 
-**Rules for money.** Every payment from the NGO account with an e-barimt. Sponsorship invoiced as advertising services under Advertising Law article 19. Cash prizes carry 5 percent personal income tax withheld by the NGO. One ledger sheet, shared with sponsors in the report.
+**Rules for money.** Every payment from Uram Enerel's account with an e-barimt. Sponsorship invoiced as advertising services under Advertising Law article 19. Cash prizes carry 5 percent personal income tax withheld by the NGO. One ledger sheet, shared with sponsors in the report.
 
 ---
 

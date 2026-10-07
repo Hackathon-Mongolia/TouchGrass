@@ -163,7 +163,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 | 10:00 | Organizers arrive. 55 tables, 60 power strips, signage, check-in desk, projector and wifi test, sleeping rooms labeled, claim board up |
 | 10:30 | Volunteers and day mentors arrive; 15-minute briefing |
 | 11:00 | Doors. Check-in on four lines by surname. Snacks and water out |
-| 12:00 | Opening, 30 minutes: welcome; [NGO] and [government body]; title sponsor 5 min; the six tracks in one minute each by their sponsors or the organizers; rules, schedule, safety and overnight rules |
+| 12:00 | Opening, 30 minutes: welcome from Hackathon Mongolia; Uram Enerel and [government body]; title sponsor 5 min; the six tracks in one minute each by their sponsors or the organizers; rules, schedule, safety and overnight rules |
 | 12:30 | Team formation: solo participants pitch for 60 seconds; teams claim a statement on the board |
 | 13:00 | **Hacking starts.** Clock starts. Lunch boxes at tables |
 | 14:00 | Claim board closes; shared-statement teams have declared their distinct user |
@@ -209,11 +209,11 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 ## 7. Participants, mentors, judges
 
-**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Half from high schools, half from universities, 25+ institutions. Registration opens October 12 and closes November 3.
+**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Half from high schools, half from universities, 25+ institutions. Uram Care's 15+ school chapters are the first recruitment channel: one post in each chapter's group the day registration opens. Registration opens October 12 and closes November 3.
 
 **Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by October 30.
 
-**Judges, 18.** Three per track: one engineer or data scientist, one health or environment professional (MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by October 30, brief on November 6 and again at 11:00 on the day.
+**Judges, 18.** Three per track: one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by October 30, brief on November 6 and again at 11:00 on the day.
 
 **Workshop speakers, 2.** One for data sources, one for demos. Can be mentors.
 

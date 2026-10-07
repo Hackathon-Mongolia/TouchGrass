@@ -1,7 +1,7 @@
 # Touch Grass — Sponsorship Proposal
 ## A 24-hour youth hackathon on health and the environment · Ulaanbaatar · November 7–8, 2026
 
-Prepared October 7, 2026. Square brackets mark facts to fill in before this goes to a company.
+Prepared October 7, 2026. Square brackets mark facts to fill in before this goes to a company: the government body and form of recognition, Uram Enerel's registration details, the venue, team numbers, contacts.
 
 ---
 
@@ -15,7 +15,7 @@ Prepared October 7, 2026. Square brackets mark facts to fill in before this goes
 
 **Where:** [venue], Ulaanbaatar. Confirmed by October 14.
 
-**Who:** Organized by [NGO name], a registered Mongolian NGO [founded year, field], together with a student organizing team of [N] with experience running [MUN conferences / events for N+ participants]. Recognized by [government body]. Responsible adult: [name, title].
+**Who:** A collaboration between two organizations. **Hackathon Mongolia** is a student-run organizing collective (github.com/Hackathon-Mongolia) that designs and runs the program. **Uram Enerel NGO**, known publicly as Uram Care, is a registered Mongolian youth health NGO with 1,500+ volunteers and 15+ school chapters across Mongolia; it is the legal host, holds the money, and brings its school network and health expertise. Uram Enerel is recognized by [government body]. The organizing team of [N] has run [N] Model United Nations conferences for [N]+ delegates. Responsible adult: [name, title].
 
 **Who comes:** High school and university students aged 16 to 24, free of charge. Target 220 attending from 25+ schools and universities. Mentors from industry and universities; a judging panel of engineers, doctors, environmental scientists and sponsor representatives.
 
@@ -65,11 +65,11 @@ The six tracks and the problem bank are in the companion document "Theme, Tracks
 
 ## 4. Who is behind it
 
-**[NGO name]** — registered NGO, [registration year], [one sentence on its mission and past programs, with one number]. The NGO is the legal host: it signs sponsorship contracts, receives funds, pays vendors, issues receipts and reports.
+Touch Grass is run by two organizations with clear roles.
 
-**Organizing team** — [N] students led by [co-organizer name] and Anar Tuvshinbayar. The team has organized [N] Model United Nations conferences for [N]+ delegates [and other events]. Teams: logistics, finance, marketing, operations.
+**Hackathon Mongolia** — a student-run organizing collective, not a registered entity, which is why no contract or money goes through it. It owns the program: the theme and tracks, the problem bank, registration, mentors, judges and rubric, the run-of-show, and these documents. Its public home is github.com/Hackathon-Mongolia. Led by Anar Tuvshinbayar and [co-organizer name]. The team of [N] has organized [N] Model United Nations conferences for [N]+ delegates.
 
-**Government recognition** — [body, form of recognition: letter / co-organizer / patron]. [Attach or reference the letter.]
+**Uram Enerel NGO (Uram Care)** — a registered Mongolian youth health NGO and the event's legal host. It signs the sponsorship and venue contracts, receives funds, pays vendors, issues e-barimt receipts and reports. It also brings what a health hackathon needs: a network of 1,500+ volunteers and 15+ school chapters across Mongolia for participant recruitment, health professionals for the judging panels, and a track record in youth health programs: health and wellbeing classes, health kits, awareness campaigns, community diagnostic initiatives, and 8,000+ handmade get-well cards delivered to patients. Uram Enerel is recognized by [government body: fill in the exact body and the form of recognition]. [Registration number, year founded, director.]
 
 **Responsible adult** — [name, title, organization], present throughout the event and on call overnight.
 
@@ -109,7 +109,7 @@ Every sponsor, at every tier, receives: logo on the website and results post, me
 
 ## 7. Where the money goes
 
-Budget for 220 participants over 24 hours, in MNT. All payments go through [NGO]'s account with receipts, and the itemized ledger is shared with every sponsor in the final report.
+Budget for 220 participants over 24 hours, in MNT. All payments go through Uram Enerel's account with receipts, and the itemized ledger is shared with every sponsor in the final report.
 
 | Item | Amount |
 |---|---|
@@ -134,26 +134,26 @@ Wifi is provided by the venue. If the venue partner provides the hall in kind, t
 ## 8. How to say yes
 
 1. Reply to [co-organizer name] by **October 25, 2026** with the tier you want.
-2. [NGO] sends a one-page sponsorship contract: amount, payment date, the exact benefits of your tier, logo usage, refund or roll-over if the event is cancelled, and no control over judging or program.
-3. [NGO] invoices the sponsorship as advertising services and issues an e-barimt receipt. Under Article 19 of the Law on Advertising, a sponsor's contribution to an advertising distributor under contract is counted as advertising payment, so it books as an ordinary marketing expense rather than a non-deductible donation. Product prizes are welcome and avoid prize-tax paperwork; cash prizes paid to winners carry 5 percent personal income tax, which [NGO] withholds and remits.
+2. Uram Enerel sends a one-page sponsorship contract: amount, payment date, the exact benefits of your tier, logo usage, refund or roll-over if the event is cancelled, and no control over judging or program.
+3. Uram Enerel invoices the sponsorship as advertising services and issues an e-barimt receipt. Under Article 19 of the Law on Advertising, a sponsor's contribution to an advertising distributor under contract is counted as advertising payment, so it books as an ordinary marketing expense rather than a non-deductible donation. Product prizes are welcome and avoid prize-tax paperwork; cash prizes paid to winners carry 5 percent personal income tax, which Uram Enerel withholds and remits.
 4. Send your logo files and a 40-word description for the website.
 5. Name your judge and, for track sponsors, your workshop speaker by October 30.
 
 **Contacts**
 [Co-organizer name, title, phone, email]
 Anar Tuvshinbayar, co-organizer, [phone, email]
-[NGO name, address, registration number, bank]
+Uram Enerel NGO (Uram Care), [address, registration number, bank]
 
 ---
 
 ## 9. Meeting kit for the co-organizer
 
 **The 90-second pitch.**
-"We are running Touch Grass, Mongolia's first student-led health and environment hackathon: 220 students, 24 hours, November 7 to 8. Teams build working prototypes for six specific problems: children's exposure to winter air pollution, carbon monoxide poisoning from briquettes, contaminated well water in ger districts, waste, dzud and cold-wave health risks, and connecting environmental data to hospitals. The event is hosted by [NGO], recognized by [government body], and judged by engineers and doctors. We are asking [company] to be the [tier] sponsor at [amount]. You get your name on a track, a judge seat, a workshop with 220 students, the winning prototypes first, and a report with numbers within a week. Commitments close October 25."
+"We are running Touch Grass, Mongolia's first student-led health and environment hackathon: 220 students, 24 hours, November 7 to 8. Teams build working prototypes for six specific problems: children's exposure to winter air pollution, carbon monoxide poisoning from briquettes, contaminated well water in ger districts, waste, dzud and cold-wave health risks, and connecting environmental data to hospitals. The event is a collaboration between Hackathon Mongolia, our student organizing collective, and Uram Enerel NGO, a registered youth health NGO with 15 school chapters that hosts it legally and is recognized by [government body]. It is judged by engineers and doctors. We are asking [company] to be the [tier] sponsor at [amount]. You get your name on a track, a judge seat, a workshop with 220 students, the winning prototypes first, and a report with numbers within a week. Commitments close October 25."
 
 **Questions you will get, and the answers.**
 
-- *Is sponsoring students legal and deductible for us?* You pay [NGO], a registered NGO, under a sponsorship contract, and receive an e-barimt invoice for advertising services. Plain donations are not deductible for companies, so we structure it as advertising, which is deductible.
+- *Is sponsoring students legal and deductible for us?* You pay Uram Enerel, a registered NGO, under a sponsorship contract, and receive an e-barimt invoice for advertising services. Plain donations are not deductible for companies, so we structure it as advertising, which is deductible.
 - *What exactly do we get for the money?* The tier table, nothing more and nothing less. Hand them the page.
 - *Can we set the problem for our track?* Yes. Track sponsors co-write the problem statements with us by October 28, within the health and environment theme.
 - *Can we recruit?* You can run a workshop, talk to participants, and receive CVs of those who opt in. No mandatory data collection.
@@ -168,9 +168,9 @@ Subject: Sponsor Touch Grass, Mongolia's first youth health × environment hacka
 
 > Dear [name],
 >
-> [NGO] and a student organizing team are running Touch Grass, a 24-hour hackathon on November 7–8, 2026 for 220+ students, on the health problems caused by Ulaanbaatar's environment: winter air pollution and children's lungs, carbon monoxide poisoning, contaminated water and soil in ger districts, waste, and climate shocks. Teams build working prototypes in six tracks, judged by engineers and doctors. The event is recognized by [government body].
+> Uram Enerel NGO (Uram Care) and the Hackathon Mongolia student collective are running Touch Grass, a 24-hour hackathon on November 7–8, 2026 for 220+ students, on the health problems caused by Ulaanbaatar's environment: winter air pollution and children's lungs, carbon monoxide poisoning, contaminated water and soil in ger districts, waste, and climate shocks. Teams build working prototypes in six tracks, judged by engineers and doctors. The event is recognized by [government body].
 >
-> We are asking [company] to be our [tier] sponsor at [amount] MNT, or to provide [meals / the venue / merchandise / prizes] in kind. In return: [two or three benefits]. Sponsorship is contracted and invoiced through [NGO] as advertising services.
+> We are asking [company] to be our [tier] sponsor at [amount] MNT, or to provide [meals / the venue / merchandise / prizes] in kind. In return: [two or three benefits]. Sponsorship is contracted and invoiced through Uram Enerel NGO as advertising services.
 >
 > I have attached the proposal. Could we meet for 20 minutes this week? Commitments close October 25.
 >
@@ -185,7 +185,7 @@ Subject: Sponsor Touch Grass, Mongolia's first youth health × environment hacka
 
 **Юу болох вэ.** 220 гаруй ахлах ангийн сурагч, оюутан 55 орчим багт хуваагдан 24 цагийн дотор Улаанбаатарын хүрээлэн буй орчноос үүдэлтэй эрүүл мэндийн асуудлуудад ажиллах прототип бүтээнэ. Зургаан чиглэл: өвлийн агаарын бохирдол ба хүүхдийн уушгины өвчин; угаарын хийн хордлого; гэр хорооллын хөрс, худгийн усны бохирдол; хог хаягдал ба эрүүл мэнд; зуд, хүйтний давалгаа зэрэг уур амьсгалын эрсдэл; хүрээлэн буй орчны өгөгдлийг эмнэлэгтэй холбох. Инженер, эмч, байгаль орчны мэргэжилтнүүдээс бүрдсэн шүүгчид баг бүрийг дүгнэж, чиглэл тус бүрийн шилдэг баг тайзан дээр танилцуулна.
 
-**Хэн зохион байгуулах вэ.** [ТББ-ын нэр] ТББ болон [N] хүний бүрэлдэхүүнтэй сурагч, оюутны зохион байгуулагчдын баг. [Төрийн байгууллага]-ын дэмжлэгтэй. Хариуцах насанд хүрсэн хүн: [нэр, албан тушаал].
+**Хэн зохион байгуулах вэ.** Хоёр байгууллагын хамтын ажиллагаа: **Hackathon Mongolia** — хөтөлбөр, чиглэл, шүүлт, бүртгэлийг хариуцах сурагч, оюутны зохион байгуулагчдын нэгдэл; **Урам Энэрэл ТББ (Uram Care)** — улсын бүртгэлтэй, залуучуудын эрүүл мэндийн чиглэлийн ТББ, Монгол даяар 1,500 гаруй сайн дурынхан, 15 гаруй сургуулийн салбартай; гэрээ, санхүү, тайланг хариуцах хууль ёсны зохион байгуулагч. [Төрийн байгууллага]-ын дэмжлэгтэй. Хариуцах насанд хүрсэн хүн: [нэр, албан тушаал].
 
 **Яагаад одоо вэ.** Улаанбаатарт хүйтний улиралд PM2.5 тоосонцрын өдрийн дундаж 687 мкг/м³ хүрч байсан нь ДЭМБ-ын зөвлөмжөөс 27 дахин их. 2017–2024 онд угаарын хийн хордлогоор 779 хүн нас барсан. Гэр хорооллын хөрсний 88 хувь нянгаар бохирдсон. Эдгээр асуудалд залуучуудын технологийн авьяасыг чиглүүлсэн арга хэмжээ өнөөг хүртэл байгаагүй.
 
@@ -193,7 +193,7 @@ Subject: Sponsor Touch Grass, Mongolia's first youth health × environment hacka
 
 **Хүсэлт.** Ерөнхий ивээн тэтгэгч 20 сая төгрөг; танхимын түнш 20 сая төгрөг эсвэл танхимаар; чиглэлийн ивээн тэтгэгч 5 сая төгрөг (6 чиглэл); хоолны ивээн тэтгэгч 10 сая төгрөг эсвэл хоол хүнсээр; бэлэг дурсгал (220 цамц, наалт) бараагаар; шагналын санд оруулах хувь нэмэр. Нийт төсөв 63 сая төгрөг орчим, үүнээс 15 сая төгрөг нь шилдэг гурван багийн мөнгөн шагнал (50% / 30% / 20%).
 
-**Хууль, санхүү.** Гэрээг [ТББ] байгуулж, зар сурталчилгааны үйлчилгээний нэхэмжлэх, и-баримт олгоно (Зар сурталчилгааны тухай хуулийн 19 дүгээр зүйл). Санхүүгийн тайланг ивээн тэтгэгч бүрт хүргүүлнэ.
+**Хууль, санхүү.** Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний нэхэмжлэх, и-баримт олгоно (Зар сурталчилгааны тухай хуулийн 19 дүгээр зүйл). Санхүүгийн тайланг ивээн тэтгэгч бүрт хүргүүлнэ.
 
 **Шийдвэрийн хугацаа: 2026 оны 10-р сарын 25.**
 Холбоо барих: [нэр, утас, имэйл].
