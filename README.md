@@ -1,1 +1,38 @@
-# TouchGrass
+# Touch Grass
+
+A 24-hour youth hackathon on health and the environment.
+Ulaanbaatar · Saturday November 7 – Sunday November 8, 2026 · 220+ students · six tracks · 55 teams.
+
+*The air we breathe, the water we drink, the ground we live on, the winters we survive.*
+
+## Documents
+
+| Document | What it is | For |
+|---|---|---|
+| [Sponsorship proposal](docs/01-sponsorship-proposal.md) · [Word](docs/01-sponsorship-proposal.docx) | summary, why, event, organizers, tiers, deliverables, budget, how to say yes, meeting kit, Mongolian summary | companies; the co-organizer carries it into meetings |
+| [Theme, tracks, judging and agenda](docs/02-theme-tracks-judging-agenda.md) · [Word](docs/02-theme-tracks-judging-agenda.docx) | the six tracks with evidence and data sources, the 24-statement problem bank, rules, rubric, judging flow, minute-by-minute agenda, people to recruit | participants, mentors, judges, the operations team |
+| [Master plan, 31 days](docs/03-master-plan-31-days.md) · [Word](docs/03-master-plan-31-days.docx) | goals, decisions, team structure, day-by-day timeline with gates, budget, risks, registration and consent, day-of checklists, after the event | the organizing team |
+| [Reference kit](reference-sept-kit/) | the September draft; templates for registration, consent, venue asks, checklists, comms | reuse with new dates |
+
+## Key dates
+
+| Gate | Date |
+|---|---|
+| Registration opens | Sun Oct 12 |
+| Venue confirmed, overnight included | Tue Oct 14 |
+| Sponsor commitments close | Sat Oct 25 |
+| Night-shift adults confirmed | Mon Oct 27 |
+| Registration closes, headcount final | Tue Nov 3 |
+| Briefings and setup | Fri Nov 6 |
+| Event | Sat Nov 7 13:00 → Sun Nov 8 13:00, awards 16:20 |
+| Report to sponsors | Fri Nov 13 |
+
+## Teams
+
+Two main organizers; four teams: logistics, finance, marketing, operations. Responsibilities are in the master plan, section 3.
+
+## Budget in one line
+
+About 63M MNT with a paid venue, about 43M if the hall is in kind; 15M of it is the cash prize pool for the top three, split 50 / 30 / 20.
+
+Square brackets anywhere in the documents mark facts still to fill in: NGO name and details, venue, government body, contacts.
