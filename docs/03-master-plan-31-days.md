@@ -1,7 +1,7 @@
 # Touch Grass — Master Plan · 31 days to November 7
 ## A 24-hour youth hackathon on health and the environment · 220+ participants
 
-Prepared Tuesday October 7, 2026. Event Saturday November 7 to Sunday November 8.
+Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November 8.
 
 ---
 
@@ -69,7 +69,7 @@ Two organizations, two main organizers, four teams. Hackathon Mongolia owns ever
 | **Operations** | run-of-show, check-in, claim board, submission platform, mentors, judges and rubric, workshops, volunteer roster, night shift, consent forms, safety, judging tally | [name] |
 | **Adult lead** | signs venue and sponsor documents with the NGO, responsible on site 24 hours, on call overnight | [name] |
 
-**Weekly rhythm.** One 30-minute all-hands on Sunday evening with the gate status; team leads post a three-line update in the organizer chat every Wednesday. Decisions not made in those two places are made by the main organizers the same day.
+**Weekly rhythm.** One 30-minute all-hands on Sunday evening (Oct 11, 18, 25, Nov 1) with the gate status; team leads post a three-line update in the organizer chat every Wednesday. Decisions not made in those two places are made by the main organizers the same day.
 
 **Headcount for the event itself:** 2 main organizers, 4 team leads, ~10 more organizers and volunteers for check-in, floor, food and timekeeping; adult lead plus 5 night-shift adults; 20 mentors; 18 judges; 1 first aider; 1 photographer. About 60 people serving 220.
 
@@ -83,49 +83,49 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 
 | Date | Task | Owner |
 |---|---|---|
-| Tue Oct 7 | Read the three documents. Agree the theme and tracks. Assign team leads. | M |
-| Wed Oct 8 | Name the program-and-judging owner. Venue shortlist: three candidates with overnight capacity for 220. NGO letter to the first venue. | M, L |
-| Thu Oct 9 | Sponsor proposal final; event name chosen; sponsor target list of 30 companies sorted by tier fit. First 15 sponsor emails sent. | K, F, co-organizer |
-| Fri Oct 10 | Registration form, group chat, Facebook event or site ready. Venue walk-throughs booked. | K, L |
-| Sat Oct 11 | Publish rules, tracks and problem bank on the site. | O |
-| Sun Oct 12 | **Registration opens.** Announcement post. All-hands 1. | K, M |
-| Mon Oct 13 | Sponsor follow-up calls to the first 15; second wave of 15 emails. | co-organizer, F |
+| Wed Oct 7 | Read the three documents. Agree the theme and tracks. Assign team leads. | M |
+| Thu Oct 8 | Name the program-and-judging owner. Venue shortlist: three candidates with overnight capacity for 220. NGO letter to the first venue. | M, L |
+| Fri Oct 9 | Sponsor proposal final; event name chosen; sponsor target list of 30 companies sorted by tier fit. First 15 sponsor emails sent. | K, F, co-organizer |
+| Sat Oct 10 | Registration form, group chat, Facebook event or site ready. Venue walk-throughs booked. | K, L |
+| Sun Oct 11 | Publish rules, tracks and problem bank on the site. All-hands 1. | O, M |
+| Mon Oct 12 | **Registration opens.** Announcement post. One post in each of Uram Care's school chapter groups. | K, M |
+| Tue Oct 13 | Sponsor follow-up calls to the first 15; second wave of 15 emails. | co-organizer, F |
 
 ### Week 2 · Oct 14–20 · venue gate, people
 
 | Date | Task | Owner |
 |---|---|---|
-| Tue Oct 14 | **Venue gate.** Written confirmation with overnight access and two sleeping rooms, or switch to the second candidate today; daytime-only yes means Plan B. | M, L |
-| Wed Oct 15 | Telecom sponsor ask for wifi and a backup line, with the venue's floor plan. | L, co-organizer |
-| Thu Oct 16 | Ask 30 potential mentors and 25 potential judges, three per track plus reserves. Send the judge brief. | O |
-| Fri Oct 17 | Two catering quotes for 260 people, five meals and snacks. School and university outreach: Uram Care's 15+ school chapters first, then 25 institutions with one teacher or club contact each. | L, K |
-| Sat Oct 18 | Track sponsors confirmed so far receive the problem-statement co-writing invite. | F, O |
-| Sun Oct 19 | All-hands 2. Registration check: 80+ on track. | M |
-| Mon Oct 20 | Submission platform decided and set up; dummy submission tested. | O |
+| Wed Oct 14 | **Venue gate.** Written confirmation with overnight access and two sleeping rooms, or switch to the second candidate today; daytime-only yes means Plan B. | M, L |
+| Thu Oct 15 | Telecom sponsor ask for wifi and a backup line, with the venue's floor plan. | L, co-organizer |
+| Fri Oct 16 | Ask 30 potential mentors and 25 potential judges, three per track plus reserves. Send the judge brief. | O |
+| Sat Oct 17 | Two catering quotes for 260 people, five meals and snacks. School and university outreach: Uram Care's 15+ school chapters first, then 25 institutions with one teacher or club contact each. | L, K |
+| Sun Oct 18 | Track sponsors confirmed so far receive the problem-statement co-writing invite. | F, O |
+| Sun Oct 18 | All-hands 2. Registration check: 80+ on track. | M |
+| Tue Oct 20 | Submission platform decided and set up; dummy submission tested. | O |
 
 ### Week 3 · Oct 21–27 · money gate, program
 
 | Date | Task | Owner |
 |---|---|---|
-| Tue Oct 21 | Sponsor follow-ups; third wave to in-kind targets: printing, water, swag, photographer. | co-organizer, K |
-| Wed Oct 22 | Workshop speakers confirmed; mentor roster by track. | O |
-| Thu Oct 23 | Consent form final (overnight section), translated, published. | O |
-| Fri Oct 24 | Registration check: 150+ on track; waitlist logic ready at 300. | K |
-| Sat Oct 25 | **Money gate.** Sponsor commitments close. Budget final. Prize plan final. Contracts out from the NGO. | F, M |
-| Sun Oct 26 | All-hands 3. | M |
-| Mon Oct 27 | **Night-shift gate.** Adult lead plus five night adults confirmed, or switch to Plan B. Security and first aider booked. | O, A, L |
+| Wed Oct 21 | Sponsor follow-ups; third wave to in-kind targets: printing, water, swag, photographer. | co-organizer, K |
+| Thu Oct 22 | Workshop speakers confirmed; mentor roster by track. | O |
+| Fri Oct 23 | Consent form final (overnight section), translated, published. | O |
+| Sat Oct 24 | Registration check: 150+ on track; waitlist logic ready at 300. | K |
+| Sun Oct 25 | **Money gate.** Sponsor commitments close. Budget final. Prize plan final. Contracts out from the NGO. | F, M |
+| Sun Oct 25 | All-hands 3, same evening as the money gate. | M |
+| Tue Oct 27 | **Night-shift gate.** Adult lead plus five night adults confirmed, or switch to Plan B. Security and first aider booked. | O, A, L |
 
 ### Week 4 · Oct 28–Nov 3 · lock everything
 
 | Date | Task | Owner |
 |---|---|---|
-| Tue Oct 28 | **Info email 1** to registrants. Track sponsors' problem statements final. | K, O |
-| Wed Oct 29 | Buy supplies: 60 power strips, 20 extension cords, tape, name tags, first aid, flashlights, sign-out log. Order printing. | L |
-| Thu Oct 30 | **Judges and mentors confirmed**: 18 and 20. Briefing invitation for Nov 6 sent. | O |
-| Fri Oct 31 | Sponsor logos collected; signage and website updated; sponsor deliverables checklist started. | K, F |
-| Sat Nov 1 | Reconfirmation message to all registrants: reply to keep your seat. | K |
-| Sun Nov 2 | **Food ordered** for reconfirmed count plus 10 percent, with dietary needs and overnight count. All-hands 4. | L, M |
-| Mon Nov 3 | **Registration closes. Headcount gate.** Fill from waitlist; final count to venue, caterer and security. | K, L |
+| Wed Oct 28 | **Info email 1** to registrants. Track sponsors' problem statements final. | K, O |
+| Thu Oct 29 | Buy supplies: 60 power strips, 20 extension cords, tape, name tags, first aid, flashlights, sign-out log. Order printing. | L |
+| Fri Oct 30 | **Judges and mentors confirmed**: 18 and 20. Briefing invitation for Nov 6 sent. | O |
+| Sat Oct 31 | Sponsor logos collected; signage and website updated; sponsor deliverables checklist started. | K, F |
+| Sun Nov 1 | Reconfirmation message to all registrants: reply to keep your seat. All-hands 4. | K, M |
+| Mon Nov 2 | **Food ordered** for reconfirmed count plus 10 percent, with dietary needs and overnight count. All-hands 4. | L, M |
+| Tue Nov 3 | **Registration closes. Headcount gate.** Fill from waitlist; final count to venue, caterer and security. | K, L |
 
 ### Week 5 · Nov 4–8 · event
 

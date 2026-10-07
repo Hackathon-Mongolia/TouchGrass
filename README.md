@@ -16,16 +16,17 @@ A collaboration between two organizations. **Hackathon Mongolia**, this GitHub o
 | [Sponsorship proposal](docs/01-sponsorship-proposal.md) · [Word](docs/01-sponsorship-proposal.docx) | summary, why, event, organizers, tiers, deliverables, budget, how to say yes, meeting kit, Mongolian summary | companies; the co-organizer carries it into meetings |
 | [Theme, tracks, judging and agenda](docs/02-theme-tracks-judging-agenda.md) · [Word](docs/02-theme-tracks-judging-agenda.docx) | the six tracks with evidence and data sources, the 24-statement problem bank, rules, rubric, judging flow, minute-by-minute agenda, people to recruit | participants, mentors, judges, the operations team |
 | [Master plan, 31 days](docs/03-master-plan-31-days.md) · [Word](docs/03-master-plan-31-days.docx) | goals, decisions, team structure, day-by-day timeline with gates, budget, risks, registration and consent, day-of checklists, after the event | the organizing team |
+| [Timeline](docs/04-timeline.md) · [Word](docs/04-timeline.docx) · [CSV](docs/04-timeline.csv) | every task from Oct 8 to Nov 13 by day and by team, the four gates, the weekly rhythm; the CSV imports into Google Sheets or Calendar | team leads |
 | [Reference kit](reference-sept-kit/) | the September draft; templates for registration, consent, venue asks, checklists, comms | reuse with new dates |
 
 ## Key dates
 
 | Gate | Date |
 |---|---|
-| Registration opens | Sun Oct 12 |
-| Venue confirmed, overnight included | Tue Oct 14 |
-| Sponsor commitments close | Sat Oct 25 |
-| Night-shift adults confirmed | Mon Oct 27 |
+| Registration opens | Mon Oct 12 |
+| Venue confirmed, overnight included | Wed Oct 14 |
+| Sponsor commitments close | Sun Oct 25 |
+| Night-shift adults confirmed | Tue Oct 27 |
 | Registration closes, headcount final | Tue Nov 3 |
 | Briefings and setup | Fri Nov 6 |
 | Event | Sat Nov 7 13:00 → Sun Nov 8 13:00, awards 16:20 |

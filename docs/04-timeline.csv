@@ -1,0 +1,65 @@
+date,weekday,owner,team,task,flag
+2026-10-08,Thu,M,Main organizers,Name the four team leads and the program-and-judging owner (Anar). Share the three documents with every lead.,
+2026-10-08,Thu,L,Logistics,"Venue shortlist: three candidates with overnight capacity for 220, two sleeping rooms, wifi for 350 devices. Uram Enerel sends the request letter to candidate one.",
+2026-10-08,Thu,K,Marketing,"Brief the designer: Touch Grass logo, colors, shirt front and back, poster.",
+2026-10-09,Fri,M,Main organizers,Co-organizer sends the first 15 sponsor emails with the proposal attached.,
+2026-10-09,Fri,L,Logistics,Book walk-throughs at all three venue candidates for Oct 12–13.,
+2026-10-09,Fri,F,Finance,"Sponsor target sheet: 30 companies sorted by tier fit, with contact, date asked, status columns.",
+2026-10-10,Sat,K,Marketing,Build and test the registration form; open the group chat; draft the Facebook event or site.,
+2026-10-10,Sat,O,Operations,"Draft the rules, problem bank, rubric, agenda and FAQ pages from the theme document.",
+2026-10-11,Sun,M,Main organizers,"All-hands 1, 30 minutes: gate status, outreach plan, who is calling which sponsor.",all-hands
+2026-10-11,Sun,O,Operations,"Publish rules, tracks, problem bank, rubric, agenda, consent-form notice and FAQ.",
+2026-10-12,Mon,M,Main organizers,Co-organizer phones the first 15 sponsors.,
+2026-10-12,Mon,K,Marketing,Registration opens. Announcement post. One post in each of Uram Care's 15+ school chapter groups.,milestone
+2026-10-13,Tue,L,Logistics,"Venue walk-throughs: count outlets, wifi speed test with 5 devices, sleeping rooms, security, who unlocks and locks, food service area. Photograph everything.",
+2026-10-13,Tue,F,Finance,Sponsor wave 2: 15 more emails.,
+2026-10-14,Wed,M,Main organizers,"VENUE GATE: written confirmation with overnight access and two sleeping rooms, or switch to candidate two today. Daytime-only yes means Plan B.",GATE
+2026-10-15,Thu,L,Logistics,Venue confirms wifi capacity for 350 devices in writing; electrician check scheduled for Nov 6.,
+2026-10-15,Thu,UE,Uram Enerel,"Sponsorship contract template and invoice format ready: advertising services, e-barimt, payment date, refund clause.",
+2026-10-16,Fri,K,Marketing,"Outreach to 25 schools and universities: one teacher or club contact each, with the registration link.",
+2026-10-16,Fri,O,Operations,"Ask 30 mentors and 25 judges, three judges per track plus reserves, with the one-page brief and the Nov 6 briefing date.",
+2026-10-17,Sat,L,Logistics,"Two catering quotes for 260 people: five meals and snacks, dietary options, delivery times.",
+2026-10-17,Sat,K,Marketing,"Two merchandise quotes: 220 shirts, 500 stickers, 300 badges with lanyards.",
+2026-10-18,Sun,M,Main organizers,All-hands 2. Registration check: 80+ means on track; under 50 means double outreach this week.,all-hands
+2026-10-18,Sun,O,Operations,Invite confirmed track sponsors to co-write their track's problem statements.,
+2026-10-19,Mon,F,Finance,Phone follow-ups on sponsor waves 1 and 2; update the sheet.,
+2026-10-19,Mon,K,Marketing,"Three-week content calendar: two posts a week, one countdown post, sponsor announcements as they land.",
+2026-10-19,Mon,O,Operations,"Ask the two workshop speakers: data sources, and how to demo.",
+2026-10-20,Tue,L,Logistics,"Security, cleaning and first-aider quotes; provisional bookings.",
+2026-10-20,Tue,O,Operations,Submission platform decided and set up; one dummy submission tested end to end.,
+2026-10-21,Wed,K,Marketing,"Sponsor wave 3, in kind: printing, water and snacks, photographer, merchandise.",
+2026-10-22,Thu,O,Operations,"Workshop speakers confirmed; mentor roster by track, version 1.",
+2026-10-23,Fri,O,Operations,"Consent form final with the overnight section, translated to Mongolian, linked from the confirmation email.",
+2026-10-24,Sat,L,Logistics,"Table and chair count confirmed with the venue: 55 tables, 220 chairs, stage, projector, sound.",
+2026-10-24,Sat,K,Marketing,Registration check: 150+ on track. Waitlist logic live at 300.,
+2026-10-25,Sun,M,Main organizers,MONEY GATE: sponsor commitments close. Budget final. Prize pool size set above the 5M floor. All-hands 3.,GATE
+2026-10-25,Sun,UE,Uram Enerel,"Contracts sent to every committed sponsor, payment dates on or before Nov 1.",
+2026-10-26,Mon,F,Finance,"Venue deposit arranged: title sponsor pays the venue directly, or Uram Enerel bridges against signed contracts.",
+2026-10-26,Mon,K,Marketing,Announce the final prize pool size. Request logos and 40-word descriptions from every sponsor.,
+2026-10-27,Tue,L,Logistics,"Security, cleaning and first aider booked firm for Nov 7–8.",
+2026-10-27,Tue,O,Operations,"NIGHT-SHIFT GATE: adult lead plus five night adults confirmed with shifts, or switch to Plan B.",GATE
+2026-10-28,Wed,K,Marketing,"Info email 1 to registrants: venue, overnight rules, what to bring, consent form, schedule outline.",
+2026-10-28,Wed,O,Operations,Track sponsors' problem statements final and published; claim board layout done.,
+2026-10-29,Thu,L,Logistics,"Buy supplies: 60 power strips, 20 extension cords, gaffer tape, name tags, first-aid kits, flashlights, sign-out log. Order printing and signage.",
+2026-10-30,Fri,O,Operations,Judges (18) and mentors (20) confirmed; sponsors' judges and workshop speakers named; Nov 6 briefing invitations sent.,milestone
+2026-10-31,Sat,F,Finance,"Sponsor deliverables checklist opened: what each sponsor is owed, when, done or not.",
+2026-10-31,Sat,K,Marketing,Sponsor logos on the site; signage files to the printer; shirt order placed if the merchandise sponsor is confirmed.,
+2026-11-01,Sun,M,Main organizers,"All-hands 4: run-of-show read-through, roles on the day, open risks.",all-hands
+2026-11-01,Sun,K,Marketing,"Reconfirmation message to all registrants: reply YES by Nov 3, 20:00.",
+2026-11-02,Mon,L,Logistics,"FOOD ORDERED for the reconfirmed count plus 10 percent, with dietary needs and the overnight count.",milestone
+2026-11-02,Mon,F,Finance,Confirm sponsor payments received; venue deposit paid; prize money ring-fenced.,
+2026-11-03,Tue,K,Marketing,"HEADCOUNT GATE: registration closes. Waitlist filled. Final count to venue, caterer, security.",GATE
+2026-11-04,Wed,K,Marketing,"Info email 2: full schedule, rules, submission link, consent reminder, overnight packing list, pickup rule.",
+2026-11-04,Wed,O,Operations,Consent upload deadline. Volunteer roster (10) and night-shift roster final.,
+2026-11-05,Thu,L,Logistics,Pack supplies; confirm delivery times with the caterer; confirm security and first aider arrival times.,
+2026-11-05,Thu,O,Operations,"Print check-in lists, judge score sheets, table numbers, claim board, certificates. MC script final. Sponsor opening slides collected.",
+2026-11-06,Fri,M,Main organizers,"Briefings, 30 minutes each: volunteers, judges, mentors, night shift, sponsor speakers.",
+2026-11-06,Fri,L,Logistics,"Venue setup in the evening: tables, power strips taped, signage, check-in desk, sleeping rooms, projector and wifi test, electrician check.",
+2026-11-07,Sat,M,Main organizers,"EVENT DAY 1. Organizers 10:00, doors 11:00, opening 12:00, hacking 13:00, dinner 19:00, minor sign-out 21:00, night shift from 22:00.",EVENT
+2026-11-08,Sun,M,Main organizers,"EVENT DAY 2. Breakfast 07:00, judges 11:00, submissions 13:00, track judging 13:30, finals 15:15, awards 16:20, close 17:00, venue back 18:30.",EVENT
+2026-11-09,Mon,K,Marketing,"Thank-you emails with photos and numbers to sponsors, partners, judges, mentors, venue. Results post with project links, with team permission.",
+2026-11-10,Tue,K,Marketing,Feedback survey out. Metrics sheet filled.,
+2026-11-10,Tue,UE,Uram Enerel,Ledger closed: every payment with its e-barimt; prize payouts made with 5 percent tax withheld.,
+2026-11-11,Wed,K,Marketing,Photos and recap video delivered; report drafting starts.,
+2026-11-12,Thu,M,Main organizers,Report reviewed by Uram Enerel and both main organizers.,
+2026-11-13,Fri,F,Finance,Report delivered to every sponsor and partner. Team retro. 2027 date and venue ask pencilled.,milestone
