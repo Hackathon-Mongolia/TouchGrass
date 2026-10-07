@@ -13,13 +13,13 @@ Prepared October 7, 2026.
 **Shorter:** *Healthy city. Build it.*
 **Mongolian:** *Амьсгалах агаар, уух ус, амьдрах газар, давах өвөл.*
 
-The theme is environmental health in Ulaanbaatar: health problems that have an environmental cause and a technical fix within reach of a student team in 24 hours. Every track pairs one environmental cause with one health outcome, so "health" and "environment" are never separate menus; a project must touch both to be in scope.
+The theme is environmental health in Mongolia, city and countryside: health problems that have an environmental cause and a technical fix within reach of a student team in 24 hours. Four in five deaths in the country are from noncommunicable diseases, and the environment people live in drives much of that. Every track pairs one environmental cause with one health outcome, so "health" and "environment" are never separate menus; a project must touch both to be in scope.
 
 Why this theme works for both audiences:
 
 - **For participants** it is wide. Six tracks, 24 problem statements, any technology: web, mobile, hardware, data, AI, maps, SMS. A first-timer can build an alert bot; a strong team can forecast hospital admissions from station data.
 - **For sponsors** it is concrete. Each track is a named problem with a number attached, and each prototype is a claim that the problem can be worked on. A bank, a telecom, a hospital or an insurer can each point to the track that touches its customers.
-- **For the city** it is timely. Winter starts the week of the event. The air-quality season is the backdrop.
+- **For the country** it is timely. Winter starts the week of the event: the air season in the cities, the dzud season on the steppe.
 
 ---
 
@@ -148,7 +148,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 **Process.** Each track has a panel of three judges: one engineer or scientist, one health or environment professional, one sponsor representative. From 13:30 to 15:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track plus the two highest non-winners overall present on stage for 5 minutes each. The full panel of 18 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves the stated problem" score wins. No judge scores a team from their own school or company.
 
-**Prizes.** A cash pool of 15,000,000 MNT for the overall top three, split 50 / 30 / 20: first 7,500,000, second 4,500,000, third 3,000,000, paid to the team by the NGO with 5 percent personal income tax withheld. Six track awards: certificates plus whatever the track sponsor puts up, products or cash. Best beginner team and best design: product prizes from prize sponsors. A team can win one placed prize and one category or track award. If the pool ends at 10,000,000 or 20,000,000 the split stays 50 / 30 / 20.
+**Prizes.** A cash pool for the overall top three of at least 5,000,000 MNT, split 50 / 30 / 20, paid to the team by Uram Enerel with 5 percent personal income tax withheld. The pool grows with every prize-pool sponsor; the final size is announced on October 26, after commitments close. Internal target 15,000,000. Six track awards: certificates plus whatever the track sponsor puts up. Best beginner team and best design: product prizes from prize sponsors. A team can win one placed prize and one category or track award.
 
 ---
 

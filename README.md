@@ -37,6 +37,6 @@ Two main organizers; four teams: logistics, finance, marketing, operations. Resp
 
 ## Budget in one line
 
-About 63M MNT with a paid venue, about 43M if the hall is in kind; 15M of it is the cash prize pool for the top three, split 50 / 30 / 20.
+52M to 63M MNT with a paid venue, about 20M less if the hall is in kind. The cash prize pool for the top three starts at 5M, split 50 / 30 / 20, and grows with sponsor commitments; internal target 15M.
 
 Square brackets anywhere in the documents mark facts still to fill in: the government body and form of recognition, Uram Enerel's registration details, venue, team numbers, contacts.

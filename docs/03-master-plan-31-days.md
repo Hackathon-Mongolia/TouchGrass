@@ -11,7 +11,7 @@ Prepared Tuesday October 7, 2026. Event Saturday November 7 to Sunday November 8
 1. 200+ participants attended, 50+ teams submitted, nobody got hurt.
 2. Every submitted team demoed something that runs, to a judge who scored it.
 3. Six track winners and an overall top three announced on stage, prizes handed over.
-4. Title sponsor, venue partner, six track sponsors or the equivalent, and food covered; the 15,000,000 MNT prize pool funded.
+4. Title sponsor, venue partner, six track sponsors or the equivalent, and food covered; the prize pool funded above its 5,000,000 MNT floor.
 5. 25+ schools and universities represented.
 
 **By Friday November 13:**
@@ -38,7 +38,7 @@ Prepared Tuesday October 7, 2026. Event Saturday November 7 to Sunday November 8
 | Recognition | through Uram Enerel: [government body], [form]; Hackathon Mongolia itself has no registration and needs none |
 | Main organizers | [co-organizer] and Anar |
 | Teams | logistics, finance, marketing, operations |
-| Prizes | cash pool 15,000,000 MNT for the top three, 50 / 30 / 20; range 10–20M depending on sponsors; track awards are certificates plus sponsor prizes |
+| Prizes | cash pool for the top three, 50 / 30 / 20; public floor 5,000,000 MNT, internal target 15,000,000; final size announced Oct 26; track awards are certificates plus sponsor prizes |
 | Venue budget | 20,000,000 MNT for two days including overnight, unless a venue partner gives the hall in kind |
 | Wifi | provided by the venue; confirm capacity for 350 devices at the walk-through |
 
@@ -50,7 +50,7 @@ Prepared Tuesday October 7, 2026. Event Saturday November 7 to Sunday November 8
 | Venue, including overnight permission and two sleeping rooms | logistics + co-organizer | Oct 14 gate |
 | Who owns program and judging (hackathon-specific work MUN experience does not cover) | Anar, within operations | Oct 8 |
 | Submission platform: Devpost vs own form | operations | Oct 20 |
-| Final prize pool size, 10 / 15 / 20M, set by what sponsors commit | finance | Oct 25 |
+| Final prize pool size above the 5M floor, set by what sponsors commit; announced Oct 26 | finance | Oct 25 |
 | Night-shift adults: 6 needed for 220 | operations + adult lead | Oct 27 gate |
 | Merch quotes: shirts, stickers, badges; merch sponsor or budget line | marketing | Oct 17 |
 
@@ -149,12 +149,12 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 
 ## 5. Budget (MNT)
 
-Cash flows only through Uram Enerel NGO. Figures below use your numbers where you gave them: venue 20M for two days, food 10M, prize pool 15M, staff 3M. Merchandise and supplies are estimates for Ulaanbaatar print shops and markets; get two quotes each by Oct 17.
+Cash flows only through Uram Enerel NGO. Figures below use your numbers where you gave them: venue 20M for two days, food 10M, staff 3M. The prize pool is planned at its 15M target; the public commitment is 5M and up. Merchandise and supplies are estimates for Ulaanbaatar print shops and markets; get two quotes each by Oct 17.
 
 | Line | Amount | Note |
 |---|---|---|
 | Venue, two days including overnight | 20,000,000 | your estimate; zero if a venue partner gives the hall in kind |
-| Cash prize pool, top three, 50 / 30 / 20 | 15,000,000 | 7.5M / 4.5M / 3M; range 10M–20M; 5% personal income tax withheld by the NGO on payout |
+| Cash prize pool, top three, 50 / 30 / 20 | 15,000,000 target; 5,000,000 floor | at the target 7.5M / 4.5M / 3M; at the floor 2.5M / 1.5M / 1M; 5% personal income tax withheld by Uram Enerel on payout |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 | about 37,700 per person over 24 hours; tight, so boxed lunches and a hot dinner, and ask the food sponsor for catering in kind to top it up |
 | Judges, designers, finance support | 3,000,000 | honoraria and design work; judges from sponsors cost nothing |
 | T-shirts, 220 | 3,300,000 | one-colour print on a plain tee runs about 12,000–18,000 each at 200+; two-colour or heavier cotton 20,000+ |
@@ -167,7 +167,7 @@ Cash flows only through Uram Enerel NGO. Figures below use your numbers where yo
 | Wifi | 0 | provided by the venue |
 | Subtotal | 57,500,000 | |
 | Contingency 10% | 5,750,000 | |
-| **Total** | **63,250,000** | **about 43,000,000 if the venue is in kind** |
+| **Total** | **63,250,000 at the prize target; 52,250,000 at the floor** | **about 20,000,000 less if the venue is in kind** |
 
 Scaling: 180 attending saves about 900,000 on shirts and badges and nothing else; 260 adds about 1,200,000. Venue and prizes are fixed, so headcount barely moves this budget. What moves it is whether the hall is paid or given.
 
@@ -175,17 +175,17 @@ Scaling: 180 attending saves about 900,000 on shirts and badges and nothing else
 
 | Source | Amount | Notes |
 |---|---|---|
-| Title sponsor | 20,000,000 | one; funds half the prize pool and the shirts |
+| Title sponsor | 20,000,000 | one; funds the prize pool above its floor and the shirts |
 | Venue partner | 20,000,000 or hall in kind | a university, a sponsor's headquarters, or a paid hall |
 | Track sponsors | 30,000,000 | six × 5,000,000; unsold tracks run unsponsored |
 | Food sponsor | 10,000,000 or catering in kind | |
 | Merchandise sponsor | 4,500,000 or shirts and stickers in kind | |
 | Prize-pool and category sponsors | 2,000,000 to 6,000,000 | |
-| **Cash target** | **68,000,000 with a paid venue; 48,000,000 with the hall in kind** | |
+| **Cash target** | **68,000,000 with a paid venue and the 15M prize target; 48,000,000 with the hall in kind** | |
 
 Cash timing matters more than the total: the venue wants a deposit before sponsor money arrives. Ask the title sponsor to pay the venue directly, or have the NGO bridge the deposit against signed contracts.
 
-**Minimum viable version** if the money gate fails on Oct 25: prize pool drops to 10M, shirts cut, venue partner in kind or Plan B at a free university hall, sponsors pay the caterer directly. Cash needed then: about 15,000,000.
+**Minimum viable version** if the money gate fails on Oct 25: prize pool stays at the 5M floor, shirts cut, venue partner in kind or Plan B at a free university hall, sponsors pay the caterer directly. Cash needed then: about 15,000,000.
 
 **Rules for money.** Every payment from Uram Enerel's account with an e-barimt. Sponsorship invoiced as advertising services under Advertising Law article 19. Cash prizes carry 5 percent personal income tax withheld by the NGO. One ledger sheet, shared with sponsors in the report.
 
@@ -206,7 +206,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 | Sponsor demands control of judging | tier table and contract say one judge seat, rubric decides |
 | A sponsor pays late | contract payment dates before Nov 1; food sponsor pays caterer directly |
 | Venue deposit due before sponsor cash lands | title sponsor pays the venue directly, or the NGO bridges the deposit against signed contracts |
-| Prize pool promised at 15M but sponsors commit less | announce the split as 50 / 30 / 20 only, never the amounts, until Oct 25; publish the pool size on Oct 26 |
+| Sponsors commit less than the 15M prize target | the public promise is 5M and up with a 50 / 30 / 20 split, so nothing has to be retracted; publish the final size on Oct 26 |
 | Team burnout: 31 days, exams | two leads per team where possible; the Sunday all-hands is the only mandatory meeting |
 
 ---
