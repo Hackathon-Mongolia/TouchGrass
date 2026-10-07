@@ -15,7 +15,7 @@ Square brackets are facts still to fill in.
 
 **Who runs it.** Two organizations. **Hackathon Mongolia**, a student-run organizing collective, designs and runs the program. **Uram Enerel NGO**, known as Uram Care, a registered youth health NGO with 1,500+ volunteers and 15+ school chapters across Mongolia, is the legal host: contracts, funds, receipts, reporting. Recognized by [government body]. Responsible adult on site: [name, title].
 
-**Who comes.** High school and university students aged 16 to 24, free of charge, from 25+ institutions. Mentors from industry and universities; a judging panel of engineers, doctors, environmental scientists and sponsor representatives.
+**Who comes.** Secondary school and university students aged 14 to 20, free of charge, from 25+ institutions. Mentors from industry and universities; a judging panel of engineers, doctors, environmental scientists and sponsor representatives.
 
 **The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, six track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments. **Commitments close October 25, 2026.**
 
@@ -39,7 +39,7 @@ Square brackets are facts still to fill in.
 |---|---|
 | Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4 |
 | Hacking window | Saturday 13:00 to Sunday 13:00 |
-| Participants | 220+ students aged 16 to 24; free entry; parental consent for under-18s |
+| Participants | 220+ students aged 14 to 20; free entry; parental consent for under-18s |
 | Tracks | six; each team claims one of 24 problem statements, so no two projects are the same |
 | Support | two workshops Saturday, mentor hours, a night mentor on call |
 | Judging | one three-judge panel per track visits every team; six track winners plus two wildcards present on stage; the full panel picks the top three |
@@ -99,7 +99,7 @@ All payments go through Uram Enerel's account with receipts. The itemized ledger
 
 **Touch Grass · Залуучуудын 24 цагийн хакатон · Эрүүл мэнд × Хүрээлэн буй орчин · 2026.11.07–08 · [байршил]**
 
-**Юу болох вэ.** 220 гаруй ахлах ангийн сурагч, оюутан 55 орчим багт хуваагдан 24 цагийн дотор хүрээлэн буй орчноос үүдэлтэй эрүүл мэндийн асуудлуудад ажиллах прототип бүтээнэ. Зургаан чиглэл: цэвэр агаар ба уушгины эрүүл мэнд; угаарын хийн хордлого; хөрс, усны бохирдол; хог хаягдал; зуд, хүйтэн, халууны эрсдэл; эрүүл мэндийн өгөгдөл ба эрт сэрэмжлүүлэг. Инженер, эмч, байгаль орчны мэргэжилтнүүд баг бүрийг дүгнэнэ.
+**Юу болох вэ.** 14–20 насны 220 гаруй дунд, ахлах ангийн сурагч, оюутан 55 орчим багт хуваагдан 24 цагийн дотор хүрээлэн буй орчноос үүдэлтэй эрүүл мэндийн асуудлуудад ажиллах прототип бүтээнэ. Зургаан чиглэл: цэвэр агаар ба уушгины эрүүл мэнд; угаарын хийн хордлого; хөрс, усны бохирдол; хог хаягдал; зуд, хүйтэн, халууны эрсдэл; эрүүл мэндийн өгөгдөл ба эрт сэрэмжлүүлэг. Инженер, эмч, байгаль орчны мэргэжилтнүүд баг бүрийг дүгнэнэ.
 
 **Яагаад.** Монголд нас баралтын тав тутмын дөрөв нь халдварт бус өвчнөөс үүдэлтэй бөгөөд хүний амьдардаг орчин үүнд шууд нөлөөлдөг. Өгөгдөл нээлттэй, залуучууд чадвартай, гэвч хэн ч тэднийг энэ асуудалд чиглүүлээгүй. Монголд сурагч, оюутнууд өөрсдөө зохион байгуулсан, эрүүл мэнд ба хүрээлэн буй орчныг нэгтгэсэн, 150-аас дээш оролцогчтой хакатон өнөөг хүртэл болоогүй.
 

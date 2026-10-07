@@ -123,7 +123,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 ## 5. Rules and judging
 
-**Eligibility.** Students aged 16 to 24 enrolled in a high school, university or college in Mongolia. Under-18s bring a signed parental consent form covering the overnight. Organizers, judges and mentors do not compete.
+**Eligibility.** Students aged 14 to 20 enrolled in a secondary school, university or college in Mongolia. Under-18s bring a signed parental consent form covering the overnight. Organizers, judges and mentors do not compete.
 
 **Teams.** Two to four people. Form before the event or at team formation Saturday 12:30. One team per person, one submission per team, one claimed problem statement per team.
 
@@ -209,7 +209,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 ## 7. Participants, mentors, judges
 
-**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Half from high schools, half from universities, 25+ institutions. Uram Care's 15+ school chapters are the first recruitment channel: one post in each chapter's group the day registration opens. Registration opens October 12 and closes November 3.
+**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Uram Care's 15+ school chapters are the first recruitment channel: one post in each chapter's group the day registration opens. Registration opens October 12 and closes November 3.
 
 **Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by October 30.
 
