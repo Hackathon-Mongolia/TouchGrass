@@ -164,7 +164,7 @@ We need a vector logo (SVG, PDF or EPS) and a 40-word description on signing. We
 
 **Why a student collective and an NGO?** Because that is how youth hackathons work everywhere: students run the program, a registered body holds the money. Hackathon Mongolia designed the event; Uram Enerel makes it legal, bankable and reportable.
 
-**What if fewer than 220 students come?** Registration numbers go to sponsors weekly from October 12. Under 150, we scale the budget down and refund or roll over the difference, as the contract says.
+**What if fewer than 220 students come?** Registration numbers go to sponsors weekly from October 17. Under 150, we scale the budget down and refund or roll over the difference, as the contract says.
 
 **Can we sponsor more than one tier?** Yes. A title sponsor often also names a track.
 

@@ -3,7 +3,7 @@
 
 Prepared October 7, 2026. Updated October 10, 2026.
 
-> **Changed October 10: the format is now broad, on the model of Stanford's TreeHacks.** Five tracks: **Healthcare, Sustainability, Education, Humanity, AI.** Software only. Teams build anything inside a track. The problem bank below is now a list of optional ideas (30 on the website); there is no track board limit and no three-team cap. Sections 1 to 4 below are kept as background for the Healthcare and Sustainability tracks. Finals: the five track winners, plus one wildcard if the scores call for it, present on stage, so five or six teams speak. Awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
+> **Changed October 10: the format is now broad, on the model of Stanford's TreeHacks.** Five tracks: **Healthcare, Sustainability, Education, Humanity, AI.** Software only. There is no problem list, as at TreeHacks: teams build anything inside a track. The old problem bank in section 4 is background only. Sections 1 to 4 below are kept as background for the Healthcare and Sustainability tracks. Finals: the five track winners, plus one wildcard if the scores call for it, present on stage, so five or six teams speak. Awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
 
 ---
 
@@ -211,7 +211,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 ## 7. Participants, mentors, judges
 
-**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Recruitment runs through the website and the organizers' own networks, not through schools. Participation is 45,000 MNT per person, paid to Uram Enerel NGO. Registration opens October 12 and closes November 3.
+**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Recruitment runs through the website and the organizers' own networks, not through schools. Participation is 45,000 MNT per person, paid to Uram Enerel NGO. Registration opens October 17 and closes November 3.
 
 **Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by October 30.
 

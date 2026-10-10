@@ -33,17 +33,17 @@ All-hands every Sunday evening for 30 minutes: Oct 11, 18, 25, Nov 1. Team leads
 | Sun Oct 11 | M | All-hands 1, 30 minutes: gate status, outreach plan, who is calling which sponsor. | all-hands |
 | Sun Oct 11 | O | Publish rules, tracks, problem bank, rubric, agenda, consent-form notice and FAQ. |  |
 | Mon Oct 12 | M | Co-organizer phones the first 15 sponsors. |  |
-| Mon Oct 12 | K | Registration opens. Announcement post. One post in each of Uram Care's 15+ school chapter groups. | milestone |
 | Tue Oct 13 | L | Venue walk-throughs: count outlets, wifi speed test with 5 devices, sleeping rooms, security, who unlocks and locks, food service area. Photograph everything. |  |
 | Tue Oct 13 | F | Sponsor wave 2: 15 more emails. |  |
 | Wed Oct 14 | M | VENUE GATE: written confirmation with overnight access and two sleeping rooms, or switch to candidate two today. Daytime-only yes means Plan B. | **GATE** |
 | Thu Oct 15 | L | Venue confirms wifi capacity for 350 devices in writing; electrician check scheduled for Nov 6. |  |
 | Thu Oct 15 | UE | Sponsorship contract template and invoice format ready: advertising services, e-barimt, payment date, refund clause. |  |
-| Fri Oct 16 | K | Outreach to 25 schools and universities: one teacher or club contact each, with the registration link. |  |
+| Fri Oct 16 | K | Outreach prep: line up personal and youth-community networks to share the link on Oct 17; post a teaser. |  |
 | Fri Oct 16 | O | Ask 30 mentors and 25 judges, three judges per track plus reserves, with the one-page brief and the Nov 6 briefing date. |  |
 | Sat Oct 17 | L | Two catering quotes for 260 people: five meals and snacks, dietary options, delivery times. |  |
 | Sat Oct 17 | K | Two merchandise quotes: 220 shirts, 500 stickers, 300 badges with lanyards. |  |
-| Sun Oct 18 | M | All-hands 2. Registration check: 80+ means on track; under 50 means double outreach this week. | all-hands |
+| Sat Oct 17 | K | Registration opens. Announcement on the website and social media; every organizer shares the link in their own networks. | milestone |
+| Sun Oct 18 | M | All-hands 2. Registration check after day one: 40+ means on track; under 20 means double outreach this week. | all-hands |
 | Sun Oct 18 | O | Invite confirmed track sponsors to set an optional challenge for their track. |  |
 | Mon Oct 19 | F | Phone follow-ups on sponsor waves 1 and 2; update the sheet. |  |
 | Mon Oct 19 | K | Three-week content calendar: two posts a week, one countdown post, sponsor announcements as they land. |  |
@@ -98,7 +98,7 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 - Sun Oct 11: All-hands 1, 30 minutes: gate status, outreach plan, who is calling which sponsor.
 - Mon Oct 12: Co-organizer phones the first 15 sponsors.
 - **Wed Oct 14**: VENUE GATE: written confirmation with overnight access and two sleeping rooms, or switch to candidate two today. Daytime-only yes means Plan B.
-- Sun Oct 18: All-hands 2. Registration check: 80+ means on track; under 50 means double outreach this week.
+- Sun Oct 18: All-hands 2. Registration check after day one: 40+ means on track; under 20 means double outreach this week.
 - **Sun Oct 25**: MONEY GATE: sponsor commitments close. Budget final. Prize pool size set above the 5M floor. All-hands 3.
 - Sun Nov 1: All-hands 4: run-of-show read-through, roles on the day, open risks.
 - Fri Nov 6: Briefings, 30 minutes each: volunteers, judges, mentors, night shift, sponsor speakers.
@@ -135,8 +135,8 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 
 - Thu Oct 8: Brief the designer: Touch Grass logo, colors, shirt front and back, poster.
 - Sat Oct 10: Build and test the registration form; open the group chat; draft the Facebook event or site.
-- Mon Oct 12: Registration opens. Announcement post. One post in each of Uram Care's 15+ school chapter groups.
-- Fri Oct 16: Outreach to 25 schools and universities: one teacher or club contact each, with the registration link.
+- Fri Oct 16: Outreach prep: line up personal and youth-community networks to share the link on Oct 17; post a teaser.
+- Sat Oct 17: Registration opens. Announcement on the website and social media; every organizer shares the link in their own networks.
 - Sat Oct 17: Two merchandise quotes: 220 shirts, 500 stickers, 300 badges with lanyards.
 - Mon Oct 19: Three-week content calendar: two posts a week, one countdown post, sponsor announcements as they land.
 - Wed Oct 21: Sponsor wave 3, in kind: printing, water and snacks, photographer, merchandise.

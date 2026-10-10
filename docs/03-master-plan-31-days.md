@@ -32,7 +32,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 | Format | 24-hour hack, Sat 13:00 → Sun 13:00, overnight at the venue; Plan B daytime split if overnight refused |
 | Scale | 220+ attending, plan for 260 registrations, cap 300 |
 | Audience | students 16–24, high school and university, free entry |
-| Theme | broad, TreeHacks model: Healthcare, Sustainability, Education, Humanity, AI; 30 optional ideas |
+| Theme | broad, TreeHacks model: Healthcare, Sustainability, Education, Humanity, AI; no problem list |
 | Organizers | Hackathon Mongolia, a student collective (GitHub org Hackathon-Mongolia, not a registered entity), runs the program; Uram Enerel NGO (Uram Care), registered and government-recognized, is the legal host |
 | Legal host | Uram Enerel NGO: signs contracts, receives funds, pays vendors, issues e-barimt, reports |
 | Recognition | through Uram Enerel: [government body], [form]; Hackathon Mongolia itself has no registration and needs none |
@@ -88,7 +88,6 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 | Fri Oct 9 | Sponsor proposal final; event name chosen; sponsor target list of 30 companies sorted by tier fit. First 15 sponsor emails sent. | K, F, co-organizer |
 | Sat Oct 10 | Registration form, group chat, Facebook event or site ready. Venue walk-throughs booked. | K, L |
 | Sun Oct 11 | Publish rules, tracks and problem bank on the site. All-hands 1. | O, M |
-| Mon Oct 12 | **Registration opens.** Announcement post. One post in each of Uram Care's school chapter groups. | K, M |
 | Tue Oct 13 | Sponsor follow-up calls to the first 15; second wave of 15 emails. | co-organizer, F |
 
 ### Week 2 · Oct 14–20 · venue gate, people
@@ -99,8 +98,9 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 | Thu Oct 15 | Telecom sponsor ask for wifi and a backup line, with the venue's floor plan. | L, co-organizer |
 | Fri Oct 16 | Ask 30 potential mentors and 25 potential judges, three per track plus reserves. Send the judge brief. | O |
 | Sat Oct 17 | Two catering quotes for 260 people, five meals and snacks. School and university outreach: Uram Care's 15+ school chapters first, then 25 institutions with one teacher or club contact each. | L, K |
+| Sat Oct 17 | **Registration opens.** Announcement on the website and social media; organizers share it in their own networks. | K, M |
 | Sun Oct 18 | Track sponsors confirmed so far receive the problem-statement co-writing invite. | F, O |
-| Sun Oct 18 | All-hands 2. Registration check: 80+ on track. | M |
+| Sun Oct 18 | All-hands 2. Registration check after day one: 40+ on track. | M |
 | Tue Oct 20 | Submission platform decided and set up; dummy submission tested. | O |
 
 ### Week 3 · Oct 21–27 · money gate, program
@@ -201,7 +201,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 | Under 150 registrations by Oct 24 | double outreach to universities; sponsors told honestly; budget scaled |
 | Over 300 registrations | waitlist; second venue room if available; never exceed fire capacity |
 | Judging overruns with 55 teams | track panels, 5-minute slots, timekeepers, finals capped at 8 |
-| Projects overlap | broad tracks; ideas are optional, teams bring their own; rubric rewards solving a real problem |
+| Projects overlap | broad tracks, no problem list, teams bring their own ideas; rubric rewards solving a real problem |
 | A minor is hurt, ill or leaves at night | consent forms with emergency contacts, sign-out log, two adults awake per 100, first aider on site, parent numbers at the desk |
 | Sponsor demands control of judging | tier table and contract say one judge seat, rubric decides |
 | A sponsor pays late | contract payment dates before Nov 1; food sponsor pays caterer directly |

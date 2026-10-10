@@ -38,13 +38,13 @@
 | Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; in English |
 | Hacking window | Saturday 13:00 to Sunday 13:00 |
 | Participants | 220+ students aged 14 to 20; 45,000 MNT participation fee; parental consent for under-18s |
-| Tracks | five: Healthcare, Sustainability, Education, Humanity, AI; software only; 30 optional problem ideas on the website, or teams bring their own |
+| Tracks | five: Healthcare, Sustainability, Education, Humanity, AI; software only; teams build anything inside a track, as at TreeHacks |
 | Support | two workshops Saturday, mentor hours, a night mentor on call |
 | Judging | one three-judge panel per track visits every team; the five track winners, plus one wildcard if the scores call for it, present on stage; the full panel picks the top three |
 | Outputs | 55 prototypes with public project pages, results post, photos and video, a report to sponsors within a week |
 | Safety | responsible adult on site throughout, overnight adult shift, first aid, security, sign-out log for minors |
 
-**The five tracks.** Healthcare · Sustainability · Education · Humanity · AI. Every track has its own winner, and three awards cross all tracks: Most Creative, Most Impactful, Most Technically Complex. Problem ideas are at hack-touchgrass.com.
+**The five tracks.** Healthcare · Sustainability · Education · Humanity · AI. Every track has its own winner, and three awards cross all tracks: Most Creative, Most Impactful, Most Technically Complex.
 
 ---
 

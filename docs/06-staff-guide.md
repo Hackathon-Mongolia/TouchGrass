@@ -11,7 +11,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 
 **The shape of it.** Participants arrive Saturday morning, form teams of two to four, and sign up for one of five tracks on a public board. At 13:00 a 24-hour clock starts. They build: software, hardware, data tools, whatever solves a real problem. We feed them five times, run two short workshops, send mentors to walk the tables, keep the building safe through the night, and count down the hours from the microphone. At 13:00 Sunday the clock stops and submissions close. Judges visit every table, score each team against a published rubric, the five track winners, and sometimes one wildcard, present on stage, and we hand out awards at 16:20.
 
-**The vocabulary** is in section 13. The six words you need today: a **track** is one of five areas (Healthcare, Sustainability, Education, Humanity, AI); an **idea** is an optional problem from the website a team may start from; a **prototype** is anything that works, however roughly; a **demo** is showing it running; the **rubric** is the scoring sheet every judge uses; **submission** is the project page a team files before the deadline.
+**The vocabulary** is in section 13. The six words you need today: a **track** is one of five areas (Healthcare, Sustainability, Education, Humanity, AI); there is no problem list, so each team brings its own idea; a **prototype** is anything that works, however roughly; a **demo** is showing it running; the **rubric** is the scoring sheet every judge uses; **submission** is the project page a team files before the deadline.
 
 **What success looks like for staff, in order:** nobody is hurt or lost; everyone is fed on time; every team that submitted gets judged; judging finishes on time; sponsors receive exactly what they were promised; the room is handed back clean.
 
@@ -27,7 +27,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 | Times | organizers 10:00 Sat; doors 11:00; opening 12:00; hacking 13:00 Sat → 13:00 Sun; judging 13:30; finals 15:15; awards 16:20; close 17:00; venue back 18:30 |
 | Place | [venue, address] |
 | Participants | 220+ students aged 14 to 20, most of them under 18; about 55 teams; under-18s with parental consent; overnight at the venue |
-| Theme | broad, on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity, AI; software only; 30 optional problem ideas |
+| Theme | broad, on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity, AI; software only; no problem list |
 | Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; five track awards; three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex |
 | Organizers | Hackathon Mongolia (program) and Uram Enerel NGO, Uram Care (legal host, money, contracts) |
 | Main organizers | [co-organizer name] and Anar Tuvshinbayar |
@@ -67,7 +67,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 
 ### Marketing
 **You own** the name and look, the website or Facebook event, the registration form and its emails, outreach through the website and the organizers' networks (not through schools), the 45,000 MNT fee and its payment check, the group chat, the content calendar, the photographer, the results post and the survey.
-**Your gates:** registration opens Mon Oct 12; closes Tue Nov 3 with the final headcount.
+**Your gates:** registration opens Sat Oct 17; closes Tue Nov 3 with the final headcount.
 **Your event days:** own check-in Saturday 11:00 to 13:30; own photography, the live posts, and the group chat announcements; run the mini-event; collect survey responses at close.
 
 ### Operations
@@ -178,7 +178,6 @@ Sunday 17:00 to 18:30: cleanup by every organizer and volunteer; tables and chai
 - **Hackathon** — a timed competition where teams build working prototypes.
 - **Hack** — to build something quickly that works; nothing to do with breaking into systems.
 - **Track** — one of the five areas; each team competes within one.
-- **Idea** — an optional problem from the website's idea list; teams may bring their own instead.
 - **Track board** — the public board where each team writes its name under the track it entered.
 - **Prototype** — the thing a team builds; it works, roughly, and proves the idea.
 - **MVP** — minimum viable product; the smallest version that works end to end.
