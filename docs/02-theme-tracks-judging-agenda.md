@@ -79,43 +79,43 @@ Each track lists the problem, the evidence a judge can cite, where the data is, 
 
 ## 4. The problem bank
 
-Twenty-four statements, four per track. Each names a user and a verb. Teams claim one; three claims close a statement.
+Twenty-four statements, four per track. Each states a problem and who has it, never the solution, so two teams on the same statement can build very different things. Teams claim one; three claims close a statement.
 
 **Track 1 · Clean air**
-1. **Walk, bus or stay home?** — At 7:30 a.m. a parent in a ger district checks one screen and knows whether their eight-year-old walks to school today, rides, or stays in.
-2. **Recess indoors, receipts included** — A school principal decides when breaks move indoors and can show parents the air numbers behind the call.
-3. **Which purifier is worth it?** — A family with one stove, one room and a tight budget finds the mask or purifier that actually helps, and what it costs per winter.
-4. **Tomorrow's coughs, today** — A clinic sees how many children will come in with breathing problems tomorrow, from today's air.
+1. **Walk, bus or stay home?** — On smoggy mornings, parents guess whether it is safe for their kids to be outside. Help them stop guessing.
+2. **Recess indoors?** — Schools decide on outdoor breaks and PE with little to go on, and parents question every call. Help schools make the call.
+3. **Which purifier is worth it?** — Families on a tight budget can't tell which masks, purifiers or habits actually protect them. Help them spend wisely.
+4. **Tomorrow's coughs, today** — Clinics get hit by waves of children with breathing problems on bad-air days. Help them see the wave coming.
 
 **Track 2 · Safe heat**
-5. **The coldest-night alarm** — Two days before the coldest night of the week, a briquette-heated household gets a message: ventilate, check the stove, here is how.
-6. **A CO alarm under 30,000₮** — Design a carbon monoxide detector a family can build or buy for a fraction of the 100,000-tugrik shop price.
-7. **Headache or poisoning?** — In under a minute, someone with a headache and nausea in a heated home knows whether it could be carbon monoxide and is on the phone to 103.
-8. **Where should the ambulances wait?** — Emergency services know which khoroos will see the most poisonings tonight and place crews there before the calls come.
+5. **The coldest-night problem** — Carbon monoxide poisoning peaks on the coldest nights, in homes that heat with briquettes. Help those homes get through the night.
+6. **A CO alarm people can afford** — Most homes that need a carbon monoxide alarm don't have one, because the shop price is around 100,000 tugrik. Change that.
+7. **Headache or poisoning?** — Early carbon monoxide poisoning feels like a headache, so people wait too long. Help them recognise it and get help fast.
+8. **Where should the ambulances be?** — Emergency services respond to poisonings after the call. Help them get ahead of the busiest nights.
 
 **Track 3 · Ground and water**
-9. **Is my well OK this month?** — A household that drinks from a well gets a test result it can read, and one clear next step if the answer is no.
-10. **The latrine map** — A khoroo office knows which pit latrines were upgraded, which leak and which are next, without a paper binder.
-11. **Can the kids play here?** — A kindergarten director finds out whether the soil in the yard is safe, and what to do if it isn't.
-12. **Clean hands, zero budget** — A family with a child under five cuts the risk of diarrhoea using only what is already in the home.
+9. **Is my well OK?** — Families who drink from wells rarely know if the water is safe. Help them find out, and know what to do next.
+10. **The latrine problem** — Ulaanbaatar has around 145,000 pit latrines, and nobody has a clear picture of which ones leak. Help fix that.
+11. **Can the kids play here?** — Kindergartens and schools don't know if the ground their children play on is contaminated. Help them find out.
+12. **Clean hands, zero budget** — Diarrhoeal disease hits young children hardest in homes without running water. Help families protect them with what they have.
 
 **Track 4 · Waste**
-13. **Garbage day you can trust** — A ger-area household knows the day and hour the truck comes, and gets told when it won't.
-14. **Sell the bottles** — A school or corner shop sorts its plastic and cardboard and finds a buyer, no deposit scheme needed.
-15. **Where do dead batteries go?** — A household gets rid of batteries, old medicine and chemicals safely instead of throwing them in the bin.
-16. **Safer picking, better pay** — A waste picker at the landfill works with fewer injuries and earns more for what they collect.
+13. **Garbage day you can trust** — In ger areas the garbage truck is unpredictable, so waste piles up or gets dumped. Help households and collectors line up.
+14. **Sell the bottles** — Recyclables end up in the trash because sorting and selling them is a hassle. Make it worth it.
+15. **Where do dead batteries go?** — Batteries, old medicine and chemicals go in the household bin. Help them go somewhere safe.
+16. **Safer picking, better pay** — Informal waste pickers do dangerous work for little money. Make their work safer or better paid.
 
 **Track 5 · Climate shocks**
-17. **Three days' warning** — A herder family in one named soum hears about a dzud-grade cold wave three days early, with a checklist for the herd.
-18. **Someone to talk to** — A herder who has just lost livestock reaches a real person from a basic phone, no smartphone or data needed.
-19. **Snowed-in triage** — A soum doctor decides whether a sick child needs evacuation when the road to the aimag centre is closed.
-20. **Heat-wave buddy** — An older person living alone in a city apartment gets through a heat wave, with someone checking in.
+17. **Before the dzud hits** — Herders often learn about a deadly cold spell too late to protect the herd. Help them prepare in time.
+18. **Someone to talk to** — Losing livestock to a dzud is losing a livelihood, and help is far away. Support herders' mental health, even on a basic phone.
+19. **Snowed-in** — When roads close, remote soums are cut off from hospitals. Help local doctors and families cope with medical emergencies.
+20. **Heat-wave check** — Summer heat waves are getting worse, and older people living alone are most at risk. Help keep them safe.
 
 **Track 6 · Health data**
-21. **A weather forecast for the hospital** — Predict next week's children's admissions at one Ulaanbaatar hospital from air and weather data, and beat a naive guess.
-22. **The morning health-air score** — Build a one-number environmental-health index a journalist can quote every morning.
-23. **Can we trust this sensor?** — Register citizen air sensors and automatically flag the broken or badly placed ones.
-24. **Leave a dataset behind** — Publish one clean, documented dataset joining air, weather and health that the next hackathon can start from.
+21. **Forecast the hospital** — Hospitals can't see a rush of patients coming even when the air and weather data could warn them. Build that warning.
+22. **One number for the news** — People hear about air, weather and illness separately. Give the public one clear picture of environmental health.
+23. **Can we trust this sensor?** — Cheap air sensors are everywhere, and some of them are wrong. Help tell good data from bad.
+24. **Leave a dataset behind** — Air, weather and health data sit in different places and formats. Join them so the next team can build on them.
 
 Track sponsors may replace one statement in their track with their own, agreed by October 28.
 
