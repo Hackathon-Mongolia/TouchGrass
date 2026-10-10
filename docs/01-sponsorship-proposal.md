@@ -1,5 +1,5 @@
 # Touch Grass — Sponsorship Proposal
-## A 24-hour youth hackathon · Health · Sustainability · Education · Fintech · AI · Open · Mongolia · November 7–8, 2026
+## A 24-hour youth hackathon · Healthcare · Sustainability · Education · Humanity · AI · Mongolia · November 7–8, 2026
 
 **hack-touchgrass.com**
 
@@ -7,25 +7,25 @@
 
 ## Touch Grass in one page
 
-**What.** A 24-hour hackathon where 220+ young people in about 55 teams build working prototypes for real problems. Six tracks on the model of Stanford's TreeHacks: Health, Sustainability, Education, Fintech, AI and Open. Any technology. The event runs in English. Teams start Saturday 13:00 and submit Sunday 13:00; professional judges score every team; the best in each track presents on stage.
+**What.** A 24-hour hackathon where 220+ young people in about 55 teams build working prototypes for real problems. Five tracks on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity and AI. Software only. The event runs in English. Teams start Saturday 13:00 and submit Sunday 13:00; professional judges score every team; the best in each track presents on stage.
 
 **When and where.** Saturday November 7 to Sunday November 8, 2026, in Ulaanbaatar; the venue is confirmed by October 14. Doors 11:00 Saturday, awards 16:20 Sunday.
 
 **Who runs it.** Touch Grass was founded and is organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. **Hackathon Mongolia**, their student organizing team, designs and runs the program. **Uram Enerel NGO**, known as Uram Care, a registered youth health NGO with volunteers and school chapters across Mongolia, is the legal host: contracts, funds, receipts, reporting. A responsible adult from Uram Enerel NGO is on site for the full 24 hours.
 
-**Who comes.** Secondary school and university students aged 14 to 20, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, finance and AI professionals, and sponsor representatives.
+**Who comes.** Secondary school and university students aged 14 to 20, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, AI professionals and sponsor representatives.
 
-**The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, six track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments. **Commitments close October 25, 2026.**
+**The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, five track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments. **Commitments close October 25, 2026.**
 
 ---
 
 ## Why this hackathon
 
-**Mongolia has the talent and no reason to build.** Mongolia's students win medals at the informatics olympiads every year. Air-quality stations publish hourly, the National Statistics Office has an open API, payments run on QR codes, and AI now speaks Mongolian. What is missing is a weekend that asks young people to turn that into something real.
+**Mongolia has the talent and no reason to build.** Mongolia's students win medals at the informatics olympiads every year. Air-quality stations publish hourly, the National Statistics Office has an open API, and AI now speaks Mongolian. What is missing is a weekend that asks young people to turn that into something real.
 
 **A hackathon is the fastest way to ask.** In 24 hours, 220 students become 55 prototypes, each judged by people who work in that field. Some prototypes die on Sunday. Some become projects, startups, theses. All of them put a generation's attention on the problems a sponsor's customers live with.
 
-**Six tracks, one for every sponsor.** Health and Sustainability carry the country's hardest problems: four in five deaths in Mongolia are from noncommunicable diseases, and the dzud killed 8.1 million animals in one winter. Education, Fintech and AI are where banks, telecoms and tech companies meet their future customers and hires. Open keeps room for the idea nobody planned for.
+**Five tracks, one for every sponsor.** Healthcare and Sustainability carry the country's hardest problems: four in five deaths in Mongolia are from noncommunicable diseases, and the dzud killed 8.1 million animals in one winter. Education and AI are where banks, telecoms and tech companies meet their future customers and hires. Humanity is for the people who get left behind: newcomers to the city, people with disabilities, families caught by debt.
 
 **Nobody has done this.** Mongolia has had hackathons run by the World Bank, IFC, UNICEF and the city. None was student-led, and nothing independent has passed 150 participants since 2021. Touch Grass is the first at this scale, and the companies on it are the first names attached.
 
@@ -38,13 +38,13 @@
 | Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; in English |
 | Hacking window | Saturday 13:00 to Sunday 13:00 |
 | Participants | 220+ students aged 14 to 20; 45,000 MNT participation fee; parental consent for under-18s |
-| Tracks | six: Health, Sustainability, Education, Fintech, AI, Open; 28 optional problem ideas on the website, or teams bring their own |
+| Tracks | five: Healthcare, Sustainability, Education, Humanity, AI; software only; 30 optional problem ideas on the website, or teams bring their own |
 | Support | two workshops Saturday, mentor hours, a night mentor on call |
-| Judging | one three-judge panel per track visits every team; six track winners plus two wildcards present on stage; the full panel picks the top three |
+| Judging | one three-judge panel per track visits every team; the five track winners, plus one wildcard if the scores call for it, present on stage; the full panel picks the top three |
 | Outputs | 55 prototypes with public project pages, results post, photos and video, a report to sponsors within a week |
 | Safety | responsible adult on site throughout, overnight adult shift, first aid, security, sign-out log for minors |
 
-**The six tracks.** Health · Sustainability · Education · Fintech · AI · Open. Every track has its own winner, and three awards cross all tracks: Most Creative, Most Impactful, Most Technically Complex. Problem ideas are at hack-touchgrass.com.
+**The five tracks.** Healthcare · Sustainability · Education · Humanity · AI. Every track has its own winner, and three awards cross all tracks: Most Creative, Most Impactful, Most Technically Complex. Problem ideas are at hack-touchgrass.com.
 
 ---
 
@@ -54,7 +54,7 @@
 |---|---|---|---|
 | **Title** | 20,000,000 | 1 | "Touch Grass presented by Your Company"; logo first everywhere including all 220 t-shirts; 5-minute opening slot; judge on the final panel; you present first prize; first access to winning teams; opt-in participant CVs |
 | **Venue partner** | 20,000,000 or the hall in kind | 1 | "Hosted at Your Company"; logo on every table card and all signage; named in every announcement; opening remarks |
-| **Track** | 5,000,000 | 6 | a track carries your name; you can set an optional challenge for it; a judge on its panel; a 15-minute workshop; you present the track award |
+| **Track** | 5,000,000 | 5 | a track carries your name; you can set an optional challenge for it; a judge on its panel; a 15-minute workshop; you present the track award |
 | **Food** | 10,000,000 or catering in kind | 1 to 2 | "Meals by Your Company" at five meals; logo on site and stage; thanks at each meal |
 | **Merchandise** | 220 t-shirts and stickers in kind, or 4,500,000 | 1 | your logo on the shirt with the title sponsor's |
 | **Prize pool** | 1,000,000 and up | several | named contribution to the top-three pool; present one of the three awards across all tracks (Most Creative, Most Impactful, Most Technically Complex) on stage |
@@ -95,15 +95,15 @@ Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of 
 
 ## Монгол хураангуй
 
-**Touch Grass · Залуучуудын 24 цагийн хакатон · Эрүүл мэнд · Тогтвортой хөгжил · Боловсрол · Финтек · AI · Нээлттэй · 2026.11.07–08 · Улаанбаатар**
+**Touch Grass · Залуучуудын 24 цагийн хакатон · Эрүүл мэнд · Тогтвортой хөгжил · Боловсрол · Хүмүүнлэг · AI · 2026.11.07–08 · Улаанбаатар**
 
-**Юу болох вэ.** 14–20 насны 220 гаруй дунд, ахлах ангийн сурагч, оюутан 55 орчим багт хуваагдан 24 цагийн дотор бодит асуудлыг шийдэх прототип бүтээнэ. Стэнфордын TreeHacks-ийн загвараар зургаан чиглэл: эрүүл мэнд; тогтвортой хөгжил; боловсрол; финтек; хиймэл оюун ухаан (AI); нээлттэй. Салбарын мэргэжилтнүүд баг бүрийг дүгнэнэ.
+**Юу болох вэ.** 14–20 насны 220 гаруй дунд, ахлах ангийн сурагч, оюутан 55 орчим багт хуваагдан 24 цагийн дотор бодит асуудлыг шийдэх прототип бүтээнэ. Стэнфордын TreeHacks-ийн загвараар таван чиглэл: эрүүл мэнд; тогтвортой хөгжил; боловсрол; хүмүүнлэг; хиймэл оюун ухаан (AI). Салбарын мэргэжилтнүүд баг бүрийг дүгнэнэ.
 
-**Яагаад.** Монголын сурагчид олимпиадаас жил бүр медаль авдаг ч, тэдэнд бодит зүйл бүтээх боломж ховор. Нээлттэй өгөгдөл, QR төлбөр, монгол хэлтэй AI бэлэн байна. Монголд сурагч, оюутнууд өөрсдөө зохион байгуулсан, 150-аас дээш оролцогчтой бие даасан хакатон 2021 оноос хойш болоогүй.
+**Яагаад.** Монголын сурагчид олимпиадаас жил бүр медаль авдаг ч, тэдэнд бодит зүйл бүтээх боломж ховор. Нээлттэй өгөгдөл, монгол хэлтэй AI бэлэн байна. Монголд сурагч, оюутнууд өөрсдөө зохион байгуулсан, 150-аас дээш оролцогчтой бие даасан хакатон 2021 оноос хойш болоогүй.
 
 **Хэн.** Hackathon Mongolia — хөтөлбөр, шүүлт, бүртгэлийг хариуцах сурагч, оюутны зохион байгуулагчдын нэгдэл. Урам Энэрэл ТББ (Uram Care) — улсын бүртгэлтэй, залуучуудын эрүүл мэндийн ТББ; гэрээ, санхүү, тайланг хариуцна. Үүсгэн байгуулагч, зохион байгуулагчид: Анар Түвшинбаяр, Гоомарал Сандаг-Очир.
 
-**Хүсэлт.** Ерөнхий ивээн тэтгэгч 20 сая; танхимын түнш 20 сая эсвэл танхимаар; чиглэлийн ивээн тэтгэгч 5 сая (6 чиглэл); хоол 10 сая эсвэл хоол хүнсээр; бэлэг дурсгал бараагаар; шагналын сан 5 саяас дээш, ивээн тэтгэгчдийн оролцоогоор нэмэгдэнэ. Нийт төсөв 52–63 сая төгрөг. Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний и-баримт олгоно.
+**Хүсэлт.** Ерөнхий ивээн тэтгэгч 20 сая; танхимын түнш 20 сая эсвэл танхимаар; чиглэлийн ивээн тэтгэгч 5 сая (5 чиглэл); хоол 10 сая эсвэл хоол хүнсээр; бэлэг дурсгал бараагаар; шагналын сан 5 саяас дээш, ивээн тэтгэгчдийн оролцоогоор нэмэгдэнэ. Нийт төсөв 52–63 сая төгрөг. Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний и-баримт олгоно.
 
 **Шийдвэрийн хугацаа: 2026 оны 10-р сарын 25.** Холбоо барих: anartuvshinbayar1@gmail.com · hack-touchgrass.com
 

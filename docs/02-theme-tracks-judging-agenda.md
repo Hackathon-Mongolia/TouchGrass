@@ -3,7 +3,7 @@
 
 Prepared October 7, 2026. Updated October 10, 2026.
 
-> **Changed October 10: the format is now broad, on the model of Stanford's TreeHacks.** Six tracks: **Health, Sustainability, Education, Fintech, AI, Open.** Teams build anything inside a track. The problem bank below is now a list of optional ideas (28 on the website, covering Health, Sustainability, Education, Fintech and AI); there is no track board and no three-team limit. Sections 1 to 4 below are kept as background for the Health and Sustainability tracks. Awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
+> **Changed October 10: the format is now broad, on the model of Stanford's TreeHacks.** Five tracks: **Healthcare, Sustainability, Education, Humanity, AI.** Software only. Teams build anything inside a track. The problem bank below is now a list of optional ideas (30 on the website); there is no track board limit and no three-team cap. Sections 1 to 4 below are kept as background for the Healthcare and Sustainability tracks. Finals: the five track winners, plus one wildcard if the scores call for it, present on stage, so five or six teams speak. Awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
 
 ---
 
@@ -148,7 +148,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 | Design and usability | 15% | usable without explanation by the target user |
 | Creativity | 15% | an approach the judges have not seen |
 
-**Process.** Each track has a panel of three judges: one engineer or scientist, one professional from the track's field (health, environment, education, finance or AI), one sponsor representative. From 13:30 to 15:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track plus the two highest non-winners overall present on stage for 5 minutes each. The full panel of 18 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves a real problem" score wins. No judge scores a team from their own school or company.
+**Process.** Each track has a panel of three judges: one engineer or scientist, one professional from the track's field (healthcare, environment, education, social work or AI), one sponsor representative. From 13:30 to 15:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track (five), plus the highest non-winner if the judges agree its score is close to a winner's, present on stage for 5 minutes each: five or six finalists. The full panel of 15 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves a real problem" score wins. No judge scores a team from their own school or company.
 
 **Prizes.** A cash pool for the overall top three of at least 5,000,000 MNT, split 50 / 30 / 20, paid to the team by Uram Enerel with 5 percent personal income tax withheld. The pool grows with every prize-pool sponsor; the final size is announced on October 26, after commitments close. Internal target 15,000,000. Six track awards: certificates plus whatever the track sponsor puts up. Three awards across all tracks, as at Stanford's TreeHacks: Most Creative, Most Impactful and Most Technically Complex, each with a certificate and a prize from a prize sponsor; the full judging panel picks them. A team can win one placed prize and one track or cross-track award.
 
@@ -202,7 +202,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 | 15:00 | Scores tallied by two people independently; eight finalists announced |
 | 15:15 | Finals: 8 teams × 5 minutes on stage, full panel scoring |
 | 16:00 | Judges deliberate; audience: sponsor thanks |
-| 16:20 | Awards: best design, best beginner, six track awards presented by track sponsors, then third, second and first from the cash pool, first presented by the title sponsor |
+| 16:20 | Awards: Most Creative, Most Impactful, Most Technically Complex, five track awards presented by track sponsors, then third, second and first from the cash pool, first presented by the title sponsor |
 | 16:50 | Group photo. Survey link on screen |
 | 17:00 | Close. Pickups at the door; adult lead stays until the last participant leaves |
 | 17:30 | Cleanup; venue handed back by 18:30 |
@@ -215,7 +215,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 **Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by October 30.
 
-**Judges, 18.** Three per track: one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by October 30, brief on November 6 and again at 11:00 on the day.
+**Judges, 15.** Three per track (five tracks): one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by October 30, brief on November 6 and again at 11:00 on the day.
 
 **Workshop speakers, 2.** One for data sources, one for demos. Can be mentors.
 

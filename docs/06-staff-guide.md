@@ -9,9 +9,9 @@ For every organizer, team lead and volunteer of Touch Grass, the 24-hour youth h
 
 Most of us have run a Model United Nations conference. A hackathon has the same skeleton, registration, venue, delegates, food, ceremonies, sponsors, and a different heart. At a MUN the content is the debate, and delegates bring it. At a hackathon the content is 55 working prototypes, and participants build them in the room, overnight, under a clock. Our job is to make the building possible and the judging fair.
 
-**The shape of it.** Participants arrive Saturday morning, form teams of two to four, and sign up for one of six tracks on a public board. At 13:00 a 24-hour clock starts. They build: software, hardware, data tools, whatever solves a real problem. We feed them five times, run two short workshops, send mentors to walk the tables, keep the building safe through the night, and count down the hours from the microphone. At 13:00 Sunday the clock stops and submissions close. Judges visit every table, score each team against a published rubric, the top eight present on stage, and we hand out awards at 16:20.
+**The shape of it.** Participants arrive Saturday morning, form teams of two to four, and sign up for one of five tracks on a public board. At 13:00 a 24-hour clock starts. They build: software, hardware, data tools, whatever solves a real problem. We feed them five times, run two short workshops, send mentors to walk the tables, keep the building safe through the night, and count down the hours from the microphone. At 13:00 Sunday the clock stops and submissions close. Judges visit every table, score each team against a published rubric, the five track winners, and sometimes one wildcard, present on stage, and we hand out awards at 16:20.
 
-**The vocabulary** is in section 13. The six words you need today: a **track** is one of six areas (Health, Sustainability, Education, Fintech, AI, Open); an **idea** is an optional problem from the website a team may start from; a **prototype** is anything that works, however roughly; a **demo** is showing it running; the **rubric** is the scoring sheet every judge uses; **submission** is the project page a team files before the deadline.
+**The vocabulary** is in section 13. The six words you need today: a **track** is one of five areas (Healthcare, Sustainability, Education, Humanity, AI); an **idea** is an optional problem from the website a team may start from; a **prototype** is anything that works, however roughly; a **demo** is showing it running; the **rubric** is the scoring sheet every judge uses; **submission** is the project page a team files before the deadline.
 
 **What success looks like for staff, in order:** nobody is hurt or lost; everyone is fed on time; every team that submitted gets judged; judging finishes on time; sponsors receive exactly what they were promised; the room is handed back clean.
 
@@ -27,8 +27,8 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 | Times | organizers 10:00 Sat; doors 11:00; opening 12:00; hacking 13:00 Sat → 13:00 Sun; judging 13:30; finals 15:15; awards 16:20; close 17:00; venue back 18:30 |
 | Place | [venue, address] |
 | Participants | 220+ students aged 14 to 20, most of them under 18; about 55 teams; under-18s with parental consent; overnight at the venue |
-| Theme | broad, on the model of Stanford's TreeHacks: Health, Sustainability, Education, Fintech, AI, Open; 28 optional problem ideas |
-| Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; six track awards; three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex |
+| Theme | broad, on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity, AI; software only; 30 optional problem ideas |
+| Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; five track awards; three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex |
 | Organizers | Hackathon Mongolia (program) and Uram Enerel NGO, Uram Care (legal host, money, contracts) |
 | Main organizers | [co-organizer name] and Anar Tuvshinbayar |
 | Adult lead | [name, title, phone] |
@@ -106,7 +106,7 @@ If you fall behind, say so at the Wednesday update, not on the day. A late task 
 | Mentor desk | 1 | Sat 13:00–23:00, Sun 09:00–12:00 | operations |
 | Stage and MC | 1 MC + 1 tech | opening, time checks, judging, finals, awards | operations |
 | Sponsor hosts | 1 per sponsor on site | when sponsors are present | finance |
-| Timekeepers for judging | 1 per panel, 6 | Sun 13:30–15:00 | operations |
+| Timekeepers for judging | 1 per panel, 5 | Sun 13:30–15:00 | operations |
 | Photographer | 1 | both days | marketing |
 | Night shift adults | adult lead + 5 | 22:00–09:00 | adult lead, operations |
 
@@ -144,13 +144,13 @@ If you fall behind, say so at the Wednesday update, not on the day. A late task 
 
 ## 9. Judging day
 
-- **11:00** judges arrive; operations briefs them for 30 minutes in the side room: rubric, their track's nine teams, timing, conflicts of interest.
+- **11:00** judges arrive; operations briefs them for 30 minutes in the side room: rubric, their track's eleven teams, timing, conflicts of interest.
 - **13:00** the submission form closes. No exceptions, announced from the stage. Tables stay as they are.
-- **13:30–15:00** six panels of three judges visit their track's teams: three minutes of demo, two of questions. A timekeeper per panel keeps the five-minute slot with a phone timer and a hand signal at 30 seconds. Judges score on paper independently.
-- **15:00** two staff tally independently and compare; the eight finalists, six track winners plus the two highest non-winners, are read from the stage and posted in the chat.
+- **13:30–15:00** five panels of three judges visit their track's teams: three minutes of demo, two of questions. A timekeeper per panel keeps the five-minute slot with a phone timer and a hand signal at 30 seconds. Judges score on paper independently.
+- **15:00** two staff tally independently and compare; the five or six finalists, five track winners plus at most one wildcard, are read from the stage and posted in the chat.
 - **15:15–16:00** finals: eight teams, five minutes each, full panel scoring. Stage tech resets between teams.
 - **16:00** judges confer in the side room for fifteen minutes. On stage, sponsor thanks.
-- **16:20** awards in this order: best design, best beginner team, six track awards presented by track sponsors, then third, second, first, with the first prize presented by the title sponsor. Certificates are filled in during the finals; prize envelopes or products are lined up on the stage table in order.
+- **16:20** awards in this order: Most Creative, Most Impactful, Most Technically Complex, five track awards presented by track sponsors, then third, second, first, with the first prize presented by the title sponsor. Certificates are filled in during the finals; prize envelopes or products are lined up on the stage table in order.
 - **16:50** group photo with sponsor boards in frame; survey link on the screen.
 
 ---
@@ -163,7 +163,7 @@ You are here to help teams think and unblock, not to build. Walk your track's ta
 
 ## 11. Judge brief
 
-Arrive Sunday 11:00 for the briefing. You judge the nine teams in your track with two co-judges; a timekeeper keeps each visit to five minutes. Score every criterion from 1 to 5 on your own sheet before discussing with your co-judges; the weights are on the sheet: solves the stated problem for the stated user 20 percent, technical difficulty 20, use of evidence and data 15, completeness of the demo 15, design and usability 15, creativity 15. Judge what runs in front of you, not the slides. Ask one hard question per team. You do not score a team from your own company or school; tell the timekeeper and your co-judges score it. In the finals the full panel scores all eight on the same rubric. Ties: three minutes of discussion, then the higher score on "solves the stated problem" wins. What you say to a team at its table should leave it better than you found it.
+Arrive Sunday 11:00 for the briefing. You judge the eleven teams in your track with two co-judges; a timekeeper keeps each visit to five minutes. Score every criterion from 1 to 5 on your own sheet before discussing with your co-judges; the weights are on the sheet: solves the stated problem for the stated user 20 percent, technical difficulty 20, use of evidence and data 15, completeness of the demo 15, design and usability 15, creativity 15. Judge what runs in front of you, not the slides. Ask one hard question per team. You do not score a team from your own company or school; tell the timekeeper and your co-judges score it. In the finals the full panel scores all eight on the same rubric. Ties: three minutes of discussion, then the higher score on "solves the stated problem" wins. What you say to a team at its table should leave it better than you found it.
 
 ---
 
@@ -177,7 +177,7 @@ Sunday 17:00 to 18:30: cleanup by every organizer and volunteer; tables and chai
 
 - **Hackathon** — a timed competition where teams build working prototypes.
 - **Hack** — to build something quickly that works; nothing to do with breaking into systems.
-- **Track** — one of the six problem areas; each team competes within one.
+- **Track** — one of the five areas; each team competes within one.
 - **Idea** — an optional problem from the website's idea list; teams may bring their own instead.
 - **Track board** — the public board where each team writes its name under the track it entered.
 - **Prototype** — the thing a team builds; it works, roughly, and proves the idea.

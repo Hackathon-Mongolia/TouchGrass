@@ -10,8 +10,8 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 **On Sunday November 8 at 17:00:**
 1. 200+ participants attended, 50+ teams submitted, nobody got hurt.
 2. Every submitted team demoed something that runs, to a judge who scored it.
-3. Six track winners and an overall top three announced on stage, prizes handed over.
-4. Title sponsor, venue partner, six track sponsors or the equivalent, and food covered; the prize pool funded above its 5,000,000 MNT floor.
+3. Five track winners and an overall top three announced on stage, prizes handed over.
+4. Title sponsor, venue partner, five track sponsors or the equivalent, and food covered; the prize pool funded above its 5,000,000 MNT floor.
 5. 25+ schools and universities represented.
 
 **By Friday November 13:**
@@ -32,7 +32,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 | Format | 24-hour hack, Sat 13:00 → Sun 13:00, overnight at the venue; Plan B daytime split if overnight refused |
 | Scale | 220+ attending, plan for 260 registrations, cap 300 |
 | Audience | students 16–24, high school and university, free entry |
-| Theme | Health × Environment, six tracks, 24-statement problem bank |
+| Theme | broad, TreeHacks model: Healthcare, Sustainability, Education, Humanity, AI; 30 optional ideas |
 | Organizers | Hackathon Mongolia, a student collective (GitHub org Hackathon-Mongolia, not a registered entity), runs the program; Uram Enerel NGO (Uram Care), registered and government-recognized, is the legal host |
 | Legal host | Uram Enerel NGO: signs contracts, receives funds, pays vendors, issues e-barimt, reports |
 | Recognition | through Uram Enerel: [government body], [form]; Hackathon Mongolia itself has no registration and needs none |
@@ -177,7 +177,7 @@ Scaling: 180 attending saves about 900,000 on shirts and badges and nothing else
 |---|---|---|
 | Title sponsor | 20,000,000 | one; funds the prize pool above its floor and the shirts |
 | Venue partner | 20,000,000 or hall in kind | a university, a sponsor's headquarters, or a paid hall |
-| Track sponsors | 30,000,000 | six × 5,000,000; unsold tracks run unsponsored |
+| Track sponsors | 25,000,000 | five × 5,000,000; unsold tracks run unsponsored |
 | Food sponsor | 10,000,000 or catering in kind | |
 | Merchandise sponsor | 4,500,000 or shirts and stickers in kind | |
 | Prize-pool and category sponsors | 2,000,000 to 6,000,000 | |
