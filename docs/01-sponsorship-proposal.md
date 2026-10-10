@@ -13,7 +13,7 @@
 
 **Who runs it.** Touch Grass was founded and is organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. **Hackathon Mongolia**, their student organizing team, designs and runs the program. **Uram Enerel NGO**, known as Uram Care, a registered youth health NGO with volunteers and school chapters across Mongolia, is the legal host: contracts, funds, receipts, reporting. A responsible adult from Uram Enerel NGO is on site for the full 24 hours.
 
-**Who comes.** Secondary school and university students aged 14 to 20, free of charge, from 25+ institutions. Mentors from industry and universities; a judging panel of engineers, doctors, environmental scientists and sponsor representatives.
+**Who comes.** Secondary school and university students aged 14 to 20, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, environmental scientists and sponsor representatives.
 
 **The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, six track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments. **Commitments close October 25, 2026.**
 
@@ -37,7 +37,7 @@
 |---|---|
 | Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; in English |
 | Hacking window | Saturday 13:00 to Sunday 13:00 |
-| Participants | 220+ students aged 14 to 20; free entry; parental consent for under-18s |
+| Participants | 220+ students aged 14 to 20; 45,000 MNT participation fee; parental consent for under-18s |
 | Tracks | six; each team claims one of 24 problem statements, so no two projects are the same |
 | Support | two workshops Saturday, mentor hours, a night mentor on call |
 | Judging | one three-judge panel per track visits every team; six track winners plus two wildcards present on stage; the full panel picks the top three |
@@ -78,7 +78,7 @@ Every sponsor receives a logo on the website and results post, a mention in the 
 | Contingency 10% | 4,750,000 to 5,750,000 |
 | **Total** | **52,000,000 to 63,000,000**, about 20,000,000 less if the hall is in kind |
 
-All payments go through Uram Enerel's account with receipts. The itemized ledger goes to every sponsor in the final report.
+Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of this; sponsors cover the rest. All payments go through Uram Enerel's account with receipts. The itemized ledger goes to every sponsor in the final report.
 
 ---
 

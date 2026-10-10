@@ -66,7 +66,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 **Your event days:** own the sponsor representatives on site: badges, hosts, their slots, their judges; keep the sponsor deliverables checklist; hold the prize envelopes until the awards.
 
 ### Marketing
-**You own** the name and look, the website or Facebook event, the registration form and its emails, outreach to Uram Care's 15+ school chapters and 25 institutions, the group chat, the content calendar, the photographer, the results post and the survey.
+**You own** the name and look, the website or Facebook event, the registration form and its emails, outreach through the website and the organizers' networks (not through schools), the 45,000 MNT fee and its payment check, the group chat, the content calendar, the photographer, the results post and the survey.
 **Your gates:** registration opens Mon Oct 12; closes Tue Nov 3 with the final headcount.
 **Your event days:** own check-in Saturday 11:00 to 13:30; own photography, the live posts, and the group chat announcements; run the mini-event; collect survey responses at close.
 

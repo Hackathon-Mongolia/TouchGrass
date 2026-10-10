@@ -209,7 +209,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 ## 7. Participants, mentors, judges
 
-**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Uram Care's 15+ school chapters are the first recruitment channel: one post in each chapter's group the day registration opens. Registration opens October 12 and closes November 3.
+**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Recruitment runs through the website and the organizers' own networks, not through schools. Participation is 45,000 MNT per person, paid to Uram Enerel NGO. Registration opens October 12 and closes November 3.
 
 **Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by October 30.
 
