@@ -66,7 +66,7 @@ Two organizations, two main organizers, four teams. Hackathon Mongolia owns ever
 | **Logistics** | venue contract and walk-through, tables and power for 55 teams, wifi with the telecom sponsor, signage, supplies, catering quotes and orders, delivery timing, sleeping rooms, security, cleanup | [name] |
 | **Finance** | money flow through Uram Enerel, sponsor contracts and invoices, budget, ledger with receipts, prizes and prize tax, post-event financial report; works directly with Uram Enerel's accountant | [name] |
 | **Marketing** | name and identity, website or Facebook event, registration form, school and university outreach, group chat, info emails, social posts, media, photographer, results post | [name] |
-| **Operations** | run-of-show, check-in, claim board, submission platform, mentors, judges and rubric, workshops, volunteer roster, night shift, consent forms, safety, judging tally | [name] |
+| **Operations** | run-of-show, check-in, track board, submission platform, mentors, judges and rubric, workshops, volunteer roster, night shift, consent forms, safety, judging tally | [name] |
 | **Adult lead** | signs venue and sponsor documents with the NGO, responsible on site 24 hours, on call overnight | [name] |
 
 **Weekly rhythm.** One 30-minute all-hands on Sunday evening (Oct 11, 18, 25, Nov 1) with the gate status; team leads post a three-line update in the organizer chat every Wednesday. Decisions not made in those two places are made by the main organizers the same day.
@@ -119,7 +119,7 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 
 | Date | Task | Owner |
 |---|---|---|
-| Wed Oct 28 | **Info email 1** to registrants. Track sponsors' problem statements final. | K, O |
+| Wed Oct 28 | **Info email 1** to registrants. Track sponsors' optional challenges final. | K, O |
 | Thu Oct 29 | Buy supplies: 60 power strips, 20 extension cords, tape, name tags, first aid, flashlights, sign-out log. Order printing. | L |
 | Fri Oct 30 | **Judges and mentors confirmed**: 18 and 20. Briefing invitation for Nov 6 sent. | O |
 | Sat Oct 31 | Sponsor logos collected; signage and website updated; sponsor deliverables checklist started. | K, F |
@@ -132,7 +132,7 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 | Date | Task | Owner |
 |---|---|---|
 | Wed Nov 4 | **Info email 2**: schedule, rules, consent reminder, what to bring for the overnight. Consent upload deadline. | K, O |
-| Thu Nov 5 | Print check-in lists, judge sheets, table numbers, claim board. Pack supplies. MC script final. | O, L, M |
+| Thu Nov 5 | Print check-in lists, judge sheets, table numbers, track board. Pack supplies. MC script final. | O, L, M |
 | Fri Nov 6 | **Briefings**: volunteers, judges, mentors, night shift, sponsor speakers. Venue setup in the evening. | M, O, L |
 | Sat Nov 7 | Event day 1. | all |
 | Sun Nov 8 | Submissions 13:00, judging, finals, awards 16:20, close 17:00, venue back 18:30. | all |
@@ -162,7 +162,7 @@ Cash flows only through Uram Enerel NGO. Figures below use the organizers' estim
 | Power strips 60, extension cords 20, tape, name tags, first aid, flashlights | 2,500,000 | |
 | Photography and video | 800,000 | one photographer both days plus a 2-minute recap video |
 | Overnight security and cleaning | 800,000 | |
-| Printing and signage | 700,000 | posters, table numbers, claim board, judge sheets, certificates |
+| Printing and signage | 700,000 | posters, table numbers, track board, judge sheets, certificates |
 | First aider, 24 hours | 300,000 | |
 | Wifi | 0 | provided by the venue |
 | Subtotal | 57,500,000 | |
@@ -201,7 +201,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 | Under 150 registrations by Oct 24 | double outreach to universities; sponsors told honestly; budget scaled |
 | Over 300 registrations | waitlist; second venue room if available; never exceed fire capacity |
 | Judging overruns with 55 teams | track panels, 5-minute slots, timekeepers, finals capped at 8 |
-| Projects overlap | problem bank with claim board; three-claim cap; rubric rewards fit |
+| Projects overlap | broad tracks; ideas are optional, teams bring their own; rubric rewards solving a real problem |
 | A minor is hurt, ill or leaves at night | consent forms with emergency contacts, sign-out log, two adults awake per 100, first aider on site, parent numbers at the desk |
 | Sponsor demands control of judging | tier table and contract say one judge seat, rubric decides |
 | A sponsor pays late | contract payment dates before Nov 1; food sponsor pays caterer directly |
@@ -227,7 +227,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 
 Full minute-by-minute agenda is in the companion document. The shape:
 
-- **Saturday:** setup 10:00, doors 11:00, opening 12:00, team formation and claim board 12:30, hacking 13:00, lunch at tables, workshop 14:30, mentor hour 16:00, workshop 17:30, dinner 19:00, mini-event 20:30, minor sign-out 21:00, night briefing 22:00, midnight snack 23:30.
+- **Saturday:** setup 10:00, doors 11:00, opening 12:00, team formation and track board 12:30, hacking 13:00, lunch at tables, workshop 14:30, mentor hour 16:00, workshop 17:30, dinner 19:00, mini-event 20:30, minor sign-out 21:00, night briefing 22:00, midnight snack 23:30.
 - **Overnight:** quiet hours 01:00 to 06:00, two adults awake per 100 participants, floor walk every 30 minutes, breakfast 07:00.
 - **Sunday:** returnees by 10:00, judges 11:00, lunch 12:15, submissions 13:00, track judging 13:30 to 15:00, finals 15:15, awards 16:20, close 17:00, venue back 18:30.
 

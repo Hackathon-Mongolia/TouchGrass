@@ -44,7 +44,7 @@ All-hands every Sunday evening for 30 minutes: Oct 11, 18, 25, Nov 1. Team leads
 | Sat Oct 17 | L | Two catering quotes for 260 people: five meals and snacks, dietary options, delivery times. |  |
 | Sat Oct 17 | K | Two merchandise quotes: 220 shirts, 500 stickers, 300 badges with lanyards. |  |
 | Sun Oct 18 | M | All-hands 2. Registration check: 80+ means on track; under 50 means double outreach this week. | all-hands |
-| Sun Oct 18 | O | Invite confirmed track sponsors to co-write their track's problem statements. |  |
+| Sun Oct 18 | O | Invite confirmed track sponsors to set an optional challenge for their track. |  |
 | Mon Oct 19 | F | Phone follow-ups on sponsor waves 1 and 2; update the sheet. |  |
 | Mon Oct 19 | K | Three-week content calendar: two posts a week, one countdown post, sponsor announcements as they land. |  |
 | Mon Oct 19 | O | Ask the two workshop speakers: data sources, and how to demo. |  |
@@ -62,7 +62,7 @@ All-hands every Sunday evening for 30 minutes: Oct 11, 18, 25, Nov 1. Team leads
 | Tue Oct 27 | L | Security, cleaning and first aider booked firm for Nov 7–8. |  |
 | Tue Oct 27 | O | NIGHT-SHIFT GATE: adult lead plus five night adults confirmed with shifts, or switch to Plan B. | **GATE** |
 | Wed Oct 28 | K | Info email 1 to registrants: venue, overnight rules, what to bring, consent form, schedule outline. |  |
-| Wed Oct 28 | O | Track sponsors' problem statements final and published; claim board layout done. |  |
+| Wed Oct 28 | O | Track sponsors' optional challenges final and published; track board layout done. |  |
 | Thu Oct 29 | L | Buy supplies: 60 power strips, 20 extension cords, gaffer tape, name tags, first-aid kits, flashlights, sign-out log. Order printing and signage. |  |
 | Fri Oct 30 | O | Judges (18) and mentors (20) confirmed; sponsors' judges and workshop speakers named; Nov 6 briefing invitations sent. | milestone |
 | Sat Oct 31 | F | Sponsor deliverables checklist opened: what each sponsor is owed, when, done or not. |  |
@@ -75,7 +75,7 @@ All-hands every Sunday evening for 30 minutes: Oct 11, 18, 25, Nov 1. Team leads
 | Wed Nov 4 | K | Info email 2: full schedule, rules, submission link, consent reminder, overnight packing list, pickup rule. |  |
 | Wed Nov 4 | O | Consent upload deadline. Volunteer roster (10) and night-shift roster final. |  |
 | Thu Nov 5 | L | Pack supplies; confirm delivery times with the caterer; confirm security and first aider arrival times. |  |
-| Thu Nov 5 | O | Print check-in lists, judge score sheets, table numbers, claim board, certificates. MC script final. Sponsor opening slides collected. |  |
+| Thu Nov 5 | O | Print check-in lists, judge score sheets, table numbers, track board, certificates. MC script final. Sponsor opening slides collected. |  |
 | Fri Nov 6 | M | Briefings, 30 minutes each: volunteers, judges, mentors, night shift, sponsor speakers. |  |
 | Fri Nov 6 | L | Venue setup in the evening: tables, power strips taped, signage, check-in desk, sleeping rooms, projector and wifi test, electrician check. |  |
 | Sat Nov 7 | M | EVENT DAY 1. Organizers 10:00, doors 11:00, opening 12:00, hacking 13:00, dinner 19:00, minor sign-out 21:00, night shift from 22:00. | **EVENT** |
@@ -156,16 +156,16 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 - Sat Oct 10: Draft the rules, problem bank, rubric, agenda and FAQ pages from the theme document.
 - Sun Oct 11: Publish rules, tracks, problem bank, rubric, agenda, consent-form notice and FAQ.
 - Fri Oct 16: Ask 30 mentors and 25 judges, three judges per track plus reserves, with the one-page brief and the Nov 6 briefing date.
-- Sun Oct 18: Invite confirmed track sponsors to co-write their track's problem statements.
+- Sun Oct 18: Invite confirmed track sponsors to set an optional challenge for their track.
 - Mon Oct 19: Ask the two workshop speakers: data sources, and how to demo.
 - Tue Oct 20: Submission platform decided and set up; one dummy submission tested end to end.
 - Thu Oct 22: Workshop speakers confirmed; mentor roster by track, version 1.
 - Fri Oct 23: Consent form final with the overnight section, translated to Mongolian, linked from the confirmation email.
 - **Tue Oct 27**: NIGHT-SHIFT GATE: adult lead plus five night adults confirmed with shifts, or switch to Plan B.
-- Wed Oct 28: Track sponsors' problem statements final and published; claim board layout done.
+- Wed Oct 28: Track sponsors' optional challenges final and published; track board layout done.
 - Fri Oct 30: Judges (18) and mentors (20) confirmed; sponsors' judges and workshop speakers named; Nov 6 briefing invitations sent.
 - Wed Nov 4: Consent upload deadline. Volunteer roster (10) and night-shift roster final.
-- Thu Nov 5: Print check-in lists, judge score sheets, table numbers, claim board, certificates. MC script final. Sponsor opening slides collected.
+- Thu Nov 5: Print check-in lists, judge score sheets, table numbers, track board, certificates. MC script final. Sponsor opening slides collected.
 
 ### Uram Enerel (UE)
 
@@ -188,7 +188,7 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 | 10:00 | setup | 07:00 | breakfast |
 | 11:00 | doors, check-in | 09:00 | day shift; sleeping rooms cleared by 09:30 |
 | 12:00 | opening | 10:00 | returnees back; three-hour check |
-| 12:30 | team formation, claim board | 11:00 | judges arrive and brief |
+| 12:30 | team formation, track board | 11:00 | judges arrive and brief |
 | 13:00 | hacking starts, lunch at tables | 12:15 | lunch at tables |
 | 14:30 | workshop 1 | 13:00 | submission deadline |
 | 16:00 | mentor hour | 13:30 | track judging at tables |

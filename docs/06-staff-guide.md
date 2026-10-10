@@ -9,9 +9,9 @@ For every organizer, team lead and volunteer of Touch Grass, the 24-hour youth h
 
 Most of us have run a Model United Nations conference. A hackathon has the same skeleton, registration, venue, delegates, food, ceremonies, sponsors, and a different heart. At a MUN the content is the debate, and delegates bring it. At a hackathon the content is 55 working prototypes, and participants build them in the room, overnight, under a clock. Our job is to make the building possible and the judging fair.
 
-**The shape of it.** Participants arrive Saturday morning, form teams of two to four, and claim one problem statement from a public board. At 13:00 a 24-hour clock starts. They build: software, hardware, data tools, whatever solves their problem. We feed them five times, run two short workshops, send mentors to walk the tables, keep the building safe through the night, and count down the hours from the microphone. At 13:00 Sunday the clock stops and submissions close. Judges visit every table, score each team against a published rubric, the top eight present on stage, and we hand out awards at 16:20.
+**The shape of it.** Participants arrive Saturday morning, form teams of two to four, and sign up for one of six tracks on a public board. At 13:00 a 24-hour clock starts. They build: software, hardware, data tools, whatever solves a real problem. We feed them five times, run two short workshops, send mentors to walk the tables, keep the building safe through the night, and count down the hours from the microphone. At 13:00 Sunday the clock stops and submissions close. Judges visit every table, score each team against a published rubric, the top eight present on stage, and we hand out awards at 16:20.
 
-**The vocabulary** is in section 13. The six words you need today: a **track** is one of six problem areas; a **problem statement** is a one-line task a team claims; a **prototype** is anything that works, however roughly; a **demo** is showing it running; the **rubric** is the scoring sheet every judge uses; **submission** is the project page a team files before the deadline.
+**The vocabulary** is in section 13. The six words you need today: a **track** is one of six areas (Health, Sustainability, Education, Fintech, AI, Open); an **idea** is an optional problem from the website a team may start from; a **prototype** is anything that works, however roughly; a **demo** is showing it running; the **rubric** is the scoring sheet every judge uses; **submission** is the project page a team files before the deadline.
 
 **What success looks like for staff, in order:** nobody is hurt or lost; everyone is fed on time; every team that submitted gets judged; judging finishes on time; sponsors receive exactly what they were promised; the room is handed back clean.
 
@@ -27,7 +27,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 | Times | organizers 10:00 Sat; doors 11:00; opening 12:00; hacking 13:00 Sat → 13:00 Sun; judging 13:30; finals 15:15; awards 16:20; close 17:00; venue back 18:30 |
 | Place | [venue, address] |
 | Participants | 220+ students aged 14 to 20, most of them under 18; about 55 teams; under-18s with parental consent; overnight at the venue |
-| Theme | health problems with an environmental cause; six tracks; 24 problem statements |
+| Theme | broad, on the model of Stanford's TreeHacks: Health, Sustainability, Education, Fintech, AI, Open; 28 optional problem ideas |
 | Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; six track awards; three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex |
 | Organizers | Hackathon Mongolia (program) and Uram Enerel NGO, Uram Care (legal host, money, contracts) |
 | Main organizers | [co-organizer name] and Anar Tuvshinbayar |
@@ -71,7 +71,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 **Your event days:** own check-in Saturday 11:00 to 13:30; own photography, the live posts, and the group chat announcements; run the mini-event; collect survey responses at close.
 
 ### Operations
-**You own** the program: the run-of-show and MC script, the rules, problem bank and claim board, the submission platform, mentors and judges and their briefings, the two workshops, the volunteer roster, the night shift roster, consent forms, safety, the judging tally and the awards sequence.
+**You own** the program: the run-of-show and MC script, the rules, problem bank and track board, the submission platform, mentors and judges and their briefings, the two workshops, the volunteer roster, the night shift roster, consent forms, safety, the judging tally and the awards sequence.
 **Your gates:** judges and mentors confirmed Fri Oct 30; night shift confirmed Tue Oct 27.
 **Your event days:** own the clock and the microphone; own the mentor desk and the organizer desk; own the overnight; own judging from 11:00 Sunday to the last certificate.
 
@@ -178,8 +178,8 @@ Sunday 17:00 to 18:30: cleanup by every organizer and volunteer; tables and chai
 - **Hackathon** — a timed competition where teams build working prototypes.
 - **Hack** — to build something quickly that works; nothing to do with breaking into systems.
 - **Track** — one of the six problem areas; each team competes within one.
-- **Problem statement** — a one-line task with a named user and a verb; a team claims one.
-- **Claim board** — the public board where teams mark the statement they took; a statement closes after three claims.
+- **Idea** — an optional problem from the website's idea list; teams may bring their own instead.
+- **Track board** — the public board where each team writes its name under the track it entered.
 - **Prototype** — the thing a team builds; it works, roughly, and proves the idea.
 - **MVP** — minimum viable product; the smallest version that works end to end.
 - **Demo** — showing the prototype running, live, in three minutes.
@@ -205,7 +205,7 @@ Sunday 17:00 to 18:30: cleanup by every organizer and volunteer; tables and chai
 
 ## 14. Staff FAQ
 
-**I have never been to a hackathon. Is that a problem?** No. Your MUN experience covers the venue, the people, the food and the ceremonies, which is most of the work. The hackathon-specific parts, judging, mentors, the claim board, belong to operations, and this guide plus the Friday briefing is enough.
+**I have never been to a hackathon. Is that a problem?** No. Your MUN experience covers the venue, the people, the food and the ceremonies, which is most of the work. The hackathon-specific parts, judging, mentors, the track board, belong to operations, and this guide plus the Friday briefing is enough.
 
 **A participant asks me whether their idea is good.** Say you are not a judge and send them to a mentor.
 

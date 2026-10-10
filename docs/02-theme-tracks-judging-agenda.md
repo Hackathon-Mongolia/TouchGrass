@@ -1,7 +1,9 @@
 # Touch Grass — Theme, Tracks, Judging and Agenda
-## A 24-hour youth hackathon on health and the environment · November 7–8, 2026
+## A 24-hour youth hackathon · November 7–8, 2026
 
-Prepared October 7, 2026.
+Prepared October 7, 2026. Updated October 10, 2026.
+
+> **Changed October 10: the format is now broad, on the model of Stanford's TreeHacks.** Six tracks: **Health, Sustainability, Education, Fintech, AI, Open.** Teams build anything inside a track. The problem bank below is now a list of optional ideas (28 on the website, covering Health, Sustainability, Education, Fintech and AI); there is no track board and no three-team limit. Sections 1 to 4 below are kept as background for the Health and Sustainability tracks. Awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
 
 ---
 
@@ -28,7 +30,7 @@ Why this theme works for both audiences:
 Three mechanisms, all cheap to run:
 
 1. **Problem statements, not themes.** Teams do not pick "air pollution." They pick one of four statements inside the track, each with a named user and a verb. "Help a parent decide whether a child walks to school today" and "Help a school principal decide when to keep classes indoors" are different products.
-2. **The claim board.** At team formation on Saturday, each team claims one statement on a public board. A statement closes after three claims. Teams that share a statement must declare a different target user or approach on the board, in one line, before 14:00.
+2. **The track board.** At team formation on Saturday, each team claims one statement on a public board. A statement closes after three claims. Teams that share a statement must declare a different target user or approach on the board, in one line, before 14:00.
 3. **The rubric rewards fit, not ambition.** Twenty percent of the score is "solves the stated problem for the stated user." A beautiful product aimed at nobody loses to a rough one aimed at the right person.
 
 Expected spread for 55 teams: about 9 per track, 2 to 3 per statement.
@@ -125,7 +127,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 **Eligibility.** Students aged 14 to 20 enrolled in a secondary school, university or college in Mongolia. Under-18s bring a signed parental consent form covering the overnight. Organizers, judges and mentors do not compete.
 
-**Teams.** Two to four people. Form before the event or at team formation Saturday 12:30. One team per person, one submission per team, one claimed problem statement per team.
+**Teams.** Two to four people. Form before the event or at team formation Saturday 12:30. One team per person, one submission per team, one track per team.
 
 **Building.** Everything is built between Saturday 13:00 and Sunday 13:00. Public libraries, frameworks, APIs, templates, AI assistants and open datasets are allowed; say what you used. Pre-existing code, work by people not on the team, and copying another team are not allowed. Judges may inspect repository history.
 
@@ -133,20 +135,20 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 **Code of conduct.** Respect, no harassment, no alcohol, drugs or smoking, venue rules, quiet hours 01:00 to 06:00, single-gender supervised sleeping rooms, no leaving the building 22:00 to 07:00 without a parent. Organizers act immediately, up to removal.
 
-**Submission, Sunday 13:00 sharp.** Project page on [Devpost or form] with: problem statement claimed, what it does and for whom, a live demo plus a 2-minute video or screenshots as backup, repository link, tools and data used.
+**Submission, Sunday 13:00 sharp.** Project page on [Devpost or form] with: track, the problem and who has it, what it does, a live demo plus a 2-minute video or screenshots as backup, repository link, tools and data used.
 
 **Rubric, each criterion scored 1 to 5, weights in brackets.**
 
 | Criterion | Weight | 5 looks like |
 |---|---|---|
-| Solves the stated problem for the stated user | 20% | the user named in the statement could use this tomorrow |
+| Solves a real problem for real people | 20% | the people the team names could use this tomorrow |
 | Technical difficulty and soundness | 20% | real engineering, works under questioning |
 | Use of evidence and data | 15% | real Ulaanbaatar data or studies, correctly used |
 | Completeness of the demo | 15% | the core flow runs live, end to end |
 | Design and usability | 15% | usable without explanation by the target user |
 | Creativity | 15% | an approach the judges have not seen |
 
-**Process.** Each track has a panel of three judges: one engineer or scientist, one health or environment professional, one sponsor representative. From 13:30 to 15:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track plus the two highest non-winners overall present on stage for 5 minutes each. The full panel of 18 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves the stated problem" score wins. No judge scores a team from their own school or company.
+**Process.** Each track has a panel of three judges: one engineer or scientist, one professional from the track's field (health, environment, education, finance or AI), one sponsor representative. From 13:30 to 15:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track plus the two highest non-winners overall present on stage for 5 minutes each. The full panel of 18 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves a real problem" score wins. No judge scores a team from their own school or company.
 
 **Prizes.** A cash pool for the overall top three of at least 5,000,000 MNT, split 50 / 30 / 20, paid to the team by Uram Enerel with 5 percent personal income tax withheld. The pool grows with every prize-pool sponsor; the final size is announced on October 26, after commitments close. Internal target 15,000,000. Six track awards: certificates plus whatever the track sponsor puts up. Three awards across all tracks, as at Stanford's TreeHacks: Most Creative, Most Impactful and Most Technically Complex, each with a certificate and a prize from a prize sponsor; the full judging panel picks them. A team can win one placed prize and one track or cross-track award.
 
@@ -160,13 +162,13 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 | Time | What |
 |---|---|
-| 10:00 | Organizers arrive. 55 tables, 60 power strips, signage, check-in desk, projector and wifi test, sleeping rooms labeled, claim board up |
+| 10:00 | Organizers arrive. 55 tables, 60 power strips, signage, check-in desk, projector and wifi test, sleeping rooms labeled, track board up |
 | 10:30 | Volunteers and day mentors arrive; 15-minute briefing |
 | 11:00 | Doors. Check-in on four lines by surname. Snacks and water out |
 | 12:00 | Opening, 30 minutes: welcome from Hackathon Mongolia; Uram Enerel and [government body]; title sponsor 5 min; the six tracks in one minute each by their sponsors or the organizers; rules, schedule, safety and overnight rules |
-| 12:30 | Team formation: solo participants pitch for 60 seconds; teams claim a statement on the board |
+| 12:30 | Team formation: solo participants pitch for 60 seconds; teams write their name under a track on the board |
 | 13:00 | **Hacking starts.** Clock starts. Lunch boxes at tables |
-| 14:00 | Claim board closes; shared-statement teams have declared their distinct user |
+| 14:00 | Track board closes |
 | 14:30 | Workshop 1, 30 min: "Where Ulaanbaatar's health and environment data actually is," with live API calls |
 | 16:00 | Mentor hour: mentors walk every table |
 | 17:30 | Workshop 2, 30 min: "How to demo in 3 minutes" |
