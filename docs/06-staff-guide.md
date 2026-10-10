@@ -28,7 +28,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 | Place | [venue, address] |
 | Participants | 220+ students aged 14 to 20, most of them under 18; about 55 teams; under-18s with parental consent; overnight at the venue |
 | Theme | health problems with an environmental cause; six tracks; 24 problem statements |
-| Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; six track awards; two category prizes |
+| Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; six track awards; three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex |
 | Organizers | Hackathon Mongolia (program) and Uram Enerel NGO, Uram Care (legal host, money, contracts) |
 | Main organizers | [co-organizer name] and Anar Tuvshinbayar |
 | Adult lead | [name, title, phone] |

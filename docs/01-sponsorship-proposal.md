@@ -57,7 +57,7 @@
 | **Track** | 5,000,000 | 6 | a track carries your name; you co-write its problem statements; a judge on its panel; a 15-minute workshop; you present the track award |
 | **Food** | 10,000,000 or catering in kind | 1 to 2 | "Meals by Your Company" at five meals; logo on site and stage; thanks at each meal |
 | **Merchandise** | 220 t-shirts and stickers in kind, or 4,500,000 | 1 | your logo on the shirt with the title sponsor's |
-| **Prize pool** | 1,000,000 and up | several | named contribution to the top-three pool; present a category prize on stage |
+| **Prize pool** | 1,000,000 and up | several | named contribution to the top-three pool; present one of the three awards across all tracks (Most Creative, Most Impactful, Most Technically Complex) on stage |
 | **In kind** | goods or services | open | security, printing, water, photography, cloud credits, hardware; logo on site and thanks from the stage |
 
 Every sponsor receives a logo on the website and results post, a mention in the report, event photographs, and a thank-you from the stage. Wifi is provided by the venue.
