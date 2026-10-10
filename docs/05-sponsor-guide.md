@@ -30,7 +30,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 | Teams | about 55, of two to four |
 | Tracks | five: Healthcare · Sustainability · Education · Humanity · AI; software only |
 | Judging | one three-judge panel per track visits every team; the five track winners plus at most one wildcard (five or six teams) present on stage; the full panel picks the overall top three |
-| Prizes | cash pool for the top three of at least 5,000,000 MNT, split 50 / 30 / 20, growing with sponsor commitments; track awards; category prizes |
+| Prizes | cash pool for the top three of at least 5,000,000 MNT, split 50 / 30 / 20, growing with sponsor commitments; 2,000,000 MNT to each of the five track winners; three cross-track awards |
 | Organizers | Hackathon Mongolia, a student organizing collective, runs the program. Uram Enerel NGO (Uram Care), a registered youth health NGO with 1,500+ volunteers and 15+ school chapters, is the legal host |
 | Recognition | [government body, form] |
 | Responsible adult | [name, title], on site throughout |
@@ -61,7 +61,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 |---|---|---|
 | Title | 20,000,000 | event named "Touch Grass presented by [You]"; logo first on every surface; 5-minute opening slot; one judge on the final panel; you present the first prize; first access to winning teams; opt-in participant CVs |
 | Venue partner | 20,000,000 or the hall in kind | "Hosted at [You]"; logo on every table card and all signage; named in every announcement; opening remarks |
-| Track | 5,000,000 | one of five tracks carries your name; you can set an optional challenge for it; one judge on its panel; a 15-minute workshop; you present the track award |
+| Track | 5,000,000 | one of five tracks carries your name; 2,000,000 of it is the cash prize you hand to your track's winner; you can set an optional challenge for it; one judge on its panel; a 15-minute workshop; you present the track award |
 | Food | 10,000,000 or catering in kind | "Meals by [You]" at five meals; thanks from the stage at each; logo on site and stage |
 | Merchandise | 220 shirts and stickers in kind, or 4,500,000 | your logo on the shirt beside the title sponsor's |
 | Prize pool | 1,000,000 and up | named contribution to the top-three pool; you present a category prize |

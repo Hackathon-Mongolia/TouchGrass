@@ -15,7 +15,7 @@
 
 **Who comes.** Secondary school and university students aged 14 to 20, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, AI professionals and sponsor representatives.
 
-**The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, five track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments. **Commitments close October 25, 2026.**
+**The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, five track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments; each of the five track winners also receives 2,000,000 MNT. **Commitments close October 25, 2026.**
 
 ---
 
@@ -54,7 +54,7 @@
 |---|---|---|---|
 | **Title** | 20,000,000 | 1 | "Touch Grass presented by Your Company"; logo first everywhere including all 220 t-shirts; 5-minute opening slot; judge on the final panel; you present first prize; first access to winning teams; opt-in participant CVs |
 | **Venue partner** | 20,000,000 or the hall in kind | 1 | "Hosted at Your Company"; logo on every table card and all signage; named in every announcement; opening remarks |
-| **Track** | 5,000,000 | 5 | a track carries your name; you can set an optional challenge for it; a judge on its panel; a 15-minute workshop; you present the track award |
+| **Track** | 5,000,000 | 5 | a track carries your name; 2,000,000 of it is your track's cash prize, which you hand to the winning team on stage; you can set an optional challenge for it; a judge on its panel; a 15-minute workshop; you present the track award |
 | **Food** | 10,000,000 or catering in kind | 1 to 2 | "Meals by Your Company" at five meals; logo on site and stage; thanks at each meal |
 | **Merchandise** | 220 t-shirts and stickers in kind, or 4,500,000 | 1 | your logo on the shirt with the title sponsor's |
 | **Prize pool** | 1,000,000 and up | several | named contribution to the top-three pool; present one of the three awards across all tracks (Most Creative, Most Impactful, Most Technically Complex) on stage |
@@ -71,12 +71,13 @@ Every sponsor receives a logo on the website and results post, a mention in the 
 | Venue, two days including overnight | 20,000,000 |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 |
 | Prize pool for the top three, split 50 / 30 / 20 | 5,000,000 minimum, target 15,000,000 |
+| Track prizes, 2,000,000 for each of five track winners, from track sponsorships | 10,000,000 |
 | T-shirts, stickers, badges | 4,400,000 |
 | Judges, designers, finance support | 3,000,000 |
 | Power, supplies, first aid, printing, signage | 3,200,000 |
 | Photography, security, cleaning, first aider | 1,900,000 |
-| Contingency 10% | 4,750,000 to 5,750,000 |
-| **Total** | **52,000,000 to 63,000,000**, about 20,000,000 less if the hall is in kind |
+| Contingency 10% | 5,750,000 to 6,750,000 |
+| **Total** | **63,000,000 to 74,000,000**, about 20,000,000 less if the hall is in kind |
 
 Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of this; sponsors cover the rest. All payments go through Uram Enerel's account with receipts. The itemized ledger goes to every sponsor in the final report.
 
@@ -103,7 +104,7 @@ Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of 
 
 **Хэн.** Hackathon Mongolia — хөтөлбөр, шүүлт, бүртгэлийг хариуцах сурагч, оюутны зохион байгуулагчдын нэгдэл. Урам Энэрэл ТББ (Uram Care) — улсын бүртгэлтэй, залуучуудын эрүүл мэндийн ТББ; гэрээ, санхүү, тайланг хариуцна. Үүсгэн байгуулагч, зохион байгуулагчид: Анар Түвшинбаяр, Гоомарал Сандаг-Очир.
 
-**Хүсэлт.** Ерөнхий ивээн тэтгэгч 20 сая; танхимын түнш 20 сая эсвэл танхимаар; чиглэлийн ивээн тэтгэгч 5 сая (5 чиглэл); хоол 10 сая эсвэл хоол хүнсээр; бэлэг дурсгал бараагаар; шагналын сан 5 саяас дээш, ивээн тэтгэгчдийн оролцоогоор нэмэгдэнэ. Нийт төсөв 52–63 сая төгрөг. Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний и-баримт олгоно.
+**Хүсэлт.** Ерөнхий ивээн тэтгэгч 20 сая; танхимын түнш 20 сая эсвэл танхимаар; чиглэлийн ивээн тэтгэгч 5 сая (5 чиглэл); хоол 10 сая эсвэл хоол хүнсээр; бэлэг дурсгал бараагаар; шагналын сан 5 саяас дээш, ивээн тэтгэгчдийн оролцоогоор нэмэгдэнэ. Чиглэл бүрийн ялагч баг 2 сая төгрөг авна. Нийт төсөв 63–74 сая төгрөг. Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний и-баримт олгоно.
 
 **Шийдвэрийн хугацаа: 2026 оны 10-р сарын 25.** Холбоо барих: anartuvshinbayar1@gmail.com · hack-touchgrass.com
 
