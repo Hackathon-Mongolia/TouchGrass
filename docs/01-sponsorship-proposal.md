@@ -15,7 +15,7 @@
 
 **Who comes.** Secondary school and university students aged 14 to 20, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, AI professionals and sponsor representatives.
 
-**The ask.** A title sponsor at 20,000,000 MNT, a venue partner at 20,000,000 MNT or the hall in kind, five track sponsors at 5,000,000 MNT each, a food sponsor at 10,000,000 MNT or catering in kind, and merchandise and prize-pool sponsors. The prize pool for the top three teams starts at 5,000,000 MNT and grows with sponsor commitments; each of the five track winners also receives 2,000,000 MNT. **Commitments close October 25, 2026.**
+**The ask.** Five to six **Platinum** sponsors at 5,000,000 MNT or more; five **Gold** sponsors at 2,000,000 MNT, one per track, whose money becomes that track's cash prize; and **Silver** sponsors at 1,000,000 to 2,000,000 MNT or in kind for food, shirts and services. The prize pool for the top three teams starts at 5,000,000 MNT and grows with Platinum commitments; each of the five track winners receives 2,000,000 MNT. **Commitments close October 25, 2026.**
 
 ---
 
@@ -52,13 +52,9 @@
 
 | Tier | MNT | Slots | What you get |
 |---|---|---|---|
-| **Title** | 20,000,000 | 1 | "Touch Grass presented by Your Company"; logo first everywhere including all 220 t-shirts; 5-minute opening slot; judge on the final panel; you present first prize; first access to winning teams; opt-in participant CVs |
-| **Venue partner** | 20,000,000 or the hall in kind | 1 | "Hosted at Your Company"; logo on every table card and all signage; named in every announcement; opening remarks |
-| **Track** | 5,000,000 | 5 | a track carries your name; 2,000,000 of it is your track's cash prize, which you hand to the winning team on stage; you can set an optional challenge for it; a judge on its panel; a 15-minute workshop; you present the track award |
-| **Food** | 10,000,000 or catering in kind | 1 to 2 | "Meals by Your Company" at five meals; logo on site and stage; thanks at each meal |
-| **Merchandise** | 220 t-shirts and stickers in kind, or 4,500,000 | 1 | your logo on the shirt with the title sponsor's |
-| **Prize pool** | 1,000,000 and up | several | named contribution to the top-three pool; present one of the three awards across all tracks (Most Creative, Most Impactful, Most Technically Complex) on stage |
-| **In kind** | goods or services | open | security, printing, water, photography, cloud credits, hardware; logo on site and thanks from the stage |
+| **Platinum** | 5,000,000 and up, or a venue or service of that value in kind | 5–6 | largest logo everywhere, on all 220 shirts and the stage; opening remarks; a 15-minute workshop; a judge on the final panel; you present one of the top-three prizes; a recruiting table and opt-in participant CVs |
+| **Gold · Track** | 2,000,000 | 5, one per track | a track carries your name ("Healthcare track by [You]"); your 2,000,000 is that track's cash prize, which you hand to the winning team; a judge on its panel; an optional challenge you set; logo on the shirt and website |
+| **Silver** | 1,000,000 to 2,000,000, or in kind | open | food and catering, shirts, printing, devices, cloud credits or media; logo on the website and signage; thanks from the stage ("Meals by [You]" for food) |
 
 Every sponsor receives a logo on the website and results post, a mention in the report, event photographs, and a thank-you from the stage. Wifi is provided by the venue.
 
@@ -71,7 +67,7 @@ Every sponsor receives a logo on the website and results post, a mention in the 
 | Venue, two days including overnight | 20,000,000 |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 |
 | Prize pool for the top three, split 50 / 30 / 20 | 5,000,000 minimum, target 15,000,000 |
-| Track prizes, 2,000,000 for each of five track winners, from track sponsorships | 10,000,000 |
+| Track prizes, 2,000,000 for each of five track winners, paid by the five Gold sponsors | 10,000,000 |
 | T-shirts, stickers, badges | 4,400,000 |
 | Judges, designers, finance support | 3,000,000 |
 | Power, supplies, first aid, printing, signage | 3,200,000 |
@@ -104,7 +100,7 @@ Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of 
 
 **Хэн.** Hackathon Mongolia — хөтөлбөр, шүүлт, бүртгэлийг хариуцах сурагч, оюутны зохион байгуулагчдын нэгдэл. Урам Энэрэл ТББ (Uram Care) — улсын бүртгэлтэй, залуучуудын эрүүл мэндийн ТББ; гэрээ, санхүү, тайланг хариуцна. Үүсгэн байгуулагч, зохион байгуулагчид: Анар Түвшинбаяр, Гоомарал Сандаг-Очир.
 
-**Хүсэлт.** Ерөнхий ивээн тэтгэгч 20 сая; танхимын түнш 20 сая эсвэл танхимаар; чиглэлийн ивээн тэтгэгч 5 сая (5 чиглэл); хоол 10 сая эсвэл хоол хүнсээр; бэлэг дурсгал бараагаар; шагналын сан 5 саяас дээш, ивээн тэтгэгчдийн оролцоогоор нэмэгдэнэ. Чиглэл бүрийн ялагч баг 2 сая төгрөг авна. Нийт төсөв 63–74 сая төгрөг. Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний и-баримт олгоно.
+**Хүсэлт.** Платинум ивээн тэтгэгч 5 сая төгрөг ба түүнээс дээш (5–6 байгууллага); Алтан ивээн тэтгэгч 2 сая төгрөг, чиглэл бүрт нэг (5 байгууллага), энэ мөнгө тухайн чиглэлийн ялагч багийн шагнал болно; Мөнгөн ивээн тэтгэгч 1–2 сая төгрөг эсвэл хоол, цамц, үйлчилгээгээр. Шилдэг гурван багийн шагналын сан 5 саяас дээш. Нийт төсөв 63–74 сая төгрөг. Гэрээг Урам Энэрэл ТББ байгуулж, зар сурталчилгааны үйлчилгээний и-баримт олгоно.
 
 **Шийдвэрийн хугацаа: 2026 оны 10-р сарын 25.** Холбоо барих: anartuvshinbayar1@gmail.com · hack-touchgrass.com
 

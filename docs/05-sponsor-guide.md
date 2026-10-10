@@ -59,23 +59,19 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 
 | Tier | MNT | What you get |
 |---|---|---|
-| Title | 20,000,000 | event named "Touch Grass presented by [You]"; logo first on every surface; 5-minute opening slot; one judge on the final panel; you present the first prize; first access to winning teams; opt-in participant CVs |
-| Venue partner | 20,000,000 or the hall in kind | "Hosted at [You]"; logo on every table card and all signage; named in every announcement; opening remarks |
-| Track | 5,000,000 | one of five tracks carries your name; 2,000,000 of it is the cash prize you hand to your track's winner; you can set an optional challenge for it; one judge on its panel; a 15-minute workshop; you present the track award |
-| Food | 10,000,000 or catering in kind | "Meals by [You]" at five meals; thanks from the stage at each; logo on site and stage |
-| Merchandise | 220 shirts and stickers in kind, or 4,500,000 | your logo on the shirt beside the title sponsor's |
-| Prize pool | 1,000,000 and up | named contribution to the top-three pool; you present a category prize |
-| In kind | goods or services | logo on site; thanks from the stage |
+| **Platinum** (5–6) | 5,000,000 and up, or a venue or service of that value in kind | largest logo everywhere, on all 220 shirts and the stage; opening remarks; a 15-minute workshop; a judge on the final panel; you present one of the top-three prizes; a recruiting table and opt-in participant CVs |
+| **Gold · Track** (5) | 2,000,000 | a track carries your name ("Healthcare track by [You]"); your 2,000,000 is that track's cash prize, which you hand to the winning team; a judge on its panel; an optional challenge you set; logo on the shirt and website |
+| **Silver** | 1,000,000 to 2,000,000, or in kind | food and catering, shirts, printing, devices, cloud credits or media; logo on the website and signage; thanks from the stage ("Meals by [You]" for food) |
 
 What the words mean in practice:
 
 - **Every surface**: the website, the registration page, every announcement and results post, the printed poster and signage, the table cards on all 55 tables, the countdown screen that is on for 24 hours, the stage backdrop, and the t-shirts.
 - **Opening slot**: five minutes on stage at 12:00 Saturday in front of all participants, before hacking starts. A minute on who you are and why you are here lands well; a product pitch does not.
-- **Judge seat**: one of three judges on a track panel, or one on the final panel for the title sponsor. Judges follow the published rubric, score independently, and do not judge teams from their own company or school.
+- **Judge seat**: one of three judges on a track panel, or one on the final panel for Platinum sponsors. Judges follow the published rubric, score independently, and do not judge teams from their own company or school.
 - **Workshop**: fifteen minutes on Saturday afternoon in the side area, on anything useful to the teams: your data, your API, your problem, how your engineers would approach it.
 - **Optional track challenge**: track sponsors may set one challenge for their track (for example "best use of our API" or a real problem from your business), agreed with the organizers by October 28. Teams may take it up or not.
 - **First access to winning teams**: an introduction after the awards, before anyone else, if the team agrees.
-- **Opt-in CVs**: participants tick a box at registration if they want their CV shared with the title and track sponsors. Only those.
+- **Opt-in CVs**: participants tick a box at registration if they want their CV shared with Platinum sponsors. Only those.
 
 ---
 
@@ -88,7 +84,7 @@ What the words mean in practice:
 | Oct 25 | your tier decision |
 | On signing | signed contract; vector logo (SVG or PDF) and a 40-word company description |
 | Oct 28 | track sponsors: your optional challenge, if you want to set one |
-| Oct 30 | the name and contact of your judge; track sponsors, your workshop speaker; title sponsor, your opening speaker |
+| Oct 30 | the name and contact of your judge; Platinum sponsors, your opening and workshop speakers |
 | Nov 1 | payment, per the contract |
 | Nov 5 | opening or workshop slides, if any, as PDF |
 | Nov 6 | your judge joins the 30-minute briefing, in person or by call |
@@ -109,7 +105,7 @@ What the words mean in practice:
 
 ## 6. On the day: a guide for your people
 
-**Who should come.** Your speaker for the opening (title, venue, track sponsors), your workshop speaker (track sponsors), your judge (Sunday), and anyone who wants to see the demos. Nobody from a sponsor is expected to stay overnight.
+**Who should come.** Your speaker for the opening (Platinum sponsors), your workshop speaker (Platinum sponsors), your judge (Sunday), and anyone who wants to see the demos. Nobody from a sponsor is expected to stay overnight.
 
 **When to arrive.**
 
@@ -147,7 +143,7 @@ What sponsors cannot do, and why:
 
 - Collect participant data by any means other than the opt-in box. Minors are in the room.
 - Influence judging beyond their one seat, or change the rubric. The results have to be defensible to every team.
-- Claim exclusivity that is not in the contract. Two banks can both sponsor; only the title sponsor's name is in the event's name.
+- Claim exclusivity that is not in the contract. Two banks can both sponsor; no sponsor's name is in the event's name, and each Gold sponsor's name is on its own track.
 - Promote tobacco, alcohol, vaping or gambling products. This is a youth health event hosted by a health NGO. Food and drink sponsors are asked to include healthy options.
 - Take any rights to what the teams build. Participants own their projects; copyright is theirs by law and transfers only by a written agreement they choose to sign later.
 - Ask organizers or volunteers for favors outside the tier on the day. They will refer you to the co-organizer, who will say yes or no.
@@ -156,7 +152,7 @@ What sponsors cannot do, and why:
 
 ## 8. Brand and logo
 
-We need a vector logo (SVG, PDF or EPS) and a 40-word description on signing. We place logos by tier order: title, venue, then tracks alphabetically, then food, merchandise, prize pool, in kind. All printed materials with your logo are sent to you as PDF for a 48-hour check before printing. On social media we tag your official accounts in every post that carries your logo. Please refer to the event as "Touch Grass" and, for the title sponsor only, "Touch Grass presented by [You]." Press enquiries about the event go to the co-organizer; we are glad to coordinate a joint statement.
+We need a vector logo (SVG, PDF or EPS) and a 40-word description on signing. We place logos by tier order: Platinum, then Gold alphabetically, then Silver. All printed materials with your logo are sent to you as PDF for a 48-hour check before printing. On social media we tag your official accounts in every post that carries your logo. Please refer to the event as "Touch Grass" and, for the title sponsor only, "Touch Grass presented by [You]." Press enquiries about the event go to the co-organizer; we are glad to coordinate a joint statement.
 
 ---
 
@@ -166,7 +162,7 @@ We need a vector logo (SVG, PDF or EPS) and a 40-word description on signing. We
 
 **What if fewer than 220 students come?** Registration numbers go to sponsors weekly from October 17. Under 150, we scale the budget down and refund or roll over the difference, as the contract says.
 
-**Can we sponsor more than one tier?** Yes. A title sponsor often also names a track.
+**Can we sponsor more than one tier?** Yes. A Platinum sponsor can also take a Gold track.
 
 **Can our employees mentor?** Yes, and we would be glad of it. Mentors help teams debug and think; they do not write code for them. Tell us by October 30.
 

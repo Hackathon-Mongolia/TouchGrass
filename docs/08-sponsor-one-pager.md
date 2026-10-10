@@ -13,13 +13,9 @@
 
 | Tier | MNT | What you get |
 |---|---|---|
-| **Title** | 20,000,000 | "Touch Grass presented by [You]"; logo first everywhere, on all 220 shirts; 5-minute opening slot; judge on the final panel; you present first prize |
-| **Venue partner** | 20,000,000 or the hall in kind | "Hosted at [You]"; logo on every table and sign; named in every announcement; opening remarks |
-| **Track** (5) | 5,000,000 | the track carries your name; you hand its 2,000,000 MNT prize to the winner; a judge on its panel; a 15-minute workshop; an optional challenge you set |
-| **Food** | 10,000,000 or catering in kind | "Meals by [You]" at five meals; logo on site and stage |
-| **Merchandise** | 4,500,000 or 220 shirts in kind | your logo on the shirt |
-| **Prize pool** | 1,000,000 and up | named contribution; you present one of the three awards |
-| **In kind** | goods or services | logo on site and thanks from the stage |
+| **Platinum** (5–6) | 5,000,000 and up, or a venue or service of that value in kind | largest logo everywhere, on all 220 shirts and the stage; opening remarks; a 15-minute workshop; a judge on the final panel; you present one of the top-three prizes; a recruiting table and opt-in participant CVs |
+| **Gold · Track** (5) | 2,000,000 | a track carries your name ("Healthcare track by [You]"); your 2,000,000 is that track's cash prize, which you hand to the winning team; a judge on its panel; an optional challenge you set; logo on the shirt and website |
+| **Silver** | 1,000,000 to 2,000,000, or in kind | food and catering, shirts, printing, devices, cloud credits or media; logo on the website and signage; thanks from the stage ("Meals by [You]" for food) |
 
 Every sponsor: logo on the website and results post, event photos, and a report with numbers within a week.
 

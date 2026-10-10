@@ -57,7 +57,7 @@ All-hands every Sunday evening for 30 minutes: Oct 11, 18, 25, Nov 1. Team leads
 | Sat Oct 24 | K | Registration check: 150+ on track. Waitlist logic live at 300. |  |
 | Sun Oct 25 | M | MONEY GATE: sponsor commitments close. Budget final. Prize pool size set above the 5M floor. All-hands 3. | **GATE** |
 | Sun Oct 25 | UE | Contracts sent to every committed sponsor, payment dates on or before Nov 1. |  |
-| Mon Oct 26 | F | Venue deposit arranged: title sponsor pays the venue directly, or Uram Enerel bridges against signed contracts. |  |
+| Mon Oct 26 | F | Venue deposit arranged: a Platinum sponsor pays the venue directly, or Uram Enerel bridges against signed contracts. |  |
 | Mon Oct 26 | K | Announce the final prize pool size. Request logos and 40-word descriptions from every sponsor. |  |
 | Tue Oct 27 | L | Security, cleaning and first aider booked firm for Nov 7–8. |  |
 | Tue Oct 27 | O | NIGHT-SHIFT GATE: adult lead plus five night adults confirmed with shifts, or switch to Plan B. | **GATE** |
@@ -126,7 +126,7 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 - Fri Oct 9: Sponsor target sheet: 30 companies sorted by tier fit, with contact, date asked, status columns.
 - Tue Oct 13: Sponsor wave 2: 15 more emails.
 - Mon Oct 19: Phone follow-ups on sponsor waves 1 and 2; update the sheet.
-- Mon Oct 26: Venue deposit arranged: title sponsor pays the venue directly, or Uram Enerel bridges against signed contracts.
+- Mon Oct 26: Venue deposit arranged: a Platinum sponsor pays the venue directly, or Uram Enerel bridges against signed contracts.
 - Sat Oct 31: Sponsor deliverables checklist opened: what each sponsor is owed, when, done or not.
 - Mon Nov 2: Confirm sponsor payments received; venue deposit paid; prize money ring-fenced.
 - Fri Nov 13: Report delivered to every sponsor and partner. Team retro. 2027 date and venue ask pencilled.

@@ -165,7 +165,7 @@ Track sponsors may replace one statement in their track with their own, agreed b
 | 10:00 | Organizers arrive. 55 tables, 60 power strips, signage, check-in desk, projector and wifi test, sleeping rooms labeled, track board up |
 | 10:30 | Volunteers and day mentors arrive; 15-minute briefing |
 | 11:00 | Doors. Check-in on four lines by surname. Snacks and water out |
-| 12:00 | Opening, 30 minutes: welcome from Hackathon Mongolia; Uram Enerel and [government body]; title sponsor 5 min; the six tracks in one minute each by their sponsors or the organizers; rules, schedule, safety and overnight rules |
+| 12:00 | Opening, 30 minutes: welcome from Hackathon Mongolia; Uram Enerel and [government body]; Platinum sponsors, 2 minutes each; the five tracks in one minute each by their Gold sponsors or the organizers; rules, schedule, safety and overnight rules |
 | 12:30 | Team formation: solo participants pitch for 60 seconds; teams write their name under a track on the board |
 | 13:00 | **Hacking starts.** Clock starts. Lunch boxes at tables |
 | 14:00 | Track board closes |

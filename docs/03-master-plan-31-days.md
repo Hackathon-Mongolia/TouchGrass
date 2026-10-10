@@ -11,7 +11,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 1. 200+ participants attended, 50+ teams submitted, nobody got hurt.
 2. Every submitted team demoed something that runs, to a judge who scored it.
 3. Five track winners and an overall top three announced on stage, prizes handed over.
-4. Title sponsor, venue partner, five track sponsors or the equivalent, and food covered; the prize pool funded above its 5,000,000 MNT floor.
+4. Five or six Platinum sponsors, five Gold track sponsors, and food covered by Silver sponsors or in kind; the prize pool funded above its 5,000,000 MNT floor.
 5. 25+ schools and universities represented.
 
 **By Friday November 13:**
@@ -99,7 +99,7 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 | Fri Oct 16 | Ask 30 potential mentors and 25 potential judges, three per track plus reserves. Send the judge brief. | O |
 | Sat Oct 17 | Two catering quotes for 260 people, five meals and snacks. School and university outreach: Uram Care's 15+ school chapters first, then 25 institutions with one teacher or club contact each. | L, K |
 | Sat Oct 17 | **Registration opens.** Announcement on the website and social media; organizers share it in their own networks. | K, M |
-| Sun Oct 18 | Track sponsors confirmed so far receive the problem-statement co-writing invite. | F, O |
+| Sun Oct 18 | Gold track sponsors confirmed so far receive the optional-challenge invite. | F, O |
 | Sun Oct 18 | All-hands 2. Registration check after day one: 40+ on track. | M |
 | Tue Oct 20 | Submission platform decided and set up; dummy submission tested. | O |
 
@@ -155,7 +155,7 @@ Cash flows only through Uram Enerel NGO. Figures below use the organizers' estim
 |---|---|---|
 | Venue, two days including overnight | 20,000,000 | estimate; zero if a venue partner gives the hall in kind |
 | Cash prize pool, top three, 50 / 30 / 20 | 15,000,000 target; 5,000,000 floor | at the target 7.5M / 4.5M / 3M; at the floor 2.5M / 1.5M / 1M; 5% personal income tax withheld by Uram Enerel on payout |
-| Track prizes, five winners × 2,000,000 | 10,000,000 | paid out of the five 5,000,000 track sponsorships; an unsold track's prize comes from the general budget |
+| Track prizes, five winners × 2,000,000 | 10,000,000 | paid by the five Gold sponsors, 2,000,000 each; an unsold track's prize comes from the general budget |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 | about 37,700 per person over 24 hours; tight, so boxed lunches and a hot dinner, and ask the food sponsor for catering in kind to top it up |
 | Judges, designers, finance support | 3,000,000 | honoraria and design work; judges from sponsors cost nothing |
 | T-shirts, 220 | 3,300,000 | one-colour print on a plain tee runs about 12,000–18,000 each at 200+; two-colour or heavier cotton 20,000+ |
@@ -176,15 +176,13 @@ Scaling: 180 attending saves about 900,000 on shirts and badges and nothing else
 
 | Source | Amount | Notes |
 |---|---|---|
-| Title sponsor | 20,000,000 | one; funds the prize pool above its floor and the shirts |
-| Venue partner | 20,000,000 or hall in kind | a university, a sponsor's headquarters, or a paid hall |
-| Track sponsors | 25,000,000 | five × 5,000,000; unsold tracks run unsponsored |
-| Food sponsor | 10,000,000 or catering in kind | |
-| Merchandise sponsor | 4,500,000 or shirts and stickers in kind | |
-| Prize-pool and category sponsors | 2,000,000 to 6,000,000 | |
+| Platinum sponsors | 25,000,000 to 30,000,000 | five or six × 5,000,000 or more; covers the venue and the top-three pool; a venue giving the hall in kind counts as Platinum |
+| Gold track sponsors | 10,000,000 | five × 2,000,000; each pays its own track's prize |
+| Silver sponsors | food in kind plus 1,000,000 to 2,000,000 each | catering, shirts, printing, devices, media |
+| Participation fees | about 9,900,000 | 45,000 × about 220 |
 | **Cash target** | **68,000,000 with a paid venue and the 15M prize target; 48,000,000 with the hall in kind** | |
 
-Cash timing matters more than the total: the venue wants a deposit before sponsor money arrives. Ask the title sponsor to pay the venue directly, or have the NGO bridge the deposit against signed contracts.
+Cash timing matters more than the total: the venue wants a deposit before sponsor money arrives. Ask a Platinum sponsor to pay the venue directly, or have the NGO bridge the deposit against signed contracts.
 
 **Minimum viable version** if the money gate fails on Oct 25: prize pool stays at the 5M floor, shirts cut, venue partner in kind or Plan B at a free university hall, sponsors pay the caterer directly. Cash needed then: about 15,000,000.
 
@@ -206,7 +204,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 | A minor is hurt, ill or leaves at night | consent forms with emergency contacts, sign-out log, two adults awake per 100, first aider on site, parent numbers at the desk |
 | Sponsor demands control of judging | tier table and contract say one judge seat, rubric decides |
 | A sponsor pays late | contract payment dates before Nov 1; food sponsor pays caterer directly |
-| Venue deposit due before sponsor cash lands | title sponsor pays the venue directly, or the NGO bridges the deposit against signed contracts |
+| Venue deposit due before sponsor cash lands | a Platinum sponsor pays the venue directly, or the NGO bridges the deposit against signed contracts |
 | Sponsors commit less than the 15M prize target | the public promise is 5M and up with a 50 / 30 / 20 split, so nothing has to be retracted; publish the final size on Oct 26 |
 | Team burnout: 31 days, exams | two leads per team where possible; the Sunday all-hands is the only mandatory meeting |
 
