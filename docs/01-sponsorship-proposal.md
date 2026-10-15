@@ -86,4 +86,4 @@ Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of 
 3. Uram Enerel invoices the sponsorship as advertising services with an e-barimt. Under Article 19 of the Law on Advertising, a sponsor's contribution to an advertising distributor under contract counts as advertising payment, so it books as a marketing expense, not a non-deductible donation. Cash prizes carry 5 percent personal income tax, which Uram Enerel withholds.
 4. Send your logo and a 40-word description. Name your judge, and for track sponsors your workshop speaker, by October 30.
 
-**Contacts.** Goomaral Sandag-Ochir, co-founder and organizer · Anar Tuvshinbayar, co-founder and organizer, anartuvshinbayar1@gmail.com · Website: hack-touchgrass.com · Uram Enerel NGO's registration and bank details come with the contract.
+**Contacts.** Goomaral Sandag-Ochir, founder and organizer · Anar Tuvshinbayar, founder and organizer, anartuvshinbayar1@gmail.com · Website: hack-touchgrass.com · Uram Enerel NGO's registration and bank details come with the contract.
