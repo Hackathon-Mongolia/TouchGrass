@@ -30,7 +30,7 @@ A collaboration between two organizations. **Hackathon Mongolia**, this GitHub o
 | Night-shift adults confirmed | Tue Oct 27 |
 | Registration closes, headcount final | Tue Nov 3 |
 | Briefings and setup | Fri Nov 6 |
-| Event | Sat Nov 7 13:00 → Sun Nov 8 13:00, awards 16:20 |
+| Event | Sat Nov 7 15:00 → Sun Nov 8 15:00, awards 18:20 |
 | Report to sponsors | Fri Nov 13 |
 
 ## Teams

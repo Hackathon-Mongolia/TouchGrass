@@ -3,7 +3,7 @@
 
 **What.** A 24-hour hackathon for **220+ students aged 14 to 20**, in teams of two to four. On the model of Stanford's TreeHacks, teams build working software in five tracks, **Healthcare · Sustainability · Education · Humanity · AI**, and professionals from each field judge them. The event runs in English.
 
-**When and where.** Saturday November 7, 13:00, to Sunday November 8, 13:00; awards Sunday afternoon. Ulaanbaatar, venue confirmed by October 14.
+**When and where.** Saturday November 7, 15:00, to Sunday November 8, 15:00; awards Sunday evening. Ulaanbaatar, venue confirmed by October 14.
 
 **Who.** Founded and organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. Legally hosted by **Uram Enerel NGO (Uram Care)**, a registered youth health NGO, which signs contracts, receives funds and issues receipts.
 

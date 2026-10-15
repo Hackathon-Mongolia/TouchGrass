@@ -7,7 +7,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 
 ## 1. Goals and what done looks like
 
-**On Sunday November 8 at 17:00:**
+**On Sunday November 8 at 19:00:**
 1. 200+ participants attended, 50+ teams submitted, nobody got hurt.
 2. Every submitted team demoed something that runs, to a judge who scored it.
 3. Five track winners and an overall top three announced on stage, prizes handed over.
@@ -29,7 +29,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 7 to Sunday November
 |---|---|
 | Name | Touch Grass |
 | Dates | Sat Nov 7 – Sun Nov 8, 2026 |
-| Format | 24-hour hack, Sat 13:00 → Sun 13:00, overnight at the venue; Plan B daytime split if overnight refused |
+| Format | 24-hour hack, Sat 15:00 → Sun 15:00, overnight at the venue; Plan B daytime split if overnight refused |
 | Scale | 220+ attending, plan for 260 registrations, cap 300 |
 | Audience | students 16–24, high school and university, free entry |
 | Theme | broad, TreeHacks model: Healthcare, Sustainability, Education, Humanity, AI; no problem list |
@@ -135,7 +135,7 @@ Owners: M main organizers · L logistics · F finance · K marketing · O operat
 | Thu Nov 5 | Print check-in lists, judge sheets, table numbers, track board. Pack supplies. MC script final. | O, L, M |
 | Fri Nov 6 | **Briefings**: volunteers, judges, mentors, night shift, sponsor speakers. Venue setup in the evening. | M, O, L |
 | Sat Nov 7 | Event day 1. | all |
-| Sun Nov 8 | Submissions 13:00, judging, finals, awards 16:20, close 17:00, venue back 18:30. | all |
+| Sun Nov 8 | Submissions 15:00, judging, finals, awards 18:20, close 19:00, venue back 20:30. | all |
 
 ### After
 
@@ -216,7 +216,7 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 
 **Confirmation email.** Registered; seat confirmed after reconfirmation Nov 1 to 3; under-18 consent link; group chat link; questions contact.
 
-**Consent form.** Participation, overnight choice (stay, or leave at 21:00 and return by 10:00), pickup Sunday 17:00, emergency contact and medical notes, rules acknowledged, photo release, project publication consent, data deletion within a month. Translated to Mongolian; adult lead holds the forms during the event.
+**Consent form.** Participation, overnight choice (stay, or leave at 21:00 and return by 10:00), pickup Sunday 19:00, emergency contact and medical notes, rules acknowledged, photo release, project publication consent, data deletion within a month. Translated to Mongolian; adult lead holds the forms during the event.
 
 **Publish on the site by Oct 11:** rules, code of conduct, tracks and problem bank, rubric, agenda, consent form, FAQ.
 
@@ -226,15 +226,15 @@ Cash timing matters more than the total: the venue wants a deposit before sponso
 
 Full minute-by-minute agenda is in the companion document. The shape:
 
-- **Saturday:** setup 10:00, doors 11:00, opening 12:00, team formation and track board 12:30, hacking 13:00, lunch at tables, workshop 14:30, mentor hour 16:00, workshop 17:30, dinner 19:00, mini-event 20:30, minor sign-out 21:00, night briefing 22:00, midnight snack 23:30.
+- **Saturday:** setup 12:00, doors 13:00, opening 14:00, team formation and track board 14:30, hacking 15:00, lunch at tables, workshop 16:30, mentor hour 18:00, dinner 19:00, workshop 19:45, mini-event 20:30, minor sign-out 21:00, night briefing 22:00, midnight snack 23:30.
 - **Overnight:** quiet hours 01:00 to 06:00, two adults awake per 100 participants, floor walk every 30 minutes, breakfast 07:00.
-- **Sunday:** returnees by 10:00, judges 11:00, lunch 12:15, submissions 13:00, track judging 13:30 to 15:00, finals 15:15, awards 16:20, close 17:00, venue back 18:30.
+- **Sunday:** returnees by 10:00, lunch 12:15, judges 13:00, submissions 15:00, track judging 15:30 to 17:00, finals 17:15, awards 18:20, close 19:00, venue back 20:30.
 
 **Day-of checklists, short form**
 
 - *Setup:* 55 tables with 4 chairs, power strip on every table, cords taped, wifi name on every table card, projector with the countdown clock, check-in desk with four lines, signs, snack station, lockable supply room, two sleeping rooms labeled, security briefed.
-- *Check-in:* name on list, consent on file or handed over, overnight tag, dietary tag, wristband, point to chat and schedule, late list until 13:30, headcount to logistics at 12:30.
-- *Food:* lunch boxes at tables 13:00, dinner 18:45, midnight snack 23:15, breakfast 06:45, Sunday lunch 12:15; dietary meals labeled; volunteers serve.
+- *Check-in:* name on list, consent on file or handed over, overnight tag, dietary tag, wristband, point to chat and schedule, late list until 15:30, headcount to logistics at 14:30.
+- *Food:* lunch boxes at tables 15:00, dinner 18:45, midnight snack 23:15, breakfast 06:45, Sunday lunch 12:15; dietary meals labeled; volunteers serve.
 - *Overnight:* sign-out log from 21:00, roster at the desk, floor walks logged, parent list and consent forms at the desk, sleeping rooms cleared by 09:30.
 - *Judging:* score sheets per panel with table lists, timekeeper per panel, two-person tally, finalists posted in the chat, prize envelopes or products in order on the stage table, certificates filled during finals.
 - *Closing:* group photo with sponsor boards in frame, survey on screen, adult lead at the door, lost-and-found sweep, room photographed as returned.

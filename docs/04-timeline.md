@@ -78,8 +78,8 @@ All-hands every Sunday evening for 30 minutes: Oct 11, 18, 25, Nov 1. Team leads
 | Thu Nov 5 | O | Print check-in lists, judge score sheets, table numbers, track board, certificates. MC script final. Sponsor opening slides collected. |  |
 | Fri Nov 6 | M | Briefings, 30 minutes each: volunteers, judges, mentors, night shift, sponsor speakers. |  |
 | Fri Nov 6 | L | Venue setup in the evening: tables, power strips taped, signage, check-in desk, sleeping rooms, projector and wifi test, electrician check. |  |
-| Sat Nov 7 | M | EVENT DAY 1. Organizers 10:00, doors 11:00, opening 12:00, hacking 13:00, dinner 19:00, minor sign-out 21:00, night shift from 22:00. | **EVENT** |
-| Sun Nov 8 | M | EVENT DAY 2. Breakfast 07:00, judges 11:00, submissions 13:00, track judging 13:30, finals 15:15, awards 16:20, close 17:00, venue back 18:30. | **EVENT** |
+| Sat Nov 7 | M | EVENT DAY 1. Organizers 12:00, doors 13:00, opening 14:00, hacking 15:00, dinner 19:00, minor sign-out 21:00, night shift from 22:00. | **EVENT** |
+| Sun Nov 8 | M | EVENT DAY 2. Breakfast 07:00, judges 13:00, submissions 15:00, track judging 15:30, finals 17:15, awards 18:20, close 19:00, venue back 20:30. | **EVENT** |
 | Mon Nov 9 | K | Thank-you emails with photos and numbers to sponsors, partners, judges, mentors, venue. Results post with project links, with team permission. |  |
 | Tue Nov 10 | K | Feedback survey out. Metrics sheet filled. |  |
 | Tue Nov 10 | UE | Ledger closed: every payment with its e-barimt; prize payouts made with 5 percent tax withheld. |  |
@@ -102,8 +102,8 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 - **Sun Oct 25**: MONEY GATE: sponsor commitments close. Budget final. Prize pool size set above the 5M floor. All-hands 3.
 - Sun Nov 1: All-hands 4: run-of-show read-through, roles on the day, open risks.
 - Fri Nov 6: Briefings, 30 minutes each: volunteers, judges, mentors, night shift, sponsor speakers.
-- Sat Nov 7: EVENT DAY 1. Organizers 10:00, doors 11:00, opening 12:00, hacking 13:00, dinner 19:00, minor sign-out 21:00, night shift from 22:00.
-- Sun Nov 8: EVENT DAY 2. Breakfast 07:00, judges 11:00, submissions 13:00, track judging 13:30, finals 15:15, awards 16:20, close 17:00, venue back 18:30.
+- Sat Nov 7: EVENT DAY 1. Organizers 12:00, doors 13:00, opening 14:00, hacking 15:00, dinner 19:00, minor sign-out 21:00, night shift from 22:00.
+- Sun Nov 8: EVENT DAY 2. Breakfast 07:00, judges 13:00, submissions 15:00, track judging 15:30, finals 17:15, awards 18:20, close 19:00, venue back 20:30.
 - Thu Nov 12: Report reviewed by Uram Enerel and both main organizers.
 
 ### Logistics (L)
@@ -179,23 +179,23 @@ Each lead reads only their list. Dates in bold are gates the team owns.
 - By Sun Oct 25: sign sponsorship contracts alongside Uram Enerel where the venue or sponsor asks for a named responsible adult.
 - **Tue Oct 27**: confirm the five night-shift adults and the shift plan with operations.
 - Fri Nov 6: attend the night-shift briefing.
-- Sat Nov 7 10:00 to Sun Nov 8 17:30: on site throughout; at the door for the 21:00 sign-out and the 17:00 pickups; on call all night.
+- Sat Nov 7 12:00 to Sun Nov 8 19:30: on site throughout; at the door for the 21:00 sign-out and the 19:00 pickups; on call all night.
 
 ## Event days, the short version
 
 | Saturday Nov 7 | | Sunday Nov 8 | |
 |---|---|---|---|
-| 10:00 | setup | 07:00 | breakfast |
-| 11:00 | doors, check-in | 09:00 | day shift; sleeping rooms cleared by 09:30 |
-| 12:00 | opening | 10:00 | returnees back; three-hour check |
-| 12:30 | team formation, track board | 11:00 | judges arrive and brief |
-| 13:00 | hacking starts, lunch at tables | 12:15 | lunch at tables |
-| 14:30 | workshop 1 | 13:00 | submission deadline |
-| 16:00 | mentor hour | 13:30 | track judging at tables |
-| 17:30 | workshop 2 | 15:00 | tally, eight finalists |
-| 19:00 | dinner | 15:15 | finals on stage |
-| 21:00 | sign-out for minors going home | 16:20 | awards |
-| 22:00 | night shift begins | 17:00 | close |
-| 23:30 | midnight snack; quiet hours 01:00–06:00 | 18:30 | venue handed back |
+| 12:00 | setup | 07:00 | breakfast |
+| 13:00 | doors, check-in | 09:00 | day shift; sleeping rooms cleared by 09:30 |
+| 14:00 | opening | 10:00 | returnees back |
+| 14:30 | team formation, track board | 12:00 | three-hour check; lunch at tables 12:15 |
+| 15:00 | hacking starts, lunch at tables | 13:00 | judges arrive and brief |
+| 16:30 | workshop 1 | 15:00 | submission deadline |
+| 18:00 | mentor hour | 15:30 | track judging at tables |
+| 19:00 | dinner | 17:00 | tally, eight finalists |
+| 19:45 | workshop 2 | 17:15 | finals on stage |
+| 21:00 | sign-out for minors going home | 18:20 | awards |
+| 22:00 | night shift begins | 19:00 | close |
+| 23:30 | midnight snack; quiet hours 01:00–06:00 | 20:30 | venue handed back |
 
 Full minute-by-minute agenda: the theme document, section 6.

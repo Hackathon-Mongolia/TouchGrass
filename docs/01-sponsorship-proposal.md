@@ -7,9 +7,9 @@
 
 ## Touch Grass in one page
 
-**What.** A 24-hour hackathon where 220+ young people in about 55 teams build working prototypes for real problems. Five tracks on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity and AI. Software only. The event runs in English. Teams start Saturday 13:00 and submit Sunday 13:00; professional judges score every team; the best in each track presents on stage.
+**What.** A 24-hour hackathon where 220+ young people in about 55 teams build working prototypes for real problems. Five tracks on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity and AI. Software only. The event runs in English. Teams start Saturday 15:00 and submit Sunday 15:00; professional judges score every team; the best in each track presents on stage.
 
-**When and where.** Saturday November 7 to Sunday November 8, 2026, in Ulaanbaatar; the venue is confirmed by October 14. Doors 11:00 Saturday, awards 16:20 Sunday.
+**When and where.** Saturday November 7 to Sunday November 8, 2026, in Ulaanbaatar; the venue is confirmed by October 14. Doors 13:00 Saturday, awards 18:20 Sunday.
 
 **Who runs it.** Touch Grass was founded and is organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. **Hackathon Mongolia**, their student organizing team, designs and runs the program. **Uram Enerel NGO**, known as Uram Care, a registered youth health NGO with volunteers and school chapters across Mongolia, is the legal host: contracts, funds, receipts, reporting. A responsible adult from Uram Enerel NGO is on site for the full 24 hours.
 
@@ -36,7 +36,7 @@
 | | |
 |---|---|
 | Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; in English |
-| Hacking window | Saturday 13:00 to Sunday 13:00 |
+| Hacking window | Saturday 15:00 to Sunday 15:00 |
 | Participants | 220+ students aged 14 to 20; 45,000 MNT participation fee; parental consent for under-18s |
 | Tracks | five: Healthcare, Sustainability, Education, Humanity, AI; software only; teams build anything inside a track, as at TreeHacks |
 | Support | two workshops Saturday, mentor hours, a night mentor on call |

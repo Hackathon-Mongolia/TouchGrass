@@ -24,7 +24,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 | | |
 |---|---|
 | Name | Touch Grass. The internet's phrase for "go outside," aimed at a country where the environment is a health decision |
-| Dates | Saturday November 7, doors 11:00, hacking from 13:00 → Sunday November 8, submissions 13:00, awards 16:20, close 17:00 |
+| Dates | Saturday November 7, doors 13:00, hacking from 15:00 → Sunday November 8, submissions 15:00, awards 18:20, close 19:00 |
 | Place | [venue, address] |
 | Participants | 220+ students aged 16 to 24, high school and university, free entry; under-18s with parental consent; overnight at the venue with adult supervision |
 | Teams | about 55, of two to four |
@@ -66,9 +66,9 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 What the words mean in practice:
 
 - **Every surface**: the website, the registration page, every announcement and results post, the printed poster and signage, the table cards on all 55 tables, the countdown screen that is on for 24 hours, the stage backdrop, and the t-shirts.
-- **Opening slot**: five minutes on stage at 12:00 Saturday in front of all participants, before hacking starts. A minute on who you are and why you are here lands well; a product pitch does not.
+- **Opening slot**: five minutes on stage at 14:00 Saturday in front of all participants, before hacking starts. A minute on who you are and why you are here lands well; a product pitch does not.
 - **Judge seat**: one of three judges on a track panel, or one on the final panel for Platinum sponsors. Judges follow the published rubric, score independently, and do not judge teams from their own company or school.
-- **Workshop**: fifteen minutes on Saturday afternoon in the side area, on anything useful to the teams: your data, your API, your problem, how your engineers would approach it.
+- **Workshop**: fifteen minutes on Saturday afternoon or evening in the side area, on anything useful to the teams: your data, your API, your problem, how your engineers would approach it.
 - **Optional track challenge**: track sponsors may set one challenge for their track (for example "best use of our API" or a real problem from your business), agreed with the organizers by October 28. Teams may take it up or not.
 - **First access to winning teams**: an introduction after the awards, before anyone else, if the team agrees.
 - **Opt-in CVs**: participants tick a box at registration if they want their CV shared with Platinum sponsors. Only those.
@@ -111,16 +111,16 @@ What the words mean in practice:
 
 | Role | Arrive | Done |
 |---|---|---|
-| Opening speaker | Sat 11:30 | 12:30 |
-| Workshop speaker | Sat 14:00 or 17:00, by agreement | 30 minutes later |
-| Judge | Sun 11:00 for the briefing | 16:50 after awards and photo |
-| Prize presenter | Sun 16:00 | 16:50 |
+| Opening speaker | Sat 13:30 | 14:30 |
+| Workshop speaker | Sat 16:00 or 19:15, by agreement | 30 minutes later |
+| Judge | Sun 13:00 for the briefing | 18:50 after awards and photo |
+| Prize presenter | Sun 18:00 | 18:50 |
 
 **Arrival.** Report to the organizer desk at the entrance; you receive a sponsor badge and a host from the organizing team who stays with you. [Parking and entrance details.]
 
 **Speaking.** Five minutes for the opening, fifteen for a workshop. A clicker and HDMI are on the stage; send slides as PDF by November 5. The audience is 220 students aged 16 to 24 at the start of 24 hours of work.
 
-**Judging.** Sunday from 13:30, your judge visits the eleven teams in their track with two co-judges and a timekeeper: three minutes of demo, two of questions per team, scoring on the rubric sheet. At 15:00 scores are tallied and eight finalists announced; the finals run 15:15 to 16:00 on stage; the full panel confers and awards start at 16:20. Judges do not score teams from their own company or school, and the rubric, not the sponsor, decides the track winner.
+**Judging.** Sunday from 15:30, your judge visits the eleven teams in their track with two co-judges and a timekeeper: three minutes of demo, two of questions per team, scoring on the rubric sheet. At 17:00 scores are tallied and eight finalists announced; the finals run 17:15 to 18:00 on stage; the full panel confers and awards start at 18:20. Judges do not score teams from their own company or school, and the rubric, not the sponsor, decides the track winner.
 
 **Photography.** Participants under 18 are photographed only with signed consent, which we collect at registration. Your people may photograph freely; please do not post close-ups of individual participants without asking an organizer.
 
@@ -187,7 +187,7 @@ We need a vector logo (SVG, PDF or EPS) and a 40-word description on signing. We
 
 **Хакатон гэж юу вэ.** Хугацаатай бүтээх тэмцээн. Оюутан, сурагчид 2–4 хүнтэй баг болж, тодорхой асуудлыг сонгон, 24 цагийн дотор ажиллах прототип бүтээнэ. Төгсгөлд баг бүр шүүгчдэд үзүүлж, нийтэд зарласан шалгуураар дүгнүүлнэ. Шилдэг багууд тайзан дээр танилцуулж, шагнал авна. Энэ бол хурал ч биш, ажлын байрны үзэсгэлэн ч биш, ивээн тэтгэгчийн зохион байгуулдаг тэмцээн ч биш. Хөтөлбөрийг зохион байгуулагчид хариуцна; ивээн тэтгэгч санхүүжүүлж, нэрээ өгч, шүүж, үг хэлж, оролцогчидтой уулзана.
 
-**Touch Grass.** 2026 оны 11-р сарын 7-ны 13:00 цагаас 8-ны 13:00 цаг хүртэл; 220 гаруй сурагч, оюутан, 55 орчим баг, таван чиглэл (эрүүл мэнд, тогтвортой хөгжил, боловсрол, хүмүүнлэг, AI). Hackathon Mongolia хөтөлбөрийг хариуцна; Урам Энэрэл ТББ (Uram Care) хууль ёсны зохион байгуулагч: гэрээ, санхүү, тайлан.
+**Touch Grass.** 2026 оны 11-р сарын 7-ны 15:00 цагаас 8-ны 15:00 цаг хүртэл; 220 гаруй сурагч, оюутан, 55 орчим баг, таван чиглэл (эрүүл мэнд, тогтвортой хөгжил, боловсрол, хүмүүнлэг, AI). Hackathon Mongolia хөтөлбөрийг хариуцна; Урам Энэрэл ТББ (Uram Care) хууль ёсны зохион байгуулагч: гэрээ, санхүү, тайлан.
 
 **Мөнгө хэрхэн явах вэ.** Ивээн тэтгэлгийн гэрээг Урам Энэрэл ТББ-тай байгуулна. Урам Энэрэл зар сурталчилгааны үйлчилгээний нэхэмжлэх, и-баримт олгоно (Зар сурталчилгааны тухай хуулийн 19 дүгээр зүйл), танхим, хоол, хангамжийн төлбөрийг төлж, баримт бүрийг хадгалж, шагналыг олгож, тайлагнана. Мөнгөн шагналаас хувь хүний орлогын албан татвар 5 хувийг суутгана. Шийдвэрийн хугацаа: 10-р сарын 25.
 
@@ -195,7 +195,7 @@ We need a vector logo (SVG, PDF or EPS) and a 40-word description on signing. We
 
 **Бидэнд юу хэрэгтэй вэ.** 10-р сарын 25: түвшний шийдвэр. Гэрээ байгуулмагц: вектор лого (SVG/PDF), компанийн 40 үгтэй танилцуулга. 10-р сарын 28: чиглэлийн ивээн тэтгэгч сонголтот сорилт санал болговол. 10-р сарын 30: шүүгч, илтгэгчийн нэр. 11-р сарын 1: төлбөр. 11-р сарын 6: шүүгчийн 30 минутын танилцуулга.
 
-**Өдрийн хуваарь.** Нээлтийн илтгэгч бямба 11:30-д; семинарын илтгэгч тохиролцсон цагт; шүүгч ням 11:00-д ирж, 16:50-д дуусна. Шүүгч өөрийн компани, сургуулийн багийг дүгнэхгүй; шалгуур л ялагчийг тодорхойлно.
+**Өдрийн хуваарь.** Нээлтийн илтгэгч бямба 13:30-д; семинарын илтгэгч тохиролцсон цагт; шүүгч ням 13:00-д ирж, 18:50-д дуусна. Шүүгч өөрийн компани, сургуулийн багийг дүгнэхгүй; шалгуур л ялагчийг тодорхойлно.
 
 **Хориглох зүйл.** Зөвшөөрлийн нүднээс өөр аргаар оролцогчийн мэдээлэл цуглуулах; шүүлтэд нэг суудлаас илүү нөлөөлөх; гэрээнд байхгүй онцгой эрх шаардах; тамхи, архи, вейп, мөрийтэй тоглоомын бүтээгдэхүүн сурталчлах; багуудын бүтээлд эрх шаардах. Багууд бүтээлээ өөрсдөө өмчилнө.
 
