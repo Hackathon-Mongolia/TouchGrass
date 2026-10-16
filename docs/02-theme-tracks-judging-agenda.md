@@ -1,5 +1,5 @@
 # Touch Grass — Theme, Tracks, Judging and Agenda
-## A 24-hour youth hackathon · November 7–8, 2026
+## A 24-hour youth hackathon · November 28–29, 2026
 
 Prepared October 7, 2026. Updated October 10, 2026.
 
@@ -30,7 +30,7 @@ Why this theme works for both audiences:
 Three mechanisms, all cheap to run:
 
 1. **Problem statements, not themes.** Teams do not pick "air pollution." They pick one of four statements inside the track, each with a named user and a verb. "Help a parent decide whether a child walks to school today" and "Help a school principal decide when to keep classes indoors" are different products.
-2. **The track board.** At team formation on Saturday, each team claims one statement on a public board. A statement closes after three claims. Teams that share a statement must declare a different target user or approach on the board, in one line, before 16:00.
+2. **The track board.** At team formation on Saturday, each team claims one statement on a public board. A statement closes after three claims. Teams that share a statement must declare a different target user or approach on the board, in one line, before 14:00.
 3. **The rubric rewards fit, not ambition.** Twenty percent of the score is "solves the stated problem for the stated user." A beautiful product aimed at nobody loses to a rough one aimed at the right person.
 
 Expected spread for 55 teams: about 9 per track, 2 to 3 per statement.
@@ -119,7 +119,7 @@ Twenty-four statements, four per track. Each states a problem and who has it, ne
 23. **Can we trust this sensor?** — Cheap air sensors are everywhere, and some of them are wrong. Help tell good data from bad.
 24. **Leave a dataset behind** — Air, weather and health data sit in different places and formats. Join them so the next team can build on them.
 
-Track sponsors may replace one statement in their track with their own, agreed by October 28.
+Track sponsors may replace one statement in their track with their own, agreed by November 18.
 
 ---
 
@@ -127,15 +127,15 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 **Eligibility.** Students aged 14 to 20 enrolled in a secondary school, university or college in Mongolia. Under-18s bring a signed parental consent form covering the overnight. Organizers, judges and mentors do not compete.
 
-**Teams.** Two to four people. Form before the event or at team formation Saturday 14:30. One team per person, one submission per team, one track per team.
+**Teams.** Two to four people. Form before the event or at team formation Saturday 12:30. One team per person, one submission per team, one track per team.
 
-**Building.** Everything is built between Saturday 15:00 and Sunday 15:00. Public libraries, frameworks, APIs, templates, AI assistants and open datasets are allowed; say what you used. Pre-existing code, work by people not on the team, and copying another team are not allowed. Judges may inspect repository history.
+**Building.** Everything is built between Saturday 13:00 and Sunday 13:00. Public libraries, frameworks, APIs, templates, AI assistants and open datasets are allowed; say what you used. Pre-existing code, work by people not on the team, and copying another team are not allowed. Judges may inspect repository history.
 
 **Ownership.** Teams own what they build. Copyright is theirs automatically and transfers only by written agreement. Sponsors and organizers get no rights; we ask before publicizing a project beyond the results post.
 
 **Code of conduct.** Respect, no harassment, no alcohol, drugs or smoking, venue rules, quiet hours 01:00 to 06:00, single-gender supervised sleeping rooms, no leaving the building 22:00 to 07:00 without a parent. Organizers act immediately, up to removal.
 
-**Submission, Sunday 15:00 sharp.** Project page on [Devpost or form] with: track, the problem and who has it, what it does, a live demo plus a 2-minute video or screenshots as backup, repository link, tools and data used.
+**Submission, Sunday 13:00 sharp.** Project page on [Devpost or form] with: track, the problem and who has it, what it does, a live demo plus a 2-minute video or screenshots as backup, repository link, tools and data used.
 
 **Rubric, each criterion scored 1 to 5, weights in brackets.**
 
@@ -148,31 +148,31 @@ Track sponsors may replace one statement in their track with their own, agreed b
 | Design and usability | 15% | usable without explanation by the target user |
 | Creativity | 15% | an approach the judges have not seen |
 
-**Process.** Each track has a panel of three judges: one engineer or scientist, one professional from the track's field (healthcare, environment, education, social work or AI), one sponsor representative. From 15:30 to 17:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track (five), plus the highest non-winner if the judges agree its score is close to a winner's, present on stage for 5 minutes each: five or six finalists. The full panel of 15 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves a real problem" score wins. No judge scores a team from their own school or company.
+**Process.** Each track has a panel of three judges: one engineer or scientist, one professional from the track's field (healthcare, environment, education, social work or AI), one sponsor representative. From 13:30 to 15:00 Sunday the panel visits every team in its track at the table: 3 minutes demo, 2 minutes questions. Judges score independently; scores are averaged. The highest team per track (five), plus the highest non-winner if the judges agree its score is close to a winner's, present on stage for 5 minutes each: five or six finalists. The full panel of 15 scores the finals on the same rubric for the overall top three. Ties: 3-minute discussion, then the higher "solves a real problem" score wins. No judge scores a team from their own school or company.
 
-**Prizes.** A cash pool for the overall top three of at least 5,000,000 MNT, split 50 / 30 / 20, paid to the team by Uram Enerel with 5 percent personal income tax withheld. The pool grows with every prize-pool sponsor; the final size is announced on October 26, after commitments close. Internal target 15,000,000. Five track awards: 2,000,000 MNT to each track-winning team, paid from the track sponsorship (5 percent tax withheld), plus a certificate. Three awards across all tracks, as at Stanford's TreeHacks: Most Creative, Most Impactful and Most Technically Complex, each with a certificate and a prize from a prize sponsor; the full judging panel picks them. A team can win one placed prize and one track or cross-track award.
+**Prizes.** A cash pool for the overall top three of at least 5,000,000 MNT, split 50 / 30 / 20, paid to the team by Uram Enerel with 5 percent personal income tax withheld. The pool grows with every prize-pool sponsor; the final size is announced on November 16, after commitments close. Internal target 15,000,000. Five track awards: 2,000,000 MNT to each track-winning team, paid from the track sponsorship (5 percent tax withheld), plus a certificate. Three awards across all tracks, as at Stanford's TreeHacks: Most Creative, Most Impactful and Most Technically Complex, each with a certificate and a prize from a prize sponsor; the full judging panel picks them. A team can win one placed prize and one track or cross-track award.
 
 ---
 
 ## 6. Agenda
 
-24 hours of hacking, Saturday 15:00 to Sunday 15:00, so participants taking the SAT on Saturday morning can come. Venue access needed Saturday 12:00 to Sunday 20:30. **Plan B** if overnight is refused: Saturday 13:00 to 21:00 and Sunday 09:00 to 19:00, submissions Sunday 15:00, everything else unchanged.
+24 hours of hacking, Saturday 13:00 to Sunday 13:00. Venue access needed Saturday 10:00 to Sunday 18:30. **Plan B** if overnight is refused: Saturday 11:00 to 21:00 and Sunday 09:00 to 17:00, submissions Sunday 13:00, everything else unchanged.
 
-### Saturday November 7
+### Saturday November 28
 
 | Time | What |
 |---|---|
-| 12:00 | Organizers arrive. 55 tables, 60 power strips, signage, check-in desk, projector and wifi test, sleeping rooms labeled, track board up |
-| 12:30 | Volunteers and day mentors arrive; 15-minute briefing |
-| 13:00 | Doors. Check-in on four lines by surname. Snacks and water out |
-| 14:00 | Opening, 30 minutes: welcome from Hackathon Mongolia; Uram Enerel and [government body]; Platinum sponsors, 2 minutes each; the five tracks in one minute each by their Gold sponsors or the organizers; rules, schedule, safety and overnight rules |
-| 14:30 | Team formation: solo participants pitch for 60 seconds; teams write their name under a track on the board |
-| 15:00 | **Hacking starts.** Clock starts. Lunch boxes at tables |
-| 16:00 | Track board closes |
-| 16:30 | Workshop 1, 30 min: "Where Ulaanbaatar's health and environment data actually is," with live API calls |
-| 18:00 | Mentor hour: mentors walk every table |
+| 10:00 | Organizers arrive. 55 tables, 60 power strips, signage, check-in desk, projector and wifi test, sleeping rooms labeled, track board up |
+| 10:30 | Volunteers and day mentors arrive; 15-minute briefing |
+| 11:00 | Doors. Check-in on four lines by surname. Snacks and water out |
+| 12:00 | Opening, 30 minutes: welcome from Hackathon Mongolia; Uram Enerel and [government body]; Platinum sponsors, 2 minutes each; the five tracks in one minute each by their Gold sponsors or the organizers; rules, schedule, safety and overnight rules |
+| 12:30 | Team formation: solo participants pitch for 60 seconds; teams write their name under a track on the board |
+| 13:00 | **Hacking starts.** Clock starts. Lunch boxes at tables |
+| 14:00 | Track board closes |
+| 14:30 | Workshop 1, 30 min: "Where Ulaanbaatar's health and environment data actually is," with live API calls |
+| 16:00 | Mentor hour: mentors walk every table |
+| 17:30 | Workshop 2, 30 min: "How to demo in 3 minutes" |
 | 19:00 | Dinner |
-| 19:45 | Workshop 2, 30 min: "How to demo in 3 minutes" |
 | 20:30 | Mini-event, 20 min |
 | 21:00 | Sign-out window: under-18s going home leave with their pickup, logged |
 | 22:00 | Night briefing for the overnight adult shift; quiet zone opens |
@@ -182,42 +182,40 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 | Time | What |
 |---|---|
-| 01:00 | Quiet hours begin: no music, no mic. Sleeping rooms open. Two adults awake per 100 participants, one floor walk every 30 minutes, night mentor on call in the chat |
-| 03:00 | Halfway point, posted in the chat |
+| 01:00 | Halfway time check. Quiet hours begin: no music, no mic. Sleeping rooms open. Two adults awake per 100 participants, one floor walk every 30 minutes, night mentor on call in the chat |
 | 06:30 | Lights up, coffee out |
 | 07:00 | Breakfast |
 
-### Sunday November 8
+### Sunday November 29
 
 | Time | What |
 |---|---|
 | 09:00 | Day shift takes over; sleeping rooms cleared by 09:30 |
-| 10:00 | Participants who went home are back |
-| 12:00 | Three-hour time check; what a submission needs |
+| 10:00 | Participants who went home are back. Three-hour time check; what a submission needs |
+| 11:00 | Judges arrive. Judge briefing, 30 min, side room: rubric, track assignments, timing |
+| 12:00 | One-hour warning. Submission form on screen |
 | 12:15 | Lunch at tables |
-| 13:00 | Judges arrive. Judge briefing, 30 min, side room: rubric, track assignments, timing |
-| 14:00 | One-hour warning. Submission form on screen |
-| 14:45 | Fifteen-minute warning |
-| 15:00 | **Submission deadline. Hacking stops.** Tables stay set for judging |
-| 15:15 | Judging instructions to everyone |
-| 15:30 | Track judging at tables: each panel visits its 9 teams, 5 minutes each, timekeeper per panel |
-| 17:00 | Scores tallied by two people independently; eight finalists announced |
-| 17:15 | Finals: 8 teams × 5 minutes on stage, full panel scoring |
-| 18:00 | Judges deliberate; audience: sponsor thanks |
-| 18:20 | Awards: Most Creative, Most Impactful, Most Technically Complex, five track awards presented by track sponsors, then third, second and first from the cash pool, first presented by the title sponsor |
-| 18:50 | Group photo. Survey link on screen |
-| 19:00 | Close. Pickups at the door; adult lead stays until the last participant leaves |
-| 19:30 | Cleanup; venue handed back by 20:30 |
+| 12:45 | Fifteen-minute warning |
+| 13:00 | **Submission deadline. Hacking stops.** Tables stay set for judging |
+| 13:15 | Judging instructions to everyone |
+| 13:30 | Track judging at tables: each panel visits its 9 teams, 5 minutes each, timekeeper per panel |
+| 15:00 | Scores tallied by two people independently; eight finalists announced |
+| 15:15 | Finals: 8 teams × 5 minutes on stage, full panel scoring |
+| 16:00 | Judges deliberate; audience: sponsor thanks |
+| 16:20 | Awards: Most Creative, Most Impactful, Most Technically Complex, five track awards presented by track sponsors, then third, second and first from the cash pool, first presented by the title sponsor |
+| 16:50 | Group photo. Survey link on screen |
+| 17:00 | Close. Pickups at the door; adult lead stays until the last participant leaves |
+| 17:30 | Cleanup; venue handed back by 18:30 |
 
 ---
 
 ## 7. Participants, mentors, judges
 
-**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Recruitment runs through the website and the organizers' own networks, not through schools. Participation is 45,000 MNT per person, paid to Uram Enerel NGO. Registration opens October 17 and closes November 3.
+**Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. Mostly secondary school students, plus first- and second-year university students, from 25+ institutions; most participants are under 18. Recruitment runs through the website and the organizers' own networks, not through schools. Participation is 45,000 MNT per person, paid to Uram Enerel NGO. Registration opens October 17 and closes November 24.
 
-**Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by October 30.
+**Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by November 20.
 
-**Judges, 15.** Three per track (five tracks): one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by October 30, brief on November 6 and again at 13:00 on the day.
+**Judges, 15.** Three per track (five tracks): one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by November 20, brief on November 27 and again at 11:00 on the day.
 
 **Workshop speakers, 2.** One for data sources, one for demos. Can be mentors.
 
