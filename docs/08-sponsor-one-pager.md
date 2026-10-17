@@ -5,7 +5,7 @@
 
 **When and where.** Saturday November 28, 13:00, to Sunday November 29, 13:00; awards Sunday afternoon. Ulaanbaatar, venue confirmed by November 4.
 
-**Who.** Founded and organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. Legally hosted by **Uram Enerel NGO (Uram Care)**, a registered youth health NGO, which signs contracts, receives funds and issues receipts.
+**Who.** Founded and organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. Legally hosted by **Uram Enerel NGO (Uram Care)**, a registered youth health NGO, which signs contracts, receives funds and issues receipts. **GDG Ulaanbaatar** (Google Developer Group Ulaanbaatar) is our community partner, providing judges and mentors.
 
 **Prizes.** Top three teams share a cash pool of at least 5,000,000 MNT, split 50 / 30 / 20 · each of the five track winners receives 2,000,000 MNT · three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
 
