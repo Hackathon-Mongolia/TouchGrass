@@ -31,7 +31,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 28 to Sunday Novembe
 | Dates | Sat Nov 28 – Sun Nov 29, 2026 |
 | Format | 24-hour hack, Sat 13:00 → Sun 13:00, overnight at the venue; Plan B daytime split if overnight refused |
 | Scale | 220+ attending, plan for 260 registrations, cap 300 |
-| Audience | students 16–24, high school and university, free entry |
+| Audience | ages 16–26: high school and university students, gap-year students and young builders; 45,000 MNT fee |
 | Theme | broad, TreeHacks model: Healthcare, Sustainability, Education, Humanity, AI; no problem list |
 | Organizers | Hackathon Mongolia, a student collective (GitHub org Hackathon-Mongolia, not a registered entity), runs the program; Uram Enerel NGO (Uram Care), registered and government-recognized, is the legal host |
 | Legal host | Uram Enerel NGO: signs contracts, receives funds, pays vendors, issues e-barimt, reports |

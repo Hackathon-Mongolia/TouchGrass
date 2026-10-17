@@ -26,7 +26,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 | Name | Touch Grass. The internet's phrase for "go outside," aimed at a country where the environment is a health decision |
 | Dates | Saturday November 28, doors 11:00, hacking from 13:00 → Sunday November 29, submissions 13:00, awards 16:20, close 17:00 |
 | Place | [venue, address] |
-| Participants | 220+ students aged 16 to 24, high school and university, free entry; under-18s with parental consent; overnight at the venue with adult supervision |
+| Participants | 220+ participants aged 16 to 26: high school and university students and young builders; 45,000 MNT fee; under-18s with parental consent; overnight at the venue with adult supervision |
 | Teams | about 55, of two to four |
 | Tracks | five: Healthcare · Sustainability · Education · Humanity · AI; software only |
 | Judging | one three-judge panel per track visits every team; the five track winners plus at most one wildcard (five or six teams) present on stage; the full panel picks the overall top three |
@@ -118,7 +118,7 @@ What the words mean in practice:
 
 **Arrival.** Report to the organizer desk at the entrance; you receive a sponsor badge and a host from the organizing team who stays with you. [Parking and entrance details.]
 
-**Speaking.** Five minutes for the opening, fifteen for a workshop. A clicker and HDMI are on the stage; send slides as PDF by November 26. The audience is 220 students aged 16 to 24 at the start of 24 hours of work.
+**Speaking.** Five minutes for the opening, fifteen for a workshop. A clicker and HDMI are on the stage; send slides as PDF by November 26. The audience is 220 participants aged 16 to 26 at the start of 24 hours of work.
 
 **Judging.** Sunday from 13:30, your judge visits the eleven teams in their track with two co-judges and a timekeeper: three minutes of demo, two of questions per team, scoring on the rubric sheet. At 15:00 scores are tallied and eight finalists announced; the finals run 15:15 to 16:00 on stage; the full panel confers and awards start at 16:20. Judges do not score teams from their own company or school, and the rubric, not the sponsor, decides the track winner.
 

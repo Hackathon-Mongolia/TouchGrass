@@ -13,7 +13,7 @@
 
 **Who runs it.** Touch Grass was founded and is organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. **Hackathon Mongolia**, their student organizing team, designs and runs the program. **Uram Enerel NGO**, known as Uram Care, a registered youth health NGO with volunteers and school chapters across Mongolia, is the legal host: contracts, funds, receipts, reporting. A responsible adult from Uram Enerel NGO is on site for the full 24 hours. **GDG Ulaanbaatar** (Google Developer Group Ulaanbaatar) is our community partner, providing judges and mentors.
 
-**Who comes.** Secondary school and university students aged 14 to 20, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, AI professionals and sponsor representatives.
+**Who comes.** People aged 16 to 26: high school and university students, gap-year students and young people who already work, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, AI professionals and sponsor representatives.
 
 **The ask.** Five to six **Platinum** sponsors at 5,000,000 MNT or more; five **Gold** sponsors at 2,000,000 MNT, one per track, whose money becomes that track's cash prize; and **Silver** sponsors at 1,000,000 to 2,000,000 MNT or in kind for food, shirts and services. The prize pool for the top three teams starts at 5,000,000 MNT and grows with Platinum commitments; each of the five track winners receives 2,000,000 MNT. **Commitments close November 15, 2026.**
 
@@ -37,7 +37,7 @@
 |---|---|
 | Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; in English |
 | Hacking window | Saturday 13:00 to Sunday 13:00 |
-| Participants | 220+ students aged 14 to 20; 45,000 MNT participation fee; parental consent for under-18s |
+| Participants | 220+ participants aged 16 to 26; 45,000 MNT participation fee; parental consent for under-18s |
 | Tracks | five: Healthcare, Sustainability, Education, Humanity, AI; software only; teams build anything inside a track, as at TreeHacks |
 | Support | two workshops Saturday, mentor hours, a night mentor on call |
 | Judging | one three-judge panel per track visits every team; the five track winners, plus one wildcard if the scores call for it, present on stage; the full panel picks the top three |

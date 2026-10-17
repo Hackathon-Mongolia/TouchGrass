@@ -26,7 +26,7 @@ Most of us have run a Model United Nations conference. A hackathon has the same 
 | Dates | Saturday November 28 → Sunday November 29, 2026 |
 | Times | organizers 10:00 Sat; doors 11:00; opening 12:00; hacking 13:00 Sat → 13:00 Sun; judging 13:30; finals 15:15; awards 16:20; close 17:00; venue back 18:30 |
 | Place | [venue, address] |
-| Participants | 220+ students aged 14 to 20, most of them under 18; about 55 teams; under-18s with parental consent; overnight at the venue |
+| Participants | 220+ participants aged 16 to 26, some of them under 18; about 55 teams; under-18s with parental consent; overnight at the venue |
 | Theme | broad, on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity, AI; software only; no problem list |
 | Prizes | cash pool for the top three, at least 5,000,000 MNT, 50 / 30 / 20; five track awards of 2,000,000 MNT each; three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex |
 | Organizers | Hackathon Mongolia (program) and Uram Enerel NGO, Uram Care (legal host, money, contracts) |
