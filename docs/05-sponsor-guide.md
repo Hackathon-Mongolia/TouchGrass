@@ -30,7 +30,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 | Teams | about 55, of two to four |
 | Tracks | five: Healthcare · Sustainability · Education · Humanity · AI; software only |
 | Judging | one three-judge panel per track visits every team; the five track winners plus at most one wildcard (five or six teams) present on stage; the full panel picks the overall top three |
-| Prizes | cash pool for the top three of at least 5,000,000 MNT, split 50 / 30 / 20, growing with sponsor commitments; 2,000,000 MNT to each of the five track winners; three cross-track awards |
+| Prizes | cash pool for the top three of at least 5,000,000 MNT, split 50 / 30 / 20, growing with sponsor commitments; a prize in kind from the track sponsor for each of the five track winners; three cross-track awards |
 | Organizers | Hackathon Mongolia, a student organizing collective, runs the program. Uram Enerel NGO (Uram Care), a registered youth health NGO with 1,500+ volunteers and 15+ school chapters, is the legal host |
 | Recognition | [government body, form] |
 | Responsible adult | [name, title], on site throughout |
@@ -60,7 +60,7 @@ What comes out of it: 55 prototypes with public project pages, photos and video,
 | Tier | MNT | What you get |
 |---|---|---|
 | **Platinum** (5–6) | 5,000,000 and up, or a venue or service of that value in kind | largest logo everywhere, on all 220 shirts and the stage; opening remarks; a 15-minute workshop; a judge on the final panel; you present one of the top-three prizes; a recruiting table and opt-in participant CVs |
-| **Gold · Track** (5) | 2,000,000 | a track carries your name ("Healthcare track by [You]"); your 2,000,000 is that track's cash prize, which you hand to the winning team; a judge on its panel; an optional challenge you set; logo on the shirt and website |
+| **Gold · Track** (5) | 2,000,000 | a track carries your name ("Healthcare track by [You]"); your 2,000,000 goes into the top-three prize pool, and you give your track's winning team a prize of your own (products, credits, a pilot or mentoring), handed over on stage; a judge on its panel; an optional challenge you set; logo on the shirt and website |
 | **Silver** | 1,000,000 to 2,000,000, or in kind | food and catering, shirts, printing, devices, cloud credits or media; logo on the website and signage; thanks from the stage ("Meals by [You]" for food) |
 
 What the words mean in practice:
