@@ -7,14 +7,14 @@
 
 **Who.** Founded and organized by **Anar Tuvshinbayar** and **Goomaral Sandag-Ochir**. Legally hosted by **Uram Enerel NGO (Uram Care)**, a registered youth health NGO, which signs contracts, receives funds and issues receipts. **GDG Ulaanbaatar** (Google Developer Group Ulaanbaatar) is our community partner, providing judges and mentors.
 
-**Prizes.** Top three teams share a cash pool of at least 5,000,000 MNT, split 50 / 30 / 20 · each of the five track winners receives its track sponsor's prize in kind · three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
+**Prizes.** Top three teams share a cash pool of at least 5,000,000 MNT, split 50 / 30 / 20 · each of the five track winners receives 2,000,000 MNT · three awards across all tracks: Most Creative, Most Impactful, Most Technically Complex.
 
 **Why sponsor.** Put your name in front of 220 of the country's most driven young builders and the judges, mentors and media around them. Meet future customers and hires, and leave with the winning prototypes in your field.
 
 | Tier | MNT | What you get |
 |---|---|---|
 | **Platinum** (5–6) | 5,000,000 and up, or a venue or service of that value in kind | largest logo everywhere, on all 220 shirts and the stage; opening remarks; a 15-minute workshop; a judge on the final panel; you present one of the top-three prizes; a recruiting table and opt-in participant CVs |
-| **Gold · Track** (5) | 2,000,000 | a track carries your name ("Healthcare track by [You]"); your 2,000,000 goes into the top-three prize pool, and you give your track's winning team a prize of your own (products, credits, a pilot or mentoring), handed over on stage; a judge on its panel; an optional challenge you set; logo on the shirt and website |
+| **Gold · Track** (5) | 2,000,000 | a track carries your name ("Healthcare track by [You]"); your 2,000,000 is that track's cash prize, which you hand to the winning team; a judge on its panel; an optional challenge you set; logo on the shirt and website |
 | **Silver** | 1,000,000 to 2,000,000, or in kind | food and catering, shirts, printing, devices, cloud credits or media; logo on the website and signage; thanks from the stage ("Meals by [You]" for food) |
 
 Every sponsor: logo on the website and results post, event photos, and a report with numbers within a week.

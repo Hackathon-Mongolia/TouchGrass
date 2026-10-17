@@ -38,7 +38,7 @@ Prepared Wednesday October 7, 2026. Event Saturday November 28 to Sunday Novembe
 | Recognition | through Uram Enerel: [government body], [form]; Hackathon Mongolia itself has no registration and needs none |
 | Main organizers | [co-organizer] and Anar |
 | Teams | logistics, finance, marketing, operations |
-| Prizes | cash pool for the top three, 50 / 30 / 20; public floor 5,000,000 MNT, internal target 15,000,000; final size announced Nov 16; each of five track winners gets its track sponsor's prize in kind (products, credits, a pilot or mentoring); the five Gold sponsors' 2,000,000 each goes into the top-three pool |
+| Prizes | cash pool for the top three, 50 / 30 / 20; public floor 5,000,000 MNT, internal target 15,000,000; final size announced Nov 16; each of five track winners gets 2,000,000 MNT from the track sponsorship |
 | Venue budget | 20,000,000 MNT for two days including overnight, unless a venue partner gives the hall in kind |
 | Wifi | provided by the venue; confirm capacity for 350 devices at the walk-through |
 
@@ -168,6 +168,7 @@ Cash flows only through Uram Enerel NGO. Figures below use the organizers' estim
 |---|---|---|
 | Venue, two days including overnight | 20,000,000 | estimate; zero if a venue partner gives the hall in kind |
 | Cash prize pool, top three, 50 / 30 / 20 | 15,000,000 target; 5,000,000 floor | at the target 7.5M / 4.5M / 3M; at the floor 2.5M / 1.5M / 1M; 5% personal income tax withheld by Uram Enerel on payout |
+| Track prizes, five winners × 2,000,000 | 10,000,000 | paid by the five Gold sponsors, 2,000,000 each; an unsold track's prize comes from the general budget |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 | about 37,700 per person over 24 hours; tight, so boxed lunches and a hot dinner, and ask the food sponsor for catering in kind to top it up |
 | Judges, designers, finance support | 3,000,000 | honoraria and design work; judges from sponsors cost nothing |
 | T-shirts, 220 | 3,300,000 | one-colour print on a plain tee runs about 12,000–18,000 each at 200+; two-colour or heavier cotton 20,000+ |
@@ -178,9 +179,9 @@ Cash flows only through Uram Enerel NGO. Figures below use the organizers' estim
 | Printing and signage | 700,000 | posters, table numbers, track board, judge sheets, certificates |
 | First aider, 24 hours | 300,000 | |
 | Wifi | 0 | provided by the venue |
-| Subtotal | 57,500,000 | |
-| Contingency 10% | 5,750,000 | |
-| **Total** | **63,250,000 at the prize target; 52,250,000 at the floor** | **about 20,000,000 less if the venue is in kind** |
+| Subtotal | 67,500,000 | |
+| Contingency 10% | 6,750,000 | |
+| **Total** | **74,250,000 at the prize target; 63,250,000 at the floor** | **about 20,000,000 less if the venue is in kind** |
 
 Scaling: 180 attending saves about 900,000 on shirts and badges and nothing else; 260 adds about 1,200,000. Venue and prizes are fixed, so headcount barely moves this budget. What moves it is whether the hall is paid or given.
 
@@ -188,11 +189,11 @@ Scaling: 180 attending saves about 900,000 on shirts and badges and nothing else
 
 | Source | Amount | Notes |
 |---|---|---|
-| Platinum sponsors | 25,000,000 to 30,000,000 | five or six × 5,000,000 or more; covers the venue, food and running costs; a venue giving the hall in kind counts as Platinum |
-| Gold track sponsors | 10,000,000 | five × 2,000,000, all into the top-three prize pool; each also gives its own track's winner a prize in kind |
+| Platinum sponsors | 25,000,000 to 30,000,000 | five or six × 5,000,000 or more; covers the venue and the top-three pool; a venue giving the hall in kind counts as Platinum |
+| Gold track sponsors | 10,000,000 | five × 2,000,000; each pays its own track's prize |
 | Silver sponsors | food in kind plus 1,000,000 to 2,000,000 each | catering, shirts, printing, devices, media |
 | Participation fees | about 9,900,000 | 45,000 × about 220 |
-| **Cash target** | **58,000,000 with a paid venue and the 15M prize target; 38,000,000 with the hall in kind** | |
+| **Cash target** | **68,000,000 with a paid venue and the 15M prize target; 48,000,000 with the hall in kind** | |
 
 Cash timing matters more than the total: the venue wants a deposit before sponsor money arrives. Ask a Platinum sponsor to pay the venue directly, or have the NGO bridge the deposit against signed contracts.
 

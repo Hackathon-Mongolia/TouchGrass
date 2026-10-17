@@ -15,7 +15,7 @@
 
 **Who comes.** People aged 16 to 26: high school and university students, gap-year students and young people who already work, from 25+ institutions; participation is 45,000 MNT per person. Mentors from industry and universities; a judging panel of engineers, doctors, educators, AI professionals and sponsor representatives.
 
-**The ask.** Five to six **Platinum** sponsors at 5,000,000 MNT or more; five **Gold** sponsors at 2,000,000 MNT, one per track, whose money goes into the top-three prize pool and who give their own track's winner a prize in kind (products, credits, a pilot or mentoring); and **Silver** sponsors at 1,000,000 to 2,000,000 MNT or in kind for food, shirts and services. The prize pool for the top three teams starts at 5,000,000 MNT and grows with every Gold and Platinum commitment; each of the five track winners receives its track sponsor's prize. **Commitments close November 15, 2026.**
+**The ask.** Five to six **Platinum** sponsors at 5,000,000 MNT or more; five **Gold** sponsors at 2,000,000 MNT, one per track, whose money becomes that track's cash prize; and **Silver** sponsors at 1,000,000 to 2,000,000 MNT or in kind for food, shirts and services. The prize pool for the top three teams starts at 5,000,000 MNT and grows with Platinum commitments; each of the five track winners receives 2,000,000 MNT. **Commitments close November 15, 2026.**
 
 ---
 
@@ -53,7 +53,7 @@
 | Tier | MNT | Slots | What you get |
 |---|---|---|---|
 | **Platinum** | 5,000,000 and up, or a venue or service of that value in kind | 5–6 | largest logo everywhere, on all 220 shirts and the stage; opening remarks; a 15-minute workshop; a judge on the final panel; you present one of the top-three prizes; a recruiting table and opt-in participant CVs |
-| **Gold · Track** | 2,000,000 | 5, one per track | a track carries your name ("Healthcare track by [You]"); your 2,000,000 goes into the top-three prize pool, and you give your track's winning team a prize of your own (products, credits, a pilot or mentoring), handed over on stage; a judge on its panel; an optional challenge you set; logo on the shirt and website |
+| **Gold · Track** | 2,000,000 | 5, one per track | a track carries your name ("Healthcare track by [You]"); your 2,000,000 is that track's cash prize, which you hand to the winning team; a judge on its panel; an optional challenge you set; logo on the shirt and website |
 | **Silver** | 1,000,000 to 2,000,000, or in kind | open | food and catering, shirts, printing, devices, cloud credits or media; logo on the website and signage; thanks from the stage ("Meals by [You]" for food) |
 
 Every sponsor receives a logo on the website and results post, a mention in the report, event photographs, and a thank-you from the stage. Wifi is provided by the venue.
@@ -67,12 +67,13 @@ Every sponsor receives a logo on the website and results post, a mention in the 
 | Venue, two days including overnight | 20,000,000 |
 | Food, five meals and snacks for 220 participants and 45 staff | 10,000,000 |
 | Prize pool for the top three, split 50 / 30 / 20 | 5,000,000 minimum, target 15,000,000 |
+| Track prizes, 2,000,000 for each of five track winners, paid by the five Gold sponsors | 10,000,000 |
 | T-shirts, stickers, badges | 4,400,000 |
 | Judges, designers, finance support | 3,000,000 |
 | Power, supplies, first aid, printing, signage | 3,200,000 |
 | Photography, security, cleaning, first aider | 1,900,000 |
-| Contingency 10% | 4,750,000 to 5,750,000 |
-| **Total** | **52,000,000 to 63,000,000**, about 20,000,000 less if the hall is in kind |
+| Contingency 10% | 5,750,000 to 6,750,000 |
+| **Total** | **63,000,000 to 74,000,000**, about 20,000,000 less if the hall is in kind |
 
 Participation fees (45,000 MNT for about 220 students) cover about 9,900,000 of this; sponsors cover the rest. All payments go through Uram Enerel's account with receipts. The itemized ledger goes to every sponsor in the final report.
 
