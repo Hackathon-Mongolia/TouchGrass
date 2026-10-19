@@ -7,7 +7,7 @@ Ulaanbaatar · Saturday November 28 – Sunday November 29, 2026 · 220+ student
 
 ## Who runs it
 
-A collaboration between two organizations. **Hackathon Mongolia**, this GitHub organization, is a student-run collective that designs and runs the program; it is not a registered entity and holds no money. **Uram Enerel NGO**, known publicly as Uram Care, is a registered, government-recognized youth health NGO with 1,500+ volunteers and 15+ school chapters across Mongolia; it is the legal host: contracts, bank account, receipts, government letters, school outreach, health-side judges.
+A collaboration between two organizations. **Hackathon Mongolia**, this GitHub organization, is a student-run collective that designs and runs the program; it is not a registered entity and holds no money. **Uram Enerel NGO**, known publicly as Uram Care, is a registered, government-recognized youth health NGO with 1,500+ volunteers and 15+ school chapters across Mongolia; it is the legal host: contracts, bank account, receipts, government letters, school outreach, health-side judges. **GDG Ulaanbaatar** (Google Developer Group Ulaanbaatar) is the community partner, providing judges and mentors.
 
 ## Documents
 
@@ -24,13 +24,13 @@ A collaboration between two organizations. **Hackathon Mongolia**, this GitHub o
 
 | Gate | Date |
 |---|---|
-| Registration opens | Mon Oct 12 |
-| Venue confirmed, overnight included | Wed Oct 14 |
+| Registration opens | Sat Oct 17 |
+| Venue confirmed, overnight included | Wed Nov 4 |
 | Sponsor commitments close | Sun Nov 15 |
 | Night-shift adults confirmed | Tue Nov 17 |
 | Registration closes, headcount final | Tue Nov 24 |
 | Briefings and setup | Fri Nov 27 |
-| Event | Sat Dec 19 13:00 → Sun Dec 20 13:00, awards 16:20 |
+| Event | Sat Nov 28 13:00 → Sun Nov 29 13:00, awards 16:20 |
 | Report to sponsors | Fri Dec 4 |
 
 ## Teams

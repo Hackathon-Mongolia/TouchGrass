@@ -213,9 +213,9 @@ Track sponsors may replace one statement in their track with their own, agreed b
 
 **Participants.** Target 260 registrations for 220 attending; cap at 300 with a waitlist. High school and university students and young builders, from 25+ institutions; some participants are under 18. Recruitment runs through the website and the organizers' own networks, not through schools. Participation is 45,000 MNT per person, paid to Uram Enerel NGO. Registration opens October 17 and closes November 24.
 
-**Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. Ask by October 16, confirm by November 20.
+**Mentors, 20.** University students and engineers, at least two per track, three willing to stay past midnight. GDG Ulaanbaatar (Google Developer Group), our community partner, provides 8–10 of them; we find the rest. Ask by October 16, confirm by November 20.
 
-**Judges, 15.** Three per track (five tracks): one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by November 20, brief on November 27 and again at 11:00 on the day.
+**Judges, 15.** Three per track (five tracks), five of them from GDG Ulaanbaatar: one engineer or data scientist, one health or environment professional (Uram Care's network, MNUMS, hospitals, the air pollution agency, environmental NGOs), one sponsor representative. Ask by October 16, confirm by November 20, brief on November 27 and again at 11:00 on the day.
 
 **Workshop speakers, 2.** One for data sources, one for demos. Can be mentors.
 
