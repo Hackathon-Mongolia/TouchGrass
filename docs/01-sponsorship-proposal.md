@@ -7,7 +7,7 @@
 
 ## Touch Grass in one page
 
-**What.** A 24-hour hackathon where 220+ young people in about 55 teams build working prototypes for real problems. Five tracks on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity and AI. Software only. The event runs in English. Teams start Saturday 13:00 and submit Sunday 13:00; professional judges score every team; the best in each track presents on stage.
+**What.** A 24-hour hackathon where 220+ young people in about 55 teams build working prototypes for real problems. Five tracks on the model of Stanford's TreeHacks: Healthcare, Sustainability, Education, Humanity and AI. Software only. Each team chooses to work and present in Mongolian or English. Teams start Saturday 13:00 and submit Sunday 13:00; professional judges score every team; the best in each track presents on stage.
 
 **When and where.** Saturday November 28 to Sunday November 29, 2026, in Ulaanbaatar; the venue is confirmed by November 4. Doors 11:00 Saturday, awards 16:20 Sunday.
 
@@ -35,7 +35,7 @@
 
 | | |
 |---|---|
-| Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; in English |
+| Format | 24 hours in person, overnight at the venue with adult supervision; teams of 2 to 4; Mongolian or English, each team's choice |
 | Hacking window | Saturday 13:00 to Sunday 13:00 |
 | Participants | 220+ participants aged 16 to 26; 45,000 MNT participation fee; parental consent for under-18s |
 | Tracks | five: Healthcare, Sustainability, Education, Humanity, AI; software only; teams build anything inside a track, as at TreeHacks |

@@ -1,7 +1,7 @@
 # Touch Grass
 ## Sponsorship at a glance · November 28–29, 2026 · Ulaanbaatar · hack-touchgrass.com
 
-**What.** A 24-hour hackathon for **220+ young people aged 16 to 26**, in teams of two to four. On the model of Stanford's TreeHacks, teams build working software in five tracks, **Healthcare · Sustainability · Education · Humanity · AI**, and professionals from each field judge them. The event runs in English.
+**What.** A 24-hour hackathon for **220+ young people aged 16 to 26**, in teams of two to four. On the model of Stanford's TreeHacks, teams build working software in five tracks, **Healthcare · Sustainability · Education · Humanity · AI**, and professionals from each field judge them. Each team chooses to work and present in Mongolian or English.
 
 **When and where.** Saturday November 28, 13:00, to Sunday November 29, 13:00; awards Sunday afternoon. Ulaanbaatar, venue confirmed by November 4.
 
